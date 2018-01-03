@@ -30,8 +30,8 @@ No lectures or classes will take place during School Reading Week 6.
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Overview and Fundamentals](#week-1-introduction-to-data)       | 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
-| 2        | [Week 2: [Descriptive methods for text analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
-| 3        | [Creating and managing databases](#week-3-creating-and-managing-databases)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
+| 2        | [Descriptive methods for text analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
+| 3        | [Methods for comparing texts](#week-3--quantitative-methods-for-comparing-texts)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
 | 4        | [Using data from the Internet](#week-4-using-data-from-the-internet)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
 | 5        | [Working with APIs](#week-5-working-with-apis)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
 | 6        | _Reading Week_                       |
