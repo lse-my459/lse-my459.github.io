@@ -168,20 +168,12 @@ types, tokens, and equivalencies. We will also discuss weighting
 strategies for features, such as *tf-idf*.
 
 *Reading:*
-
-\itemize
-\setlength{\itemsep}{0ex}
-@krippendorff:2013 [Chs. 9--10]
-
-[@Dunning:1993]
-
-[@daeubler+:2012]
+* krippendorff:2013 (Chs. 9--10)
+* Dunning:1993
+* daeubler+:2012
 
 *Further Reading:*
-
-\itemize
-\setlength{\itemsep}{0ex}
-[@dubay:2004]
+* dubay:2004
 
 *Exercise:*
 * Selecting, weighting, and summarizing texts and their features.
@@ -194,20 +186,12 @@ keyword identification, dissimilarity measures, association models, and
 vector-space models.
 
 *Reading:*
-
-\itemize
-\setlength{\itemsep}{0ex}
-@krippendorff:2013 [Ch. 10]
-
-[@lbml:2011]
-
-@Manningetal2008 [Section 6.3]
+* krippendorff:2013 (Ch. 10)
+* lbml:2011
+* Manningetal2008 (Section 6.3)
 
 *Further Reading:*
-
-\itemize
-\setlength{\itemsep}{0ex}
-[@Seale+:2006]
+* Seale+:2006
 
 *Exercise:*
 * Comparing texts and their features.
@@ -262,7 +246,7 @@ discusses where these methods are applicable.
 * Yuetal2008
 * Zumel+:2014 (Ch. 5--6)
 
-*Exercise:*:
+*Exercise:*
 * Classifying legal documents and legislative speeches.
 
 #### Week 7: [Supervised Scaling Models for Texts]()
@@ -282,7 +266,7 @@ regression to score and scale texts.
 * BenoitLaverResponse07
 * Lowe2008
 
-*Exercise:*:
+*Exercise:*
 * Scaling legal documents and legislative speeches.
 
 #### Week 8: [Unsupervised Models for Scaling Texts]()
@@ -301,7 +285,7 @@ the similarity to parametric (Poisson-scaling) models.
 *Further Reading:*
 * Clintonetal2004
 
-*Exercise:*:
+*Exercise:*
 * Using "Wordfish" and correspondence analysis to scale documents.
 
 
@@ -320,7 +304,7 @@ selection and weighting methods, especially *tf-idf*.
 * Corley:2005be
 * James+:2013 (Ch. 10.3)
 
-*Exercise:*:
+*Exercise:*
 * Clustering US presidential speeches; testing sentiment associations in
 movie reviews.
 
@@ -339,7 +323,7 @@ model.
 * Manningetal2008 (Ch. 16--17)
 * Roberts:2014esa
 
-*Exercise:*:
+*Exercise:*
 * Using LDA to estimate document topics in political party programmes.
 
 #### Week 11: [Working with Social Media]()
