@@ -179,7 +179,6 @@ strategies for features, such as *tf-idf*.
 * Selecting, weighting, and summarizing texts and their features.
 
 #### Week 3: [Quantitative methods for comparing texts]()
-------------------------------------------------
 
 Quantitative methods for comparing texts, through concordances and
 keyword identification, dissimilarity measures, association models, and
@@ -346,7 +345,7 @@ sentiment, networks, and locational information.
 *Exercise:*
 * Using Twitter to analyze sentiment in political blogs.
 
-#### References
+### References
 
 Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: {Bayesian} Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011).
 
