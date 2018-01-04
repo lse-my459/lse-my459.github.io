@@ -143,17 +143,17 @@ and stop-words.
 *Lecture Notes:*
 
 *Reading:*
-* Grimmerstewart:2013
-* Manningetal2008 (pp117--120)
+* Grimmer and Stewart (2013)
+* Manning, Raghavan and Schütze (2008, 117–120)
 
 *Further Reading:*
-* krippendorff:2013 (Ch. 1--2, 5, 7)
+* Manning, Raghavan and Schütze (2008, 117–120)
 * [Wikipedia entry on Character](http://en.wikipedia.org/wiki/Text_encoding)
-* Browse the different text file formats at http://www.fileinfo.com/filetypes/text
-* Neuendorf02 (Chs. 4-7)
-* krippendorff:2013 (Ch. 6)
+* Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
+* Neuendorf (2002, Chs. 4–7)
+* Krippendorff (2013, Ch. 6)
 
-*Exercise:*  
+*Exercise:*
 * Getting started with **quanteda**
 
 
@@ -168,12 +168,12 @@ types, tokens, and equivalencies. We will also discuss weighting
 strategies for features, such as *tf-idf*.
 
 *Reading:*
-* krippendorff:2013 (Chs. 9--10)
-* Dunning:1993
-* daeubler+:2012
+* Krippendorff (2013, Chs. 9–10)
+* Dunning (1993)
+* Däubler et al. (2012)
 
 *Further Reading:*
-* dubay:2004
+* DuBay (2004)
 
 *Exercise:*
 * Selecting, weighting, and summarizing texts and their features.
@@ -186,12 +186,12 @@ keyword identification, dissimilarity measures, association models, and
 vector-space models.
 
 *Reading:*
-* krippendorff:2013 (Ch. 10)
-* lbml:2011
-* Manningetal2008 (Section 6.3)
+* Krippendorff (2013, Ch. 10)
+* Lowe et al. (2011)
+* Manning, Raghavan and Schütze (2008, Section 6.3)
 
 *Further Reading:*
-* Seale+:2006
+* Seale, Ziebland and Charteris-Black (2006)
 
 *Exercise:*
 * Comparing texts and their features.
@@ -211,14 +211,14 @@ word stemming and trimming of words based on term and/or document
 frequency.
 
 *Reading:*
-* Neuendorf02 (Ch. 6)
-* LaverGarry2000
-* Rooduijn:2011ku
+* Neuendorf (2002, Ch. 6)
+* Laver and Garry (2000)
+* Rooduijn and Pauwels (2011)
 
 *Further Reading:*
-* pennebakerchung:2008
-* Tausczik+:2010
-* Loughran:2011bq
+• Pennebaker and Chung (2008)
+• Tausczik and Pennebaker (2010)
+• Loughran and McDonald (2011)
 
 *Exercise:*
 * Applying, modifying, and creating dictionaries for the analysis of
@@ -234,37 +234,37 @@ also introduces validation and reporting methods for classifiers and
 discusses where these methods are applicable.
 
 *Reading:*
-* Manningetal2008 (Ch. 13)
-* Lantz:2013 (Ch. 3--4)
-* evans+:2007
+* Manning, Raghavan and Schütze (2008, Ch. 13)
+* Lantz (2013, Ch. 3–4)
+* Evans et al. (2007)
 
 *Further Reading:*
-* Lantz:2013 (Ch. 10)
+* Lantz (2013, Ch. 10)
 * [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
 * An [online article by Paul Graham on classifying spam e-mail](http://www.paulgraham.com/spam.html).
 * Bionicspirit.com, 9 Feb 2012, ["How to Build a Naive Bayes Classifier."](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
-* Yuetal2008
-* Zumel+:2014 (Ch. 5--6)
+* Yu, Kaufmann and Diermeier (2008)
+* Zumel and Mount (2014, Ch. 5–6)
 
 *Exercise:*
 * Classifying legal documents and legislative speeches.
 
 #### Week 7: [Supervised Scaling Models for Texts]()
 
-Building on the Naive Bayes classifier, we introduce the "Wordscores"
-method of @lbg:2003 for scaling latent traits, and show the link between
-classification and scaling. We also cover applications of penalized
+Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
+Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
+between classification and scaling. We also cover applications of penalized
 regression to score and scale texts.
 
 *Reading:*
-* lbg:2003
-* evans+:2007
+* Laver, Benoit and Garry (2003)
+* Evans et al. (2007)
 
 *Further Reading:*
-* Perry and Benoit (2017)
-* MartinVanberg2007
-* BenoitLaverResponse07
-* Lowe2008
+* Benoit and Nulty (2013)
+* Martin and Vanberg (2007)
+* Benoit and Laver (2008)
+* Lowe (2008)
 
 *Exercise:*
 * Scaling legal documents and legislative speeches.
@@ -279,11 +279,11 @@ cover non-parametric methods such as correspondence analysis and discuss
 the similarity to parametric (Poisson-scaling) models.
 
 *Reading:*
-* SlapinProksch2008
-* lowebenoitPA2013
+* Slapin and Proksch (2008)
+* Lowe and Benoit (2013)
 
 *Further Reading:*
-* Clintonetal2004
+* Clinton, Jackman and Rivers (2004)
 
 *Exercise:*
 * Using "Wordfish" and correspondence analysis to scale documents.
@@ -296,13 +296,13 @@ hierarchical and k-means clustering. This topic also revisits feature
 selection and weighting methods, especially *tf-idf*.
 
 *Reading:*
-* Manningetal2008 (Ch. 6)
-* Zumel+:2014 (Ch. 8)
-* choi+:2010
+* Manning, Raghavan and Schütze (2008, Ch. 6)
+* Zumel and Mount (2014, Ch. 8)
+* Choi, Cha and Tappert (2010)
 
 *Further Reading:*
-* Corley:2005be
-* James+:2013 (Ch. 10.3)
+* Corley and Mihalcea (2005)
+* James et al. (2013, Ch. 10.3)
 
 *Exercise:*
 * Clustering US presidential speeches; testing sentiment associations in
@@ -314,34 +314,34 @@ Topic extraction using the parametric Latent Dirichlet Allocation (LDA)
 model.
 
 *Reading:*
-* Blei:2012
-* blei2003latent
-* Beil:2002kx
+* Blei (2012)
+* Blei, Ng and Jordan (2003)
+* Beil, Ester and Xu (2002)
 
 *Further Reading:*
-* Changetal2009tealeaves
-* Manningetal2008 (Ch. 16--17)
-* Roberts:2014esa
+* Chang et al. (2009)
+* Manning, Raghavan and Schütze (2008, Ch. 16–17)
+* Roberts et al. (2014)
 
 *Exercise:*
 * Using LDA to estimate document topics in political party programmes.
 
 #### Week 11: [Working with Social Media]()
 
-Social media such as micro-blogging site provide a wealth of
+Social media such as micro-blogging site [Twitter](https://twitter.com) provide a wealth of
 spontaneous, distributed, real-time text that can be used to analyze
 almost any topic. We introduce the growing literature applying text
 analysis techniques to this form of data, with examples for measuring
 sentiment, networks, and locational information.
 
 *Reading:*
-* [ginsberg+:2008](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html)
-* barbera:2013
+* [Ginsberg et al. (2008)](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html)
+* Barberá (2015)
 
 *Further Reading:*
-* Jurgens+:2016
-* [Metaxas+:2011](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf)
-* [lampos+:2013](http://staffwww.dcs.shef.ac.uk/people/T.Cohn/pubs/lampos13bilinear.pdf)
+* Jürgens and Jungherr (2016)
+* [Metaxas, Mustafaraj and Gayo-Avello (2011)](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf)
+* [Lampos, Preotiuc-Pietro and Cohn (2013)](http://staffwww.dcs.shef.ac.uk/people/T.Cohn/pubs/lampos13bilinear.pdf)
 
 *Exercise:*
 * Using Twitter to analyze sentiment in political blogs.
