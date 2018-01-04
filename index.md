@@ -216,9 +216,9 @@ frequency.
 * Rooduijn and Pauwels (2011)
 
 *Further Reading:*
-• Pennebaker and Chung (2008)
-• Tausczik and Pennebaker (2010)
-• Loughran and McDonald (2011)
+* Pennebaker and Chung (2008)
+* Tausczik and Pennebaker (2010)
+* Loughran and McDonald (2011)
 
 *Exercise:*
 * Applying, modifying, and creating dictionaries for the analysis of
