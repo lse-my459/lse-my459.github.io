@@ -345,3 +345,7 @@ sentiment, networks, and locational information.
 
 *Exercise:*
 * Using Twitter to analyze sentiment in political blogs.
+
+#### References
+
+Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: {Bayesian} Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011)
