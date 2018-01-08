@@ -13,7 +13,7 @@ colorlinks: true
 ### Instructors
 
 * [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
-* [Pablo Barberà](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: TBA
+* [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 15-16:00 and Wednesdays 11-12:00, COL.7.10 (book via LSE for You)
 
 ### Teaching Assistant
 * [Christian Müller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: TBA
@@ -140,22 +140,17 @@ files; indexing and meta-data; units of analysis; and definitions of
 features and measures commonly extracted from texts, including stemming,
 and stop-words.
 
-*Lecture Notes:*
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week01/QTA_LSE_Day1-handout.pdf)
 
 *Reading:*
 * Grimmer and Stewart (2013)
 * Manning, Raghavan and Schütze (2008, 117–120)
 
 *Further Reading:*
-* Manning, Raghavan and Schütze (2008, 117–120)
 * [Wikipedia entry on Character](http://en.wikipedia.org/wiki/Text_encoding)
 * Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
 * Neuendorf (2002, Chs. 4–7)
 * Krippendorff (2013, Ch. 6)
-
-*Exercise:*
-* Getting started with **quanteda**
-
 
 #### Week 2: [Descriptive statistical methods for text analysis]()
 
@@ -176,6 +171,7 @@ strategies for features, such as *tf-idf*.
 * DuBay (2004)
 
 *Exercise:*
+* Getting started with **quanteda**
 * Selecting, weighting, and summarizing texts and their features.
 
 #### Week 3: [Quantitative methods for comparing texts]()
@@ -191,9 +187,6 @@ vector-space models.
 
 *Further Reading:*
 * Seale, Ziebland and Charteris-Black (2006)
-
-*Exercise:*
-* Comparing texts and their features.
 
 
 #### Week 4: [Automated dictionary methods]()
@@ -220,6 +213,7 @@ frequency.
 * Loughran and McDonald (2011)
 
 *Exercise:*
+* Comparing texts and their features.
 * Applying, modifying, and creating dictionaries for the analysis of
 political texts.
 
@@ -245,9 +239,6 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-*Exercise:*
-* Classifying legal documents and legislative speeches.
-
 #### Week 7: [Supervised Scaling Models for Texts]()
 
 Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
@@ -266,6 +257,7 @@ regression to score and scale texts.
 * Lowe (2008)
 
 *Exercise:*
+* Classifying legal documents and legislative speeches.
 * Scaling legal documents and legislative speeches.
 
 #### Week 8: [Unsupervised Models for Scaling Texts]()
@@ -284,10 +276,6 @@ the similarity to parametric (Poisson-scaling) models.
 *Further Reading:*
 * Clinton, Jackman and Rivers (2004)
 
-*Exercise:*
-* Using "Wordfish" and correspondence analysis to scale documents.
-
-
 #### Week 9: [Similarity and clustering methods]()
 
 Vector representations of documents, measuring distance and similarity,
@@ -304,6 +292,7 @@ selection and weighting methods, especially *tf-idf*.
 * James et al. (2013, Ch. 10.3)
 
 *Exercise:*
+* Using "Wordfish" and correspondence analysis to scale documents.
 * Clustering US presidential speeches; testing sentiment associations in
 movie reviews.
 
@@ -322,8 +311,6 @@ model.
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
 * Roberts et al. (2014)
 
-*Exercise:*
-* Using LDA to estimate document topics in political party programmes.
 
 #### Week 11: [Working with Social Media]()
 
@@ -343,6 +330,7 @@ sentiment, networks, and locational information.
 * [Lampos, Preotiuc-Pietro and Cohn (2013)](http://staffwww.dcs.shef.ac.uk/people/T.Cohn/pubs/lampos13bilinear.pdf)
 
 *Exercise:*
+* Using LDA to estimate document topics in political party programmes.
 * Using Twitter to analyze sentiment in political blogs.
 
 ### References
