@@ -204,13 +204,14 @@ frequency.
 
 *Reading:*
 * Neuendorf (2002, Ch. 6)
-* Laver and Garry (2000)
+* Young and Soroka (2012)
 * Rooduijn and Pauwels (2011)
 
 *Further Reading:*
-* Pennebaker and Chung (2008)
-* Tausczik and Pennebaker (2010)
+* Laver and Garry (2000)
 * Loughran and McDonald (2011)
+* Tausczik and Pennebaker (2010)
+
 
 *Exercise:*
 * Comparing texts and their features.
@@ -232,6 +233,7 @@ discusses where these methods are applicable.
 * Evans et al. (2007)
 
 *Further Reading:*
+* James et al (2013). Chapters 1, 3, and 5.
 * Lantz (2013, Ch. 10)
 * [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
 * An [online article by Paul Graham on classifying spam e-mail](http://www.paulgraham.com/spam.html).
@@ -280,16 +282,21 @@ the similarity to parametric (Poisson-scaling) models.
 
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
-selection and weighting methods, especially *tf-idf*.
+selection and weighting methods, especially *tf-idf*. We will also discuss
+vector representation of words as an alternative way to construct document-feature
+matrices, with particular attention to word embeddings as a popular type of vector
+space representation.
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 6)
-* Zumel and Mount (2014, Ch. 8)
 * Choi, Cha and Tappert (2010)
+* Gurciullo and Mikhaylov (2016)
 
 *Further Reading:*
 * Corley and Mihalcea (2005)
 * James et al. (2013, Ch. 10.3)
+* Mikolov et al. (2013)
+* Zumel and Mount (2014, Ch. 8)
 
 *Exercise:*
 * Using "Wordfish" and correspondence analysis to scale documents.
@@ -298,18 +305,24 @@ movie reviews.
 
 #### Week 10: [Topic models]()
 
-Topic extraction using the parametric Latent Dirichlet Allocation (LDA)
-model.
+This session will teach how to automatically classify documents into
+unknown categories using topic models. We will learn how to run the
+parametric Latent Dirichlet Allocation (LDA) model and the Structural
+Topic Model (STM), which allows researchers to use covariates to learn
+about the prevalence and content of topics.
 
 *Reading:*
 * Blei (2012)
+* Roberts et al. (2014)
 * Blei, Ng and Jordan (2003)
-* Beil, Ester and Xu (2002)
 
 *Further Reading:*
+* Beil, Ester and Xu (2002)
 * Chang et al. (2009)
+* Gilardi et al. (2017)
+* Lucas et al (2015)
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
-* Roberts et al. (2014)
+
 
 
 #### Week 11: [Working with Social Media]()
@@ -321,13 +334,14 @@ analysis techniques to this form of data, with examples for measuring
 sentiment, networks, and locational information.
 
 *Reading:*
-* [Ginsberg et al. (2008)](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html)
-* Barberá (2015)
+* Steinert-Threlkeld (2018)
+* Theocharis et al (2016)
 
 *Further Reading:*
-* Jürgens and Jungherr (2016)
-* [Metaxas, Mustafaraj and Gayo-Avello (2011)](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf)
-* [Lampos, Preotiuc-Pietro and Cohn (2013)](http://staffwww.dcs.shef.ac.uk/people/T.Cohn/pubs/lampos13bilinear.pdf)
+* Barberá (2015)
+* Beauchamp (2017)
+* Klašnja et al (2017)
+* Ruths and Pfeffer (2014)
 
 *Exercise:*
 * Using LDA to estimate document topics in political party programmes.
@@ -336,6 +350,8 @@ sentiment, networks, and locational information.
 ### References
 
 Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011).
+
+Beauchamp, N. 2017. "[Predicting and Interpolating State‐Level Polls Using Twitter Textual Data.](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12274/full)" American Journal of Political Science, 61(2), 490-503.
 
 Beil, F, M Ester and X Xu. 2002. Frequent term-based text clustering. In _Eighth ACM SIGKDD international conference on Knowledge discovery and data mining_. pp. 436–442.
 
@@ -365,13 +381,19 @@ Dunning, Ted. 1993. “Accurate methods for the statistics of surprise and coinc
 Evans, Michael, Wayne McIntosh, Jimmy Lin and Cynthia Cates. 2007. “Recounting the Courts?
 Applying Automated Content Analysis to Enhance Empirical Legal Research.” _Journal of Empirical Legal Studies_ 4(4):1007–1039.
 
+Gilardi, F., Shipan, C. R., & Wueest, B. 2017. "[Policy Diffusion: The Issue-Definition Stage.](https://www.fabriziogilardi.org/resources/papers/policy-diffusion-issue-definition.pdf)" Working paper, University of Zurich.
+
 Ginsberg, Jeremy, Matthew H Mohebbi, Rajan S Patel, Lynnette Brammer, Mark S Smolinski and Larry Brilliant. 2008. “Detecting influenza epidemics using search engine query data.” _Nature_ 457(7232):1012–1014.
 
 Grimmer, Justin and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” _Political Analysis_ 21(3):267–297. doi: [`10.1093/pan/mps028`](https://doi.org/10.1093/pan/mps028).
 
+Gurciullo, S., & Mikhaylov, S. J. 2016. "[Detecting Policy Preferences and Dynamics in the UN General Debate with Neural Word Embeddings](http://www.smikhaylov.net/wp-content/uploads/2017/04/UNembeddings.pdf)". Working paper, University College London.
+
 James, Gareth, Daniela Witten, Trevor Hastie and Robert Tibshirani. 2013. _An Introduction to Statistical Learning with Applications in R_. Springer Science & Business Media.
 
 Jürgens, Pascal and Andreas Jungherr. 2016. “A Tutorial for Using Twitter Data in the Social Sciences: Data Collection, Preparation, and Analysis.”
+
+Klašnja, M., Barberá, P., Beauchamp, N., Nagler, J., & Tucker, J. 2016. "[Measuring public opinion with social media data.](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190213299.001.0001/oxfordhb-9780190213299-e-3)" In The Oxford Handbook of Polling and Survey Methods.
 
 Krippendorff, Klaus. 2013. _Content Analysis: An Introduction to Its Methodology_. 3rd ed. Thousand Oaks, CA: Sage.
 
@@ -391,11 +413,15 @@ Lowe, William and Kenneth Benoit. 2013. “Validating Estimates of Latent Traits
 
 Lowe, William, Kenneth Benoit, Slava Mikhaylov and Michael Laver. 2011. “Scaling Policy Preferences From Coded Political Texts.” _Legislative Studies Quarterly_ 26(1):123–155. doi: [`10.1111/j.1939-9162.2010.00006.x`](https://doi.org/10.1111/j.1939-9162.2010.00006.x).
 
+Lucas, C., Nielsen, R. A., Roberts, M. E., Stewart, B. M., Storer, A., & Tingley, D. 2015. "[Computer-assisted text analysis for comparative politics.](http://scholar.princeton.edu/sites/default/files/bstewart/files/comparativepoliticstext.pdf)" Political Analysis, 23(2), 254-277.
+
 Manning, C. D., P. Raghavan and H. Schütze. 2008. _Introduction to Information Retrieval_. Cambridge University Press.
 
 Martin, L. W. and G. Vanberg. 2007. “A robust transformation procedure for interpreting political text.” _Political Analysis_ 16(1):93–100. doi: [`10.1093/pan/mpm010`](https://doi.org/10.1093/pan/mpm010).
 
 Metaxas, Panagiotis T., Eni Mustafaraj and Daniel Gayo-Avello. 2011. How (not) to predict elections. In _Privacy, security, risk and trust (PASSAT), 2011 IEEE third international conference on social computing (SocialCom)_.
+
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. 2013. "Efficient estimation of word representations in vector space." [arXiv preprint arXiv:1301.3781.](https://arxiv.org/pdf/1301.3781.pdf)
 
 Neuendorf, K. A. 2002. _The Content Analysis Guidebook_. Thousand Oaks CA: Sage.
 
@@ -406,12 +432,18 @@ Roberts, Margaret E, Brandon M Stewart, Dustin Tingley, Christopher Lucas, Jetso
 Rooduijn, Matthijs and Teun Pauwels. 2011. “Measuring Populism: Comparing Two Methods of
 Content Analysis.” _West European Politics_ 34(6):1272–1283.
 
+Ruths, D., & Pfeffer, J. 2014. "[Social media for large studies of behavior.](http://science.sciencemag.org/content/346/6213/1063.full)" Science, 346(6213), 1063-1064.
+
 Seale, Clive, Sue Ziebland and Jonathan Charteris-Black. 2006. “Gender, cancer experience and internet use: A comparative keyword analysis of interviews and online cancer support groups.” _Social Science & Medicine_ 62(10):2577–2590.
 
 Slapin, Jonathan B. and Sven-Oliver Proksch. 2008. “A Scaling Model for Estimating Time-Series Party Positions from Texts.” _American Journal of Political Science_ 52(3):705–722. doi: [`10.1111/j.1540-5907.2008.00338.x`](10.1111/j.1540-5907.2008.00338.x).
 
+Steinert-Threlkeld, Z. 2018. "[Twitter as Data.](https://www.cambridge.org/core/elements/twitter-as-data/27B3DE20C22E12E162BFB173C5EB2592)" Cambridge University Press.
+
 Tausczik, Y R and James W Pennebaker. 2010. “The Psychological Meaning of Words: LIWC and
 Computerized Text Analysis Methods.” _Journal of Language and Social Psychology_ 29(1):24–54.
+
+Young, L., and Soroka, S. 2012. "[Affective news: The automated coding of sentiment in political texts.](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.671234)" Political Communication, 29(2), 205-231.
 
 Yu, B., S. Kaufmann and D. Diermeier. 2008. “Classifying Party Affiliation from Political Speech.” _Journal of Information Technology and Politics_ 5(1):33–48.
 
