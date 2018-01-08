@@ -30,9 +30,9 @@ No lectures or classes will take place during School Reading Week 6.
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)       | 7        | [Supervised Scaling Models for Texts](#week-7-supervised-scaling-models-for-texts)          |
-| 2        | [Descriptive statistical methods for text analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Unsupervised Models for Scaling Texts](#week-8-unsupervised-models-for-scaling-texts) |
-| 3        | [Quantitative methods for comparing texts](#week-3-quantitative-methods-for-comparing-texts)    | 9        | [Similarity and clustering methods](#week-9-similarity-and-clustering-methods)                   |
-| 4        | [Automated dictionary methods](#week-4-automated-dictionary-methods)       | 10       | [Topic models](#week-10-topic-models)           |
+| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Unsupervised Models for Scaling Texts](#week-8-unsupervised-models-for-scaling-texts) |
+| 3        | [Quantitative Methods for Comparing Texts](#week-3-quantitative-methods-for-comparing-texts)    | 9        | [Similarity and Clustering Methods](#week-9-similarity-and-clustering-methods)                   |
+| 4        | [Automated Dictionary Methods](#week-4-automated-dictionary-methods)       | 10       | [Topic models](#week-10-topic-models)           |
 | 5        | [Machine Learning for Texts](#week-5-machine-learning-for-texts)                  |  11       | [Working with Social Media](#week-11-working-with-social-media)           |
 | 6        | _Reading Week_                       |
 
