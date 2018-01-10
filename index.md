@@ -152,7 +152,7 @@ and stop-words.
 * Neuendorf (2002, Chs. 4–7)
 * Krippendorff (2013, Ch. 6)
 
-#### Week 2: [Descriptive statistical methods for text analysis]()
+#### Week 2: [Descriptive statistical methods for text analysis](https://github.com/lse-my459/lectures/blob/master/week02/)
 
 Here we focus on quantitative methods for describing texts, focusing on
 summary measures that highlight particular characteristics of documents
@@ -174,7 +174,7 @@ strategies for features, such as *tf-idf*.
 * Getting started with **quanteda**
 * Selecting, weighting, and summarizing texts and their features.
 
-#### Week 3: [Quantitative methods for comparing texts]()
+#### Week 3: [Quantitative methods for comparing texts](https://github.com/lse-my459/lectures/blob/master/week03/)
 
 Quantitative methods for comparing texts, through concordances and
 keyword identification, dissimilarity measures, association models, and
@@ -189,7 +189,7 @@ vector-space models.
 * Seale, Ziebland and Charteris-Black (2006)
 
 
-#### Week 4: [Automated dictionary methods]()
+#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/)
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
@@ -218,7 +218,7 @@ frequency.
 * Applying, modifying, and creating dictionaries for the analysis of
 political texts.
 
-#### Week 5: [Machine Learning for Texts]()
+#### Week 5: [Machine Learning for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
 Classification methods permit the automatic classification of texts in a
 test set following machine learning from a training set. We will
@@ -241,7 +241,7 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-#### Week 7: [Supervised Scaling Models for Texts]()
+#### Week 7: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week07/)
 
 Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
 Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
@@ -262,7 +262,7 @@ regression to score and scale texts.
 * Classifying legal documents and legislative speeches.
 * Scaling legal documents and legislative speeches.
 
-#### Week 8: [Unsupervised Models for Scaling Texts]()
+#### Week 8: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week08/)
 
 This session continues text scaling using unsupervised scaling methods,
 based on parametric approaches modelling features as Bernoulli or
@@ -278,7 +278,7 @@ the similarity to parametric (Poisson-scaling) models.
 *Further Reading:*
 * Clinton, Jackman and Rivers (2004)
 
-#### Week 9: [Similarity and clustering methods]()
+#### Week 9: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week09/)
 
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
@@ -303,7 +303,7 @@ space representation.
 * Clustering US presidential speeches; testing sentiment associations in
 movie reviews.
 
-#### Week 10: [Topic models]()
+#### Week 10: [Topic models](https://github.com/lse-my459/lectures/blob/master/week10/)
 
 This session will teach how to automatically classify documents into
 unknown categories using topic models. We will learn how to run the
@@ -325,7 +325,7 @@ about the prevalence and content of topics.
 
 
 
-#### Week 11: [Working with Social Media]()
+#### Week 11: [Working with Social Media](https://github.com/lse-my459/lectures/blob/master/week11/)
 
 Social media such as micro-blogging site [Twitter](https://twitter.com) provide a wealth of
 spontaneous, distributed, real-time text that can be used to analyze
