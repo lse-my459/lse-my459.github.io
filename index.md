@@ -162,6 +162,8 @@ complexity and readability measures; and an in-depth discussion of text
 types, tokens, and equivalencies. We will also discuss weighting
 strategies for features, such as *tf-idf*.
 
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week02/QTA_LSE_Day2-handout.pdf)
+
 *Reading:*
 * Krippendorff (2013, Chs. 9–10)
 * Dunning (1993)
