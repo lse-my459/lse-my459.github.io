@@ -12,11 +12,11 @@ colorlinks: true
 
 ### Instructors
 
-* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
+* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11 (book via LSE for You)
 * [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 15-16:00 and Wednesdays 11-12:00, COL.7.10 (book via LSE for You)
 
 ### Teaching Assistant
-* [Christian Mueller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 11:15-13:15, COL.2.03
+* [Christian Mueller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 11-12:00 and Tuesdays 11-12:00, COL.2.03 (book via LSE for You)
 
 ### Course Information
 
