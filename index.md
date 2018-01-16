@@ -89,14 +89,14 @@ primarily the (instructor's) R package `quanteda` available from
 
 ### Assessment
 
-#### Formative coursework
+#### Summative Assignments
 
-Five lab sessions on the indicated weeks will consist of supervised problem sets, with some questions to be completed outside of class. These will involve
+Five lab sessions on the indicated weeks will consist of supervised problem sets. After each lab, assignments will be posted. These will involve
 computer exercises applied to texts supplied by the instructor. These
 will be submitted via GitHub Classroom prior to the next lecture, and will be
 marked to provide 60% of the course grade.
 
-#### Project
+#### Summative Project
 
 A final project of 3,000 words will be due at the end of ST, and form
 40% of the course grade. This will be an original analysis of texts
