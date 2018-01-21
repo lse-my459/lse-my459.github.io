@@ -12,11 +12,11 @@ colorlinks: true
 
 ### Instructors
 
-* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
-* [Pablo Barberà](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: TBA
+* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11 (book via LSE for You)
+* [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 15-16:00 and Wednesdays 11-12:00, COL.7.10 (book via LSE for You)
 
 ### Teaching Assistant
-* [Christian Müller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: TBA
+* [Christian Mueller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 11-12:00 and Tuesdays 11-12:00, COL.2.03 (book via LSE for You)
 
 ### Course Information
 
@@ -29,11 +29,11 @@ No lectures or classes will take place during School Reading Week 6.
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
-| 1        | [Overview and Fundamentals](#week-1-introduction-to-data)       | 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
-| 2        | [Descriptive methods for text analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Exploratory data analysis (cont'd)](#week-8-exploratory-data-analysis-contd) |
-| 3        | [Methods for comparing texts](#week-3--quantitative-methods-for-comparing-texts)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
-| 4        | [Using data from the Internet](#week-4-using-data-from-the-internet)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
-| 5        | [Working with APIs](#week-5-working-with-apis)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
+| 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)       | 7        | [Supervised Scaling Models for Texts](#week-7-supervised-scaling-models-for-texts)          |
+| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Unsupervised Models for Scaling Texts](#week-8-unsupervised-models-for-scaling-texts) |
+| 3        | [Quantitative Methods for Comparing Texts](#week-3-quantitative-methods-for-comparing-texts)    | 9        | [Similarity and Clustering Methods](#week-9-similarity-and-clustering-methods)                   |
+| 4        | [Automated Dictionary Methods](#week-4-automated-dictionary-methods)       | 10       | [Topic models](#week-10-topic-models)           |
+| 5        | [Machine Learning for Texts](#week-5-machine-learning-for-texts)                  |  11       | [Working with Social Media](#week-11-working-with-social-media)           |
 | 6        | _Reading Week_                       |
 
 
@@ -89,14 +89,14 @@ primarily the (instructor's) R package `quanteda` available from
 
 ### Assessment
 
-#### Formative coursework
+#### Summative Assignments
 
-Five lab sessions on the indicated weeks will consist of supervised problem sets, with some questions to be completed outside of class. These will involve
+Five lab sessions on the indicated weeks will consist of supervised problem sets. After each lab, assignments will be posted. These will involve
 computer exercises applied to texts supplied by the instructor. These
 will be submitted via GitHub Classroom prior to the next lecture, and will be
 marked to provide 60% of the course grade.
 
-#### Project
+#### Summative Project
 
 A final project of 3,000 words will be due at the end of ST, and form
 40% of the course grade. This will be an original analysis of texts
@@ -140,24 +140,19 @@ files; indexing and meta-data; units of analysis; and definitions of
 features and measures commonly extracted from texts, including stemming,
 and stop-words.
 
-*Lecture Notes:*
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week01/QTA_LSE_Day1-handout.pdf)
 
 *Reading:*
-* Grimmerstewart:2013
-* Manningetal2008 (pp117--120)
+* Grimmer and Stewart (2013)
+* Manning, Raghavan and Schütze (2008, 117–120)
 
 *Further Reading:*
-* krippendorff:2013 (Ch. 1--2, 5, 7)
 * [Wikipedia entry on Character](http://en.wikipedia.org/wiki/Text_encoding)
-* Browse the different text file formats at http://www.fileinfo.com/filetypes/text
-* Neuendorf02 (Chs. 4-7)
-* krippendorff:2013 (Ch. 6)
+* Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
+* Neuendorf (2002, Chs. 4–7)
+* Krippendorff (2013, Ch. 6)
 
-*Exercise:*  
-* Getting started with **quanteda**
-
-
-#### Week 2: [Descriptive statistical methods for text analysis]()
+#### Week 2: [Descriptive statistical methods for text analysis](https://github.com/lse-my459/lectures/blob/master/week02/)
 
 Here we focus on quantitative methods for describing texts, focusing on
 summary measures that highlight particular characteristics of documents
@@ -167,37 +162,36 @@ complexity and readability measures; and an in-depth discussion of text
 types, tokens, and equivalencies. We will also discuss weighting
 strategies for features, such as *tf-idf*.
 
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week02/QTA_LSE_Day2-handout.pdf)
+
 *Reading:*
-* krippendorff:2013 (Chs. 9--10)
-* Dunning:1993
-* daeubler+:2012
+* Krippendorff (2013, Chs. 9–10)
+* Dunning (1993)
+* Däubler et al. (2012)
 
 *Further Reading:*
-* dubay:2004
+* DuBay (2004)
 
 *Exercise:*
+* Getting started with **quanteda**
 * Selecting, weighting, and summarizing texts and their features.
 
-#### Week 3: [Quantitative methods for comparing texts]()
-------------------------------------------------
+#### Week 3: [Quantitative methods for comparing texts](https://github.com/lse-my459/lectures/blob/master/week03/)
 
 Quantitative methods for comparing texts, through concordances and
 keyword identification, dissimilarity measures, association models, and
 vector-space models.
 
 *Reading:*
-* krippendorff:2013 (Ch. 10)
-* lbml:2011
-* Manningetal2008 (Section 6.3)
+* Krippendorff (2013, Ch. 10)
+* Lowe et al. (2011)
+* Manning, Raghavan and Schütze (2008, Section 6.3)
 
 *Further Reading:*
-* Seale+:2006
-
-*Exercise:*
-* Comparing texts and their features.
+* Seale, Ziebland and Charteris-Black (2006)
 
 
-#### Week 4: [Automated dictionary methods]()
+#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/)
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
@@ -211,20 +205,22 @@ word stemming and trimming of words based on term and/or document
 frequency.
 
 *Reading:*
-* Neuendorf02 (Ch. 6)
-* LaverGarry2000
-* Rooduijn:2011ku
+* Neuendorf (2002, Ch. 6)
+* Young and Soroka (2012)
+* Rooduijn and Pauwels (2011)
 
 *Further Reading:*
-* pennebakerchung:2008
-* Tausczik+:2010
-* Loughran:2011bq
+* Laver and Garry (2000)
+* Loughran and McDonald (2011)
+* Tausczik and Pennebaker (2010)
+
 
 *Exercise:*
+* Comparing texts and their features.
 * Applying, modifying, and creating dictionaries for the analysis of
 political texts.
 
-#### Week 5: [Machine Learning for Texts]()
+#### Week 5: [Machine Learning for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
 Classification methods permit the automatic classification of texts in a
 test set following machine learning from a training set. We will
@@ -234,42 +230,41 @@ also introduces validation and reporting methods for classifiers and
 discusses where these methods are applicable.
 
 *Reading:*
-* Manningetal2008 (Ch. 13)
-* Lantz:2013 (Ch. 3--4)
-* evans+:2007
+* Manning, Raghavan and Schütze (2008, Ch. 13)
+* Lantz (2013, Ch. 3–4)
+* Evans et al. (2007)
 
 *Further Reading:*
-* Lantz:2013 (Ch. 10)
+* James et al (2013). Chapters 1, 3, and 5.
+* Lantz (2013, Ch. 10)
 * [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
 * An [online article by Paul Graham on classifying spam e-mail](http://www.paulgraham.com/spam.html).
 * Bionicspirit.com, 9 Feb 2012, ["How to Build a Naive Bayes Classifier."](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
-* Yuetal2008
-* Zumel+:2014 (Ch. 5--6)
+* Yu, Kaufmann and Diermeier (2008)
+* Zumel and Mount (2014, Ch. 5–6)
 
-*Exercise:*
-* Classifying legal documents and legislative speeches.
+#### Week 7: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week07/)
 
-#### Week 7: [Supervised Scaling Models for Texts]()
-
-Building on the Naive Bayes classifier, we introduce the "Wordscores"
-method of @lbg:2003 for scaling latent traits, and show the link between
-classification and scaling. We also cover applications of penalized
+Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
+Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
+between classification and scaling. We also cover applications of penalized
 regression to score and scale texts.
 
 *Reading:*
-* lbg:2003
-* evans+:2007
+* Laver, Benoit and Garry (2003)
+* Evans et al. (2007)
 
 *Further Reading:*
-* Perry and Benoit (2017)
-* MartinVanberg2007
-* BenoitLaverResponse07
-* Lowe2008
+* Benoit and Nulty (2013)
+* Martin and Vanberg (2007)
+* Benoit and Laver (2008)
+* Lowe (2008)
 
 *Exercise:*
+* Classifying legal documents and legislative speeches.
 * Scaling legal documents and legislative speeches.
 
-#### Week 8: [Unsupervised Models for Scaling Texts]()
+#### Week 8: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week08/)
 
 This session continues text scaling using unsupervised scaling methods,
 based on parametric approaches modelling features as Bernoulli or
@@ -279,69 +274,179 @@ cover non-parametric methods such as correspondence analysis and discuss
 the similarity to parametric (Poisson-scaling) models.
 
 *Reading:*
-* SlapinProksch2008
-* lowebenoitPA2013
+* Slapin and Proksch (2008)
+* Lowe and Benoit (2013)
 
 *Further Reading:*
-* Clintonetal2004
+* Clinton, Jackman and Rivers (2004)
 
-*Exercise:*
-* Using "Wordfish" and correspondence analysis to scale documents.
-
-
-#### Week 9: [Similarity and clustering methods]()
+#### Week 9: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week09/)
 
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
-selection and weighting methods, especially *tf-idf*.
+selection and weighting methods, especially *tf-idf*. We will also discuss
+vector representation of words as an alternative way to construct document-feature
+matrices, with particular attention to word embeddings as a popular type of vector
+space representation.
 
 *Reading:*
-* Manningetal2008 (Ch. 6)
-* Zumel+:2014 (Ch. 8)
-* choi+:2010
+* Manning, Raghavan and Schütze (2008, Ch. 6)
+* Choi, Cha and Tappert (2010)
+* Gurciullo and Mikhaylov (2016)
 
 *Further Reading:*
-* Corley:2005be
-* James+:2013 (Ch. 10.3)
+* Corley and Mihalcea (2005)
+* James et al. (2013, Ch. 10.3)
+* Mikolov et al. (2013)
+* Zumel and Mount (2014, Ch. 8)
 
 *Exercise:*
+* Using "Wordfish" and correspondence analysis to scale documents.
 * Clustering US presidential speeches; testing sentiment associations in
 movie reviews.
 
-#### Week 10: [Topic models]()
+#### Week 10: [Topic models](https://github.com/lse-my459/lectures/blob/master/week10/)
 
-Topic extraction using the parametric Latent Dirichlet Allocation (LDA)
-model.
+This session will teach how to automatically classify documents into
+unknown categories using topic models. We will learn how to run the
+parametric Latent Dirichlet Allocation (LDA) model and the Structural
+Topic Model (STM), which allows researchers to use covariates to learn
+about the prevalence and content of topics.
 
 *Reading:*
-* Blei:2012
-* blei2003latent
-* Beil:2002kx
+* Blei (2012)
+* Roberts et al. (2014)
+* Blei, Ng and Jordan (2003)
 
 *Further Reading:*
-* Changetal2009tealeaves
-* Manningetal2008 (Ch. 16--17)
-* Roberts:2014esa
+* Beil, Ester and Xu (2002)
+* Chang et al. (2009)
+* Gilardi et al. (2017)
+* Lucas et al (2015)
+* Manning, Raghavan and Schütze (2008, Ch. 16–17)
 
-*Exercise:*
-* Using LDA to estimate document topics in political party programmes.
 
-#### Week 11: [Working with Social Media]()
 
-Social media such as micro-blogging site provide a wealth of
+#### Week 11: [Working with Social Media](https://github.com/lse-my459/lectures/blob/master/week11/)
+
+Social media such as micro-blogging site [Twitter](https://twitter.com) provide a wealth of
 spontaneous, distributed, real-time text that can be used to analyze
 almost any topic. We introduce the growing literature applying text
 analysis techniques to this form of data, with examples for measuring
 sentiment, networks, and locational information.
 
 *Reading:*
-* [ginsberg+:2008](http://www.nature.com/nature/journal/v457/n7232/full/nature07634.html)
-* barbera:2013
+* Steinert-Threlkeld (2018)
+* Theocharis et al (2016)
 
 *Further Reading:*
-* Jurgens+:2016
-* [Metaxas+:2011](http://cs.wellesley.edu/~pmetaxas/How-Not-To-Predict-Elections.pdf)
-* [lampos+:2013](http://staffwww.dcs.shef.ac.uk/people/T.Cohn/pubs/lampos13bilinear.pdf)
+* Barberá (2015)
+* Beauchamp (2017)
+* Klašnja et al (2017)
+* Ruths and Pfeffer (2014)
 
 *Exercise:*
+* Using LDA to estimate document topics in political party programmes.
 * Using Twitter to analyze sentiment in political blogs.
+
+### References
+
+Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011).
+
+Beauchamp, N. 2017. "[Predicting and Interpolating State‐Level Polls Using Twitter Textual Data.](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12274/full)" American Journal of Political Science, 61(2), 490-503.
+
+Beil, F, M Ester and X Xu. 2002. Frequent term-based text clustering. In _Eighth ACM SIGKDD international conference on Knowledge discovery and data mining_. pp. 436–442.
+
+Benoit, K. and M. Laver. 2008. “Compared to What? A Comment on ‘A Robust Transformation
+Procedure for Interpreting Political Text’ by Martin and Vanberg.” _Political Analysis_ 16(1):101–111. doi: [`10.1093/pan/mpm020`](https://doi.org/10.1093/pan/mpm020).
+
+Benoit, Kenneth and Paul Nulty. 2013. “Classification Methods for Scaling Latent Political Traits.” Presented at the Annual Meeting of the Midwest Political Science Association, April 11–14, Chicago.
+
+Blei, David M. 2012. “Probabilistic topic models.” _Communications of the ACM_ 55(4):77. doi: [`10.1145/2133806.2133826`](https://doi.org/10.1145/2133806.2133826).
+
+Blei, D.M., A.Y. Ng and M.I. Jordan. 2003. “Latent dirichlet allocation.” _The Journal of Machine Learning Research_ 3:993–1022.
+
+Chang, J., J. Boyd-Graber, S. Gerrish, C. Wang and D. Blei. 2009. Reading tea leaves: How humans interpret topic models. In _Neural Information Processing Systems._
+
+Choi, Seung-Seok, Sung-Hyuk Cha and Charles C. Tappert. 2010. “A Survey of Binary Similarity and Distance Measures.” _Journal of Systemics, Cybernetics and Informatics_ 8(1):43–48.
+
+Clinton, J., S. Jackman and D. Rivers. 2004. “The statistical analysis of roll call voting: A unified approach.” _American Journal of Political Science_ 98(2):355–370. doi: [`10.1017/s0003055404001194`](https://doi.org/10.1017/s0003055404001194).
+
+Corley, Courtney and Rada Mihalcea. 2005. Measuring the semantic similarity of texts. In _Proceedings of the ACL Workshop on Empirical Modeling of Semantic Equivalence and Entailment - EMSEE ’05_.
+
+Däubler, Thomas, Kenneth Benoit, Slava Mikhaylov and Michael Laver. 2012. “Natural Sentences as Valid Units for Coded Political Texts.” _British Journal of Political Science_ 42(4):937–951. doi: [`10.1017/S0007123412000105`](https://doi.org/10.1017/S0007123412000105).
+
+DuBay, William. 2004. The Principles of Readability. Costa Mesa, California. <http://www.impact-information.com/impactinfo/readability02.pdf>.
+
+Dunning, Ted. 1993. “Accurate methods for the statistics of surprise and coincidence.” _Computational Linguistics_ 19:61–74.
+
+Evans, Michael, Wayne McIntosh, Jimmy Lin and Cynthia Cates. 2007. “Recounting the Courts?
+Applying Automated Content Analysis to Enhance Empirical Legal Research.” _Journal of Empirical Legal Studies_ 4(4):1007–1039.
+
+Gilardi, F., Shipan, C. R., & Wueest, B. 2017. "[Policy Diffusion: The Issue-Definition Stage.](https://www.fabriziogilardi.org/resources/papers/policy-diffusion-issue-definition.pdf)" Working paper, University of Zurich.
+
+Ginsberg, Jeremy, Matthew H Mohebbi, Rajan S Patel, Lynnette Brammer, Mark S Smolinski and Larry Brilliant. 2008. “Detecting influenza epidemics using search engine query data.” _Nature_ 457(7232):1012–1014.
+
+Grimmer, Justin and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” _Political Analysis_ 21(3):267–297. doi: [`10.1093/pan/mps028`](https://doi.org/10.1093/pan/mps028).
+
+Gurciullo, S., & Mikhaylov, S. J. 2016. "[Detecting Policy Preferences and Dynamics in the UN General Debate with Neural Word Embeddings](http://www.smikhaylov.net/wp-content/uploads/2017/04/UNembeddings.pdf)". Working paper, University College London.
+
+James, Gareth, Daniela Witten, Trevor Hastie and Robert Tibshirani. 2013. _An Introduction to Statistical Learning with Applications in R_. Springer Science & Business Media.
+
+Jürgens, Pascal and Andreas Jungherr. 2016. “A Tutorial for Using Twitter Data in the Social Sciences: Data Collection, Preparation, and Analysis.”
+
+Klašnja, M., Barberá, P., Beauchamp, N., Nagler, J., & Tucker, J. 2016. "[Measuring public opinion with social media data.](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190213299.001.0001/oxfordhb-9780190213299-e-3)" In The Oxford Handbook of Polling and Survey Methods.
+
+Krippendorff, Klaus. 2013. _Content Analysis: An Introduction to Its Methodology_. 3rd ed. Thousand Oaks, CA: Sage.
+
+Lampos, Vasileios, Daniel Preotiuc-Pietro and Trevor Cohn. 2013. A user-centric model of voting intention from Social Media. In _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL)_.
+
+Lantz, Brett. 2013. _Machine Learning with R._ Packt Publishing Ltd.
+
+Laver, M. and J. Garry. 2000. “Estimating policy positions from political texts.” _American Journal of Political Science_ 44(3):619–634. doi: [`10.2307/2669268`](https://doi.org/10.2307/2669268).
+
+Laver, Michael, Kenneth Benoit and John Garry. 2003. “Estimating the policy positions of political actors using words as data.” _American Political Science Review_ 97(2):311–331. doi: [`10.1017/S0003055403000698`](https://doi.org/10.1017/S0003055403000698).
+
+Loughran, Tim and Bill McDonald. 2011. “When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks.” _The Journal of Finance_ 66(1):35–65.
+
+Lowe, W. 2008. “Understanding Wordscores.” _Political Analysis_ 16(4):356–371. doi: [`10.1093/pan/mpn004`](https://doi.org/10.1093/pan/mpn004).
+
+Lowe, William and Kenneth Benoit. 2013. “Validating Estimates of Latent Traits From Textual Data Using Human Judgment as a Benchmark.” _Political Analysis_ 21(3):298–313. doi: [`10.1093/pan/mpt002`](https://doi.org/10.1093/pan/mpt002).
+
+Lowe, William, Kenneth Benoit, Slava Mikhaylov and Michael Laver. 2011. “Scaling Policy Preferences From Coded Political Texts.” _Legislative Studies Quarterly_ 26(1):123–155. doi: [`10.1111/j.1939-9162.2010.00006.x`](https://doi.org/10.1111/j.1939-9162.2010.00006.x).
+
+Lucas, C., Nielsen, R. A., Roberts, M. E., Stewart, B. M., Storer, A., & Tingley, D. 2015. "[Computer-assisted text analysis for comparative politics.](http://scholar.princeton.edu/sites/default/files/bstewart/files/comparativepoliticstext.pdf)" Political Analysis, 23(2), 254-277.
+
+Manning, C. D., P. Raghavan and H. Schütze. 2008. _Introduction to Information Retrieval_. Cambridge University Press.
+
+Martin, L. W. and G. Vanberg. 2007. “A robust transformation procedure for interpreting political text.” _Political Analysis_ 16(1):93–100. doi: [`10.1093/pan/mpm010`](https://doi.org/10.1093/pan/mpm010).
+
+Metaxas, Panagiotis T., Eni Mustafaraj and Daniel Gayo-Avello. 2011. How (not) to predict elections. In _Privacy, security, risk and trust (PASSAT), 2011 IEEE third international conference on social computing (SocialCom)_.
+
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. 2013. "Efficient estimation of word representations in vector space." [arXiv preprint arXiv:1301.3781.](https://arxiv.org/pdf/1301.3781.pdf)
+
+Neuendorf, K. A. 2002. _The Content Analysis Guidebook_. Thousand Oaks CA: Sage.
+
+Pennebaker, J. W. and C. K. Chung. 2008. Computerized text analysis of al-Qaeda transcripts. In _The Content Analysis Reader_, ed. K. Krippendorf and M. A. Bock. Thousand Oaks, CA: Sage.
+
+Roberts, Margaret E, Brandon M Stewart, Dustin Tingley, Christopher Lucas, Jetson Leder-Luis, Shana Kushner Gadarian, Bethany Albertson and David G Rand. 2014. “Structural Topic Models for Open-Ended Survey Responses.” _American Journal of Political Science_ 58(4):1064–1082. doi: [`10.1080/01621459.2016.1141684`](https://doi.org/10.1080/01621459.2016.1141684).
+
+Rooduijn, Matthijs and Teun Pauwels. 2011. “Measuring Populism: Comparing Two Methods of
+Content Analysis.” _West European Politics_ 34(6):1272–1283.
+
+Ruths, D., & Pfeffer, J. 2014. "[Social media for large studies of behavior.](http://science.sciencemag.org/content/346/6213/1063.full)" Science, 346(6213), 1063-1064.
+
+Seale, Clive, Sue Ziebland and Jonathan Charteris-Black. 2006. “Gender, cancer experience and internet use: A comparative keyword analysis of interviews and online cancer support groups.” _Social Science & Medicine_ 62(10):2577–2590.
+
+Slapin, Jonathan B. and Sven-Oliver Proksch. 2008. “A Scaling Model for Estimating Time-Series Party Positions from Texts.” _American Journal of Political Science_ 52(3):705–722. doi: [`10.1111/j.1540-5907.2008.00338.x`](10.1111/j.1540-5907.2008.00338.x).
+
+Steinert-Threlkeld, Z. 2018. "[Twitter as Data.](https://www.cambridge.org/core/elements/twitter-as-data/27B3DE20C22E12E162BFB173C5EB2592)" Cambridge University Press.
+
+Tausczik, Y R and James W Pennebaker. 2010. “The Psychological Meaning of Words: LIWC and
+Computerized Text Analysis Methods.” _Journal of Language and Social Psychology_ 29(1):24–54.
+
+Young, L., and Soroka, S. 2012. "[Affective news: The automated coding of sentiment in political texts.](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.671234)" Political Communication, 29(2), 205-231.
+
+Yu, B., S. Kaufmann and D. Diermeier. 2008. “Classifying Party Affiliation from Political Speech.” _Journal of Information Technology and Politics_ 5(1):33–48.
+
+Zumel, Nina and John Mount. 2014. _Practical Data Science with R_. Manning Publications.
