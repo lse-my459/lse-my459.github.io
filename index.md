@@ -182,7 +182,7 @@ Quantitative methods for comparing texts, through concordances and
 keyword identification, dissimilarity measures, association models, and
 vector-space models.
 
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week02/QTA_LSE_Day3-handout.pdf)
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week03/QTA_LSE_Day3-handout.pdf)
 
 *Reading:*
 * Krippendorff (2013, Ch. 10)
