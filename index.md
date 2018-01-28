@@ -193,7 +193,7 @@ vector-space models.
 * Seale, Ziebland and Charteris-Black (2006)
 
 
-#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/)
+#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/QTA_LSE_Day4-handout.pdf)
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
@@ -205,6 +205,8 @@ We will also review a variety of text pre-processing issues and textual
 data concepts such as word types, tokens, and equivalencies, including
 word stemming and trimming of words based on term and/or document
 frequency.
+
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week04/QTA_LSE_Day4-handout.pdf)
 
 *Reading:*
 * Neuendorf (2002, Ch. 6)
