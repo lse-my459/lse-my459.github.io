@@ -231,7 +231,7 @@ discusses where these methods are applicable.
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 13)
-* Lantz (2013, Ch. 3–4)
+* Lantz (2013, Ch. 4 on Naive Bayes)
 * Evans et al. (2007)
 
 *Further Reading:*
