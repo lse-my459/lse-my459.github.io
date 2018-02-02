@@ -12,11 +12,11 @@ colorlinks: true
 
 ### Instructors
 
-* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11
+* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11 (book via LSE for You)
 * [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 15-16:00 and Wednesdays 11-12:00, COL.7.10 (book via LSE for You)
 
 ### Teaching Assistant
-* [Christian Müller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: TBA
+* [Christian Mueller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 11-12:00 and Tuesdays 11-12:00, COL.2.03 (book via LSE for You)
 
 ### Course Information
 
@@ -89,14 +89,14 @@ primarily the (instructor's) R package `quanteda` available from
 
 ### Assessment
 
-#### Formative coursework
+#### Summative Assignments
 
-Five lab sessions on the indicated weeks will consist of supervised problem sets, with some questions to be completed outside of class. These will involve
+Five lab sessions on the indicated weeks will consist of supervised problem sets. After each lab, assignments will be posted. These will involve
 computer exercises applied to texts supplied by the instructor. These
 will be submitted via GitHub Classroom prior to the next lecture, and will be
 marked to provide 60% of the course grade.
 
-#### Project
+#### Summative Project
 
 A final project of 3,000 words will be due at the end of ST, and form
 40% of the course grade. This will be an original analysis of texts
@@ -182,6 +182,8 @@ Quantitative methods for comparing texts, through concordances and
 keyword identification, dissimilarity measures, association models, and
 vector-space models.
 
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week03/QTA_LSE_Day3-handout.pdf)
+
 *Reading:*
 * Krippendorff (2013, Ch. 10)
 * Lowe et al. (2011)
@@ -191,7 +193,7 @@ vector-space models.
 * Seale, Ziebland and Charteris-Black (2006)
 
 
-#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/)
+#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/QTA_LSE_Day4-handout.pdf)
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
@@ -203,6 +205,8 @@ We will also review a variety of text pre-processing issues and textual
 data concepts such as word types, tokens, and equivalencies, including
 word stemming and trimming of words based on term and/or document
 frequency.
+
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week04/QTA_LSE_Day4-handout.pdf)
 
 *Reading:*
 * Neuendorf (2002, Ch. 6)
