@@ -233,6 +233,8 @@ one of the most popular classifiers, the Naive Bayes model. The topic
 also introduces validation and reporting methods for classifiers and
 discusses where these methods are applicable.
 
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week05/QTA_LSE_Day5.pdf)
+
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 13)
 * Lantz (2013, Ch. 4 on Naive Bayes)
