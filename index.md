@@ -253,8 +253,10 @@ discusses where these methods are applicable.
 
 Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
 Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
-between classification and scaling. We also cover applications of penalized
-regression to score and scale texts.
+between classification and scaling.
+
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week07/QTA_LSE_Day6.pdf)
+*Class example:* [Wordscores applied to Twitter data](https://github.com/lse-my459/lectures/tree/master/week07)
 
 *Reading:*
 * Laver, Benoit and Garry (2003)
