@@ -275,37 +275,40 @@ between classification and scaling.
 #### Week 8: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week08/)
 
 This session continues text scaling using unsupervised scaling methods,
-based on parametric approaches modelling features as Bernoulli or
-Poisson distributed, and contrasts these methods to other alternatives,
-critically examining the assumptions such models rely upon. We also
-cover non-parametric methods such as correspondence analysis and discuss
-the similarity to parametric (Poisson-scaling) models.
+based on parametric approaches modelling features as Poisson distributed (Wordfish
+and Wordshoal) or non-parametric approaches such as correspodence analysis. 
+We will also discuss
+vector representation of words as an alternative way to construct document-feature
+matrices, with particular attention to word embeddings as a popular type of vector
+space representation.
+
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week08/QTA_LSE_Day7.pdf)
+*Class example:* [Wordscores applied to Twitter data](https://github.com/lse-my459/lectures/tree/master/week08)
 
 *Reading:*
 * Slapin and Proksch (2008)
 * Lowe and Benoit (2013)
 
 *Further Reading:*
-* Clinton, Jackman and Rivers (2004)
+* Lauderdale and Herzog (2016)
+* Mikolov et al. (2013)
+* Pomeroy et al (2018)
+* Schonhardt-Bailey (2008)
 
 #### Week 9: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week09/)
 
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
-selection and weighting methods, especially *tf-idf*. We will also discuss
-vector representation of words as an alternative way to construct document-feature
-matrices, with particular attention to word embeddings as a popular type of vector
-space representation.
+selection and weighting methods, especially *tf-idf*.
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 6)
 * Choi, Cha and Tappert (2010)
-* Gurciullo and Mikhaylov (2016)
 
 *Further Reading:*
 * Corley and Mihalcea (2005)
 * James et al. (2013, Ch. 10.3)
-* Mikolov et al. (2013)
+
 * Zumel and Mount (2014, Ch. 8)
 
 *Exercise:*
@@ -397,8 +400,6 @@ Ginsberg, Jeremy, Matthew H Mohebbi, Rajan S Patel, Lynnette Brammer, Mark S Smo
 
 Grimmer, Justin and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” _Political Analysis_ 21(3):267–297. doi: [`10.1093/pan/mps028`](https://doi.org/10.1093/pan/mps028).
 
-Gurciullo, S., & Mikhaylov, S. J. 2016. "[Detecting Policy Preferences and Dynamics in the UN General Debate with Neural Word Embeddings](http://www.smikhaylov.net/wp-content/uploads/2017/04/UNembeddings.pdf)". Working paper, University College London.
-
 James, Gareth, Daniela Witten, Trevor Hastie and Robert Tibshirani. 2013. _An Introduction to Statistical Learning with Applications in R_. Springer Science & Business Media.
 
 Jürgens, Pascal and Andreas Jungherr. 2016. “A Tutorial for Using Twitter Data in the Social Sciences: Data Collection, Preparation, and Analysis.”
@@ -437,12 +438,16 @@ Neuendorf, K. A. 2002. _The Content Analysis Guidebook_. Thousand Oaks CA: Sage.
 
 Pennebaker, J. W. and C. K. Chung. 2008. Computerized text analysis of al-Qaeda transcripts. In _The Content Analysis Reader_, ed. K. Krippendorf and M. A. Bock. Thousand Oaks, CA: Sage.
 
+Pomeroy, C, Dasandi, N. and S. Mikhaylov. 2018. ["Disunited Nations? A Multiplex Network Approach to Detecting Preference Affinity Blocs using Texts and Votes"](https://arxiv.org/pdf/1802.00396.pdf)
+
 Roberts, Margaret E, Brandon M Stewart, Dustin Tingley, Christopher Lucas, Jetson Leder-Luis, Shana Kushner Gadarian, Bethany Albertson and David G Rand. 2014. “Structural Topic Models for Open-Ended Survey Responses.” _American Journal of Political Science_ 58(4):1064–1082. doi: [`10.1080/01621459.2016.1141684`](https://doi.org/10.1080/01621459.2016.1141684).
 
 Rooduijn, Matthijs and Teun Pauwels. 2011. “Measuring Populism: Comparing Two Methods of
 Content Analysis.” _West European Politics_ 34(6):1272–1283.
 
 Ruths, D., & Pfeffer, J. 2014. "[Social media for large studies of behavior.](http://science.sciencemag.org/content/346/6213/1063.full)" Science, 346(6213), 1063-1064.
+
+Schonhardt-Bailey, C. (2008). The congressional debate on partial-birth abortion: Constitutional gravitas and moral passion. British journal of political science, 38(3), 383-410.
 
 Seale, Clive, Sue Ziebland and Jonathan Charteris-Black. 2006. “Gender, cancer experience and internet use: A comparative keyword analysis of interviews and online cancer support groups.” _Social Science & Medicine_ 62(10):2577–2590.
 
