@@ -256,7 +256,8 @@ Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
 between classification and scaling.
 
 *Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week07/QTA_LSE_Day6.pdf)
-*Class example:* [Wordscores applied to Twitter data](https://github.com/lse-my459/lectures/tree/master/week07)
+
+*Class example:* [Supervised scaling examples](https://github.com/lse-my459/lectures/tree/master/week07)
 
 *Reading:*
 * Laver, Benoit and Garry (2003)
@@ -283,7 +284,8 @@ matrices, with particular attention to word embeddings as a popular type of vect
 space representation.
 
 *Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week08/QTA_LSE_Day7.pdf)
-*Class example:* [Wordscores applied to Twitter data](https://github.com/lse-my459/lectures/tree/master/week08)
+
+*Class example:* [Unsupervised scaling examples](https://github.com/lse-my459/lectures/tree/master/week08)
 
 *Reading:*
 * Slapin and Proksch (2008)
