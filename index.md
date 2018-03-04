@@ -277,7 +277,7 @@ between classification and scaling.
 
 This session continues text scaling using unsupervised scaling methods,
 based on parametric approaches modelling features as Poisson distributed (Wordfish
-and Wordshoal) or non-parametric approaches such as correspodence analysis. 
+and Wordshoal) or non-parametric approaches such as correspodence analysis.
 We will also discuss
 vector representation of words as an alternative way to construct document-feature
 matrices, with particular attention to word embeddings as a popular type of vector
@@ -302,6 +302,8 @@ space representation.
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
 selection and weighting methods, especially *tf-idf*.
+
+*Lecture Materials:* [Link to slides in PDF format](https://cdn.rawgit.com/lse-my459/lectures/cd85912b/week09/QTA_LSE_Day8.pdf)
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 6)
