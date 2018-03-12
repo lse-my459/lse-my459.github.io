@@ -328,6 +328,8 @@ parametric Latent Dirichlet Allocation (LDA) model and the Structural
 Topic Model (STM), which allows researchers to use covariates to learn
 about the prevalence and content of topics.
 
+*Lecture Materials:* [Link to slides in PDF format](https://cdn.rawgit.com/lse-my459/lectures/cd85912b/week10/QTA_LSE_Day9.pdf)
+
 *Reading:*
 * Blei (2012)
 * Roberts et al. (2014)
