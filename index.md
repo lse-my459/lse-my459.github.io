@@ -352,6 +352,8 @@ almost any topic. We introduce the growing literature applying text
 analysis techniques to this form of data, with examples for measuring
 sentiment, networks, and locational information.
 
+*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/blob/master/week11/QTA_LSE_Day10.pdf)
+
 *Reading:*
 * Steinert-Threlkeld (2018)
 * Theocharis et al (2016)
