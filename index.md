@@ -6,11 +6,11 @@ colorlinks: true
 ---
 
 ![LSE](images/lse-logo.jpg)
-# MY459 Special Topics in Quantitative Analysis: Quantitative Text Analysis
+# MY459 - Quantitative Text Analysis
 
 ### Lent Term 2019
 
-### Instructors
+### Instructor
 
 * [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 14:30-16:30, COL.7.10 (book via LSE for You)
 
