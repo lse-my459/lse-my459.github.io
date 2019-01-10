@@ -8,33 +8,37 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # MY459 Special Topics in Quantitative Analysis: Quantitative Text Analysis
 
-### Lent Term 2018
+### Lent Term 2019
 
 ### Instructors
 
-* [Kenneth Benoit](mailto:k.r.benoit@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 16-17:00, Thursdays 11-12:00, COL.8.11 (book via LSE for You)
-* [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 15-16:00 and Wednesdays 11-12:00, COL.7.10 (book via LSE for You)
+* [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 14:30-16:30, COL.7.10 (book via LSE for You)
 
 ### Teaching Assistant
-* [Christian Mueller](mailto:C.Mueller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 11-12:00 and Tuesdays 11-12:00, COL.2.03 (book via LSE for You)
+* [Gokhan Ciflikli](mailto:g.ciflikli@lse.ac.uk), Department of Methodology.  *Office hours*: TBA (book via email)
 
 ### Course Information
 
 * Lectures on Mondays 12:00–14:00 in 32.LG.03
 * Classes on:
-    - Tuesdays 9:00-11:00 TW2.4.02, Weeks 2, 4, 7, 9, 11
-    - Wednesdays 9:00-11:00 TW2.4.03, Weeks 2, 4, 7, 9, 11
+    - Tuesdays 9:00-11:00 FAW.4.02, Weeks 2, 4, 7, 9, 11
+    - Wednesdays 9:00-11:00 FAW.4.03, Weeks 2, 4, 7, 9, 11
 
 No lectures or classes will take place during School Reading Week 6.
 
-| **Week** | **Topic**                            | **Week** | **Topic**      |
-|:----------:|:--------------------------------------|:----:|:----|
-| 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)       | 7        | [Supervised Scaling Models for Texts](#week-7-supervised-scaling-models-for-texts)          |
-| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis)                  | 8        | [Unsupervised Models for Scaling Texts](#week-8-unsupervised-models-for-scaling-texts) |
-| 3        | [Quantitative Methods for Comparing Texts](#week-3-quantitative-methods-for-comparing-texts)    | 9        | [Similarity and Clustering Methods](#week-9-similarity-and-clustering-methods)                   |
-| 4        | [Automated Dictionary Methods](#week-4-automated-dictionary-methods)       | 10       | [Topic models](#week-10-topic-models)           |
-| 5        | [Machine Learning for Texts](#week-5-machine-learning-for-texts)                  |  11       | [Working with Social Media](#week-11-working-with-social-media)           |
+| **Week** | **Topic**                            |
+|:----------:|:--------------------------------------|
+| 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)       |
+| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis) |
+| 3        | [Automated Dictionary Methods](#week-3-automated-dictionary-methods)       | 
+| 4        | [Machine Learning for Texts](#week-4-machine-learning-for-texts)                  | 
+| 5        | [Supervised Scaling Models for Texts](#week-5-supervised-scaling-models-for-texts)          |
 | 6        | _Reading Week_                       |
+| 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts) |
+| 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                   |
+| 9       | [Topic models](#week-9-topic-models)           |
+| 10       | [Word embeddings](#week-9-word-embeddings)           |
+| 11       | [Working with Social Media](#week-11-working-with-social-media)           |
 
 
 
@@ -84,8 +88,7 @@ equivalent.
 
 Students in this course will strongly benefit from prior experience with
 the R statistical package. All methods will be implemented in R, using
-primarily the (instructor's) R package `quanteda` available from
-<http://github.com/kbenoit/quanteda> and from CRAN.
+primarily the R package `quanteda`, available from CRAN.
 
 ### Assessment
 
@@ -102,18 +105,14 @@ A final project of 3,000 words will be due at the end of ST, and form
 40% of the course grade. This will be an original analysis of texts
 using some of the methods covered in class, and may focus on replicating
 or extending a published work. Additional guidelines will be issued
-about a third of the way through the class. The final lab will consist
-of brief student presentations of their topics.
+halfway through the class.
 
 
 ### Recommended Texts
 
 There is no really good single textbook that exists to cover
-computerized or quantitative text analysis, although Ken Benoit is currently
-(slowly) writing one, entitled (*The Quantitative Analysis of Textual
-Data*).
-
-While not ideally fitting our core purpose, Krippendorf's classic
+computerized or quantitative text analysis. While not ideally fitting our core purpose, 
+Krippendorf's classic
 *Content Analysis* --- just updated --- is a good primer for manual
 methods of content analysis and coverage of some of the same
 fundamentals faced in quantitative text analysis.
@@ -121,8 +120,9 @@ fundamentals faced in quantitative text analysis.
 -   Krippendorff, K. (2013). *Content Analysis: An Introduction to Its
     Methodology*. Sage, Thousand Oaks, CA, 3rd edition.
 
-Other readings will consist of articles and book excerpts, which I will
-make available on Moodle as pdf files.
+Other readings will consist of articles and book excerpts, as listed below,
+which will either be made available via Moodle or through the links
+below.
 
 
 ### Schedule
@@ -134,20 +134,13 @@ traditional (non-computer assisted) content analysis to fully automated
 quantitative text analysis. We will cover the conceptual foundations of
 content analysis and quantitative content analysis, discuss the
 objectives, the approach to knowledge, and the particular view of texts
-when performing quantitative analysis. We will also discuss issues
-including where to obtain textual data; formatting and working with text
-files; indexing and meta-data; units of analysis; and definitions of
-features and measures commonly extracted from texts, including stemming,
-and stop-words.
-
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week01/QTA_LSE_Day1-handout.pdf)
+when performing quantitative analysis. 
 
 *Reading:*
 * Grimmer and Stewart (2013)
 * Manning, Raghavan and Schütze (2008, 117–120)
 
 *Further Reading:*
-* [Wikipedia entry on Character](http://en.wikipedia.org/wiki/Text_encoding)
 * Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
 * Neuendorf (2002, Chs. 4–7)
 * Krippendorff (2013, Ch. 6)
@@ -156,13 +149,11 @@ and stop-words.
 
 Here we focus on quantitative methods for describing texts, focusing on
 summary measures that highlight particular characteristics of documents
-and allowing these to be compared. These methods include characterizing
-texts through concordances, co-occurrences, and keywords in context;
-complexity and readability measures; and an in-depth discussion of text
-types, tokens, and equivalencies. We will also discuss weighting
-strategies for features, such as *tf-idf*.
-
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week02/QTA_LSE_Day2-handout.pdf)
+and allowing these to be compared. We will also discuss issues
+including where to obtain textual data; formatting and working with text
+files; indexing and meta-data; units of analysis; and definitions of
+features and measures commonly extracted from texts, including stemming,
+and stop-words.
 
 *Reading:*
 * Krippendorff (2013, Chs. 9–10)
@@ -176,24 +167,8 @@ strategies for features, such as *tf-idf*.
 * Getting started with **quanteda**
 * Selecting, weighting, and summarizing texts and their features.
 
-#### Week 3: [Quantitative methods for comparing texts](https://github.com/lse-my459/lectures/blob/master/week03/)
 
-Quantitative methods for comparing texts, through concordances and
-keyword identification, dissimilarity measures, association models, and
-vector-space models.
-
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week03/QTA_LSE_Day3-handout.pdf)
-
-*Reading:*
-* Krippendorff (2013, Ch. 10)
-* Lowe et al. (2011)
-* Manning, Raghavan and Schütze (2008, Section 6.3)
-
-*Further Reading:*
-* Seale, Ziebland and Charteris-Black (2006)
-
-
-#### Week 4: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week04/QTA_LSE_Day4-handout.pdf)
+#### Week 3: [Automated dictionary methods]((https://github.com/lse-my459/lectures/blob/master/week03/))
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
@@ -206,8 +181,6 @@ data concepts such as word types, tokens, and equivalencies, including
 word stemming and trimming of words based on term and/or document
 frequency.
 
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week04/QTA_LSE_Day4-handout.pdf)
-
 *Reading:*
 * Neuendorf (2002, Ch. 6)
 * Young and Soroka (2012)
@@ -218,13 +191,12 @@ frequency.
 * Loughran and McDonald (2011)
 * Tausczik and Pennebaker (2010)
 
-
 *Exercise:*
 * Comparing texts and their features.
 * Applying, modifying, and creating dictionaries for the analysis of
 political texts.
 
-#### Week 5: [Machine Learning for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
+#### Week 4: [Machine Learning for Texts](https://github.com/lse-my459/lectures/blob/master/week04/)
 
 Classification methods permit the automatic classification of texts in a
 test set following machine learning from a training set. We will
@@ -232,8 +204,6 @@ introduce machine learning methods for classifying documents, including
 one of the most popular classifiers, the Naive Bayes model. The topic
 also introduces validation and reporting methods for classifiers and
 discusses where these methods are applicable.
-
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week05/QTA_LSE_Day5.pdf)
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 13)
@@ -249,15 +219,11 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-#### Week 7: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week07/)
+#### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week06/)
 
 Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
 Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
 between classification and scaling.
-
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week07/QTA_LSE_Day6.pdf)
-
-*Class example:* [Supervised scaling examples](https://github.com/lse-my459/lectures/tree/master/week07)
 
 *Reading:*
 * Laver, Benoit and Garry (2003)
@@ -273,19 +239,12 @@ between classification and scaling.
 * Classifying legal documents and legislative speeches.
 * Scaling legal documents and legislative speeches.
 
-#### Week 8: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week08/)
+#### Week 7: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week07/)
 
 This session continues text scaling using unsupervised scaling methods,
 based on parametric approaches modelling features as Poisson distributed (Wordfish
 and Wordshoal) or non-parametric approaches such as correspodence analysis.
-We will also discuss
-vector representation of words as an alternative way to construct document-feature
-matrices, with particular attention to word embeddings as a popular type of vector
-space representation.
 
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/raw/master/week08/QTA_LSE_Day7.pdf)
-
-*Class example:* [Unsupervised scaling examples](https://github.com/lse-my459/lectures/tree/master/week08)
 
 *Reading:*
 * Slapin and Proksch (2008)
@@ -297,13 +256,11 @@ space representation.
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
-#### Week 9: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week09/)
+#### Week 8: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week08/)
 
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
 selection and weighting methods, especially *tf-idf*.
-
-*Lecture Materials:* [Link to slides in PDF format](https://cdn.rawgit.com/lse-my459/lectures/cd85912b/week09/QTA_LSE_Day8.pdf)
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 6)
@@ -320,15 +277,13 @@ selection and weighting methods, especially *tf-idf*.
 * Clustering US presidential speeches; testing sentiment associations in
 movie reviews.
 
-#### Week 10: [Topic models](https://github.com/lse-my459/lectures/blob/master/week10/)
+#### Week 9: [Topic models](https://github.com/lse-my459/lectures/blob/master/week10/)
 
 This session will teach how to automatically classify documents into
 unknown categories using topic models. We will learn how to run the
 parametric Latent Dirichlet Allocation (LDA) model and the Structural
 Topic Model (STM), which allows researchers to use covariates to learn
 about the prevalence and content of topics.
-
-*Lecture Materials:* [Link to slides in PDF format](https://cdn.rawgit.com/lse-my459/lectures/7b3472ee/week10/QTA_LSE_Day9.pdf)
 
 *Reading:*
 * Blei (2012)
@@ -342,7 +297,11 @@ about the prevalence and content of topics.
 * Lucas et al (2015)
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
 
+#### Week 10: [Word embeddings](https://github.com/lse-my459/lectures/blob/master/week10/)
 
+This week will cover vector representation of words as an alternative way to construct document-feature
+matrices, with particular attention to word embeddings as a popular type of vector
+space representation.
 
 #### Week 11: [Working with Social Media](https://github.com/lse-my459/lectures/blob/master/week11/)
 
@@ -351,8 +310,6 @@ spontaneous, distributed, real-time text that can be used to analyze
 almost any topic. We introduce the growing literature applying text
 analysis techniques to this form of data, with examples for measuring
 sentiment, networks, and locational information.
-
-*Lecture Materials:* [Link to slides in PDF format](https://github.com/lse-my459/lectures/blob/master/week11/QTA_LSE_Day10.pdf)
 
 *Reading:*
 * Steinert-Threlkeld (2018)
