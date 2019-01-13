@@ -101,7 +101,8 @@ marked to provide 60% of the course grade.
 
 #### Summative Project
 
-A final project of 3,000 words will be due at the end of ST, and form
+A final project of 3,000 words (5,000 words for MY559 students) 
+will be due at the beginning of ST, and form
 40% of the course grade. This will be an original analysis of texts
 using some of the methods covered in class, and may focus on replicating
 or extending a published work. Additional guidelines will be issued
