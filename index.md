@@ -15,7 +15,7 @@ colorlinks: true
 * [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 14:30-16:30, COL.7.10 (book via LSE for You)
 
 ### Teaching Assistant
-* [Gokhan Ciflikli](mailto:g.ciflikli@lse.ac.uk), Department of Methodology.  *Office hours*: TBA (book via email)
+* [Gokhan Ciflikli](mailto:g.ciflikli@lse.ac.uk), Department of Methodology.  *Office hours*: Wednesdays 11:00-12:00, COL.8.11 (Ken Benoit's office) (book via email)
 
 ### Course Information
 
