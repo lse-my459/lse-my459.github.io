@@ -19,7 +19,7 @@ colorlinks: true
 
 ### Course Information
 
-* Lectures on Mondays 12:00–14:00 in 32.LG.03
+* Lectures on Mondays 12:00–14:00 in 32.LG.03 (Weeks 1 and 3), FAW.2.04 (Weeks 2, 4, 5, 7-11)
 * Classes on:
     - Tuesdays 9:00-11:00 FAW.4.02, Weeks 2, 4, 7, 9, 11
     - Wednesdays 9:00-11:00 FAW.4.03, Weeks 2, 4, 7, 9, 11
@@ -129,6 +129,10 @@ below.
 
 This class is supported by [DataCamp](https://www.datacamp.com/), the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.
 
+### Credits
+
+A large proportion of the materials were adapted from content developed by Prof. Kenneth Benoit for previous versions of this course. Some of the assignments were developed by Christian Mueller and Akitaka Matsuo.
+
 
 ### Schedule
 
@@ -168,11 +172,6 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-*Exercise:*
-* Getting started with **quanteda**
-* Selecting, weighting, and summarizing texts and their features.
-
-
 #### Week 3: [Automated dictionary methods]((https://github.com/lse-my459/lectures/blob/master/week03/))
 
 Automatic dictionary-based methods involve association of pre-defined
@@ -195,11 +194,6 @@ frequency.
 * Laver and Garry (2000)
 * Loughran and McDonald (2011)
 * Tausczik and Pennebaker (2010)
-
-*Exercise:*
-* Comparing texts and their features.
-* Applying, modifying, and creating dictionaries for the analysis of
-political texts.
 
 #### Week 4: [Machine Learning for Texts](https://github.com/lse-my459/lectures/blob/master/week04/)
 
@@ -240,10 +234,6 @@ between classification and scaling.
 * Benoit and Laver (2008)
 * Lowe (2008)
 
-*Exercise:*
-* Classifying legal documents and legislative speeches.
-* Scaling legal documents and legislative speeches.
-
 #### Week 7: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week07/)
 
 This session continues text scaling using unsupervised scaling methods,
@@ -276,11 +266,6 @@ selection and weighting methods, especially *tf-idf*.
 * James et al. (2013, Ch. 10.3)
 
 * Zumel and Mount (2014, Ch. 8)
-
-*Exercise:*
-* Using "Wordfish" and correspondence analysis to scale documents.
-* Clustering US presidential speeches; testing sentiment associations in
-movie reviews.
 
 #### Week 9: [Topic models](https://github.com/lse-my459/lectures/blob/master/week10/)
 
@@ -325,10 +310,6 @@ sentiment, networks, and locational information.
 * Beauchamp (2017)
 * Klašnja et al (2017)
 * Ruths and Pfeffer (2014)
-
-*Exercise:*
-* Using LDA to estimate document topics in political party programmes.
-* Using Twitter to analyze sentiment in political blogs.
 
 ### References
 
