@@ -172,7 +172,7 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-#### Week 3: [Automated dictionary methods]((https://github.com/lse-my459/lectures/blob/master/week03/))
+#### Week 3: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week03/)
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
