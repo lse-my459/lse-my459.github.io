@@ -218,7 +218,7 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-#### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week06/)
+#### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
 Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
 Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
