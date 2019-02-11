@@ -125,6 +125,14 @@ Other readings will consist of articles and book excerpts, as listed below,
 which will either be made available via Moodle or through the links
 below.
 
+### Cheat Sheets
+
+Cheat sheets contain useful code examples to get you started. Please refer to these materials before you book office hours!
+
+[Quanteda](https://muellerstefan.net/files/quanteda-cheatsheet.pdf)  
+[Regular Expressions](http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf)  
+[Glob](https://github.com/begin/globbing/blob/master/cheatsheet.md)
+
 ### Additional resources
 
 This class is supported by [DataCamp](https://www.datacamp.com/), the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.
