@@ -102,12 +102,24 @@ marked to provide 60% of the course grade.
 #### Summative Project
 
 A final project of 3,000 words (5,000 words for MY559 students) 
-will be due at the beginning of ST, and form
+will be due at the beginning of ST (on May 3rd at 5pm), and form
 40% of the course grade. This will be an original analysis of texts
 using some of the methods covered in class, and may focus on replicating
-or extending a published work. Additional guidelines will be issued
-halfway through the class.
+or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
 
+#### Assessment criteria
+
+Assignments will be marked using the following criteria:
+
+- 70–100: Very Good to Excellent (Distinction). Perceptive, focused use of a good depth of material with a critical edge. Original ideas or structure of argument.
+
+- 60–69: Good (Merit).  Perceptive understanding of the issues plus a coherent well-read and stylish treatment though lacking originality
+
+- 50–59: Satisfactory (Pass). A “correct” answer based largely on lecture material. Little detail or originality but presented in adequate framework. Small factual errors allowed.
+
+- 30–49: Unsatisfactory (Fail) and 0–29: Unsatisfactory (Bad fail). Based entirely on lecture material but unstructured and with increasing error component. Concepts are disordered or flawed. Poor presentation. Errors of concept and scope or poor in knowledge, structure and expression.
+
+Some of the assignemnts will involve shorter questions, to which the answers can be relatively unambiguously coded as (fully or partially) correct or incorrect. In the marking, these questions may be further broken down into smaller steps and marked step by step. The final mark is then a function of the proportion of parts of the questions which have been answered correctly. In such marking, the principle of partial credit is observed as far as feasible. This means that an answer to a part of a question will be treated as correct when it is correct conditional on answers to other parts of the question, even if those other parts have been answered incorrectly.
 
 ### Recommended Texts
 
