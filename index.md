@@ -37,7 +37,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts) |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                   |
 | 9       | [Topic models](#week-9-topic-models)           |
-| 10       | [Word embeddings](#week-9-word-embeddings)           |
+| 10       | [Word embeddings](#week-10-word-embeddings)           |
 | 11       | [Working with Social Media](#week-11-working-with-social-media)           |
 
 
@@ -301,6 +301,15 @@ This week will cover vector representation of words as an alternative way to con
 matrices, with particular attention to word embeddings as a popular type of vector
 space representation.
 
+*Reading:*
+
+* Spirling and Rodriguez (2019)
+* Caliskan et al (2017)
+
+*Further Reading:*
+* Gurciullo and Mikhaylov (2017)
+* Mikolov et al (2013)
+
 #### Week 11: [Working with Social Media](https://github.com/lse-my459/lectures/blob/master/week11/)
 
 Social media such as micro-blogging site [Twitter](https://twitter.com) provide a wealth of
@@ -336,6 +345,8 @@ Blei, David M. 2012. “Probabilistic topic models.” _Communications of the AC
 
 Blei, D.M., A.Y. Ng and M.I. Jordan. 2003. “Latent dirichlet allocation.” _The Journal of Machine Learning Research_ 3:993–1022.
 
+Caliskan, A., Bryson, J.J., and Narayanan, A. 2017. "[Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183/tab-figures-data)", _Science_.
+
 Chang, J., J. Boyd-Graber, S. Gerrish, C. Wang and D. Blei. 2009. Reading tea leaves: How humans interpret topic models. In _Neural Information Processing Systems._
 
 Choi, Seung-Seok, Sung-Hyuk Cha and Charles C. Tappert. 2010. “A Survey of Binary Similarity and Distance Measures.” _Journal of Systemics, Cybernetics and Informatics_ 8(1):43–48.
@@ -358,6 +369,8 @@ Gilardi, F., Shipan, C. R., & Wueest, B. 2017. "[Policy Diffusion: The Issue-Def
 Ginsberg, Jeremy, Matthew H Mohebbi, Rajan S Patel, Lynnette Brammer, Mark S Smolinski and Larry Brilliant. 2008. “Detecting influenza epidemics using search engine query data.” _Nature_ 457(7232):1012–1014.
 
 Grimmer, Justin and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” _Political Analysis_ 21(3):267–297. doi: [`10.1093/pan/mps028`](https://doi.org/10.1093/pan/mps028).
+
+Gurciullo, S. and Mikhaylov, S. 2017. "[Detecting policy preferences and dynamics in the UN general debate with neural word embeddings](https://ieeexplore.ieee.org/document/8253197)", _2017 International Conference on the Frontiers and Advances in Data Science_.
 
 James, Gareth, Daniela Witten, Trevor Hastie and Robert Tibshirani. 2013. _An Introduction to Statistical Learning with Applications in R_. Springer Science & Business Media.
 
@@ -411,6 +424,8 @@ Schonhardt-Bailey, C. (2008). The congressional debate on partial-birth abortion
 Seale, Clive, Sue Ziebland and Jonathan Charteris-Black. 2006. “Gender, cancer experience and internet use: A comparative keyword analysis of interviews and online cancer support groups.” _Social Science & Medicine_ 62(10):2577–2590.
 
 Slapin, Jonathan B. and Sven-Oliver Proksch. 2008. “A Scaling Model for Estimating Time-Series Party Positions from Texts.” _American Journal of Political Science_ 52(3):705–722. doi: [`10.1111/j.1540-5907.2008.00338.x`](10.1111/j.1540-5907.2008.00338.x).
+
+Spirling, A. and Rodriguez, P.L. 2019. "[Word Embeddings. What works, what doesn't, and how to tell the difference for applied research.](https://github.com/ArthurSpirling/EmbeddingsPaper/blob/master/Paper/Embeddings_SpirlingRodriguez.pdf)".
 
 Steinert-Threlkeld, Z. 2018. "[Twitter as Data.](https://www.cambridge.org/core/elements/twitter-as-data/27B3DE20C22E12E162BFB173C5EB2592)" Cambridge University Press.
 
