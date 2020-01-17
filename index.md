@@ -16,7 +16,7 @@ colorlinks: true
 
 ### Teaching Assistants
 * [Yan Wang](mailto:Y.Wang149@lse.ac.uk), Department of Sociology.  *Office hours*: TBD, Location TBD (book via email)
-* [Markus Kollberg](mailto:markus.kollberg.18@ucl.ac.uk), Department of Methodology.  *Office hours*: TBD, Location TBD (book via email)
+* [Markus Kollberg](mailto:markus.kollberg.18@ucl.ac.uk), Department of Political Science, UCL.  *Office hours*: TBD, Location TBD (book via email)
 
 ### Course Information
 
