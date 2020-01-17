@@ -12,17 +12,18 @@ colorlinks: true
 
 ### Instructor
 
-* [Pablo Barberá](mailto:P.Barbera@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 14:30-16:30, COL.7.10 (book via LSE for You)
+* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 10:00-12:00, COL.7.14 (book via Student Hub)
 
-### Teaching Assistant
-* [Gokhan Ciflikli](mailto:g.ciflikli@lse.ac.uk), Department of Methodology.  *Office hours*: Wednesdays 11:00-12:00, COL.8.11 (Ken Benoit's office) (book via email)
+### Teaching Assistants
+* [Yan Wang](mailto:Y.Wang149@lse.ac.uk), Department of Sociology.  *Office hours*: TBD, Location TBD (book via email)
+* [Markus Kollberg](mailto:markus.kollberg.18@ucl.ac.uk), Department of Methodology.  *Office hours*: TBD, Location TBD (book via email)
 
 ### Course Information
 
-* Lectures on Mondays 12:00–14:00 in 32.LG.03 (Weeks 1 and 3), FAW.2.04 (Weeks 2, 4, 5, 7-11)
+* Lectures on Mondays 12:00–14:00 in CBG.2.06
 * Classes on:
-    - Tuesdays 9:00-11:00 FAW.4.02, Weeks 2, 4, 7, 9, 11
-    - Wednesdays 9:00-11:00 FAW.4.03, Weeks 2, 4, 7, 9, 11
+    - Tuesdays 9:00-11:00 FAW.4.01, Weeks 2, 4, 7, 9, 11
+    - Wednesdays 12:00-14:00 FAW.4.01, Weeks 2, 4, 7, 9, 11
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -36,7 +37,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 6        | _Reading Week_                       |
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts) |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                   |
-| 9       | [Topic models](#week-9-topic-models)           |
+| 9        | [Topic models](#week-9-topic-models)           |
 | 10       | [Word embeddings](#week-10-word-embeddings)           |
 | 11       | [Working with Social Media](#week-11-working-with-social-media)           |
 
@@ -102,7 +103,7 @@ marked to provide 60% of the course grade.
 #### Summative Project
 
 A final project of 3,000 words (5,000 words for MY559 students) 
-will be due at the beginning of ST (on May 3rd at 5pm), and form
+will be due at the beginning of ST (on May 4rd at 5pm), and form
 40% of the course grade. This will be an original analysis of texts
 using some of the methods covered in class, and may focus on replicating
 or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
@@ -151,8 +152,7 @@ This class is supported by [DataCamp](https://www.datacamp.com/), the most intui
 
 ### Credits
 
-A large proportion of the materials were adapted from content developed by Prof. Kenneth Benoit for previous versions of this course. Some of the assignments were developed by Christian Mueller and Akitaka Matsuo.
-
+A large proportion of the materials were adapted from content developed by Prof. Kenneth Benoit and Dr. Pablo Barbará for previous versions of this course. Some of the assignments were developed by Christian Mueller and Akitaka Matsuo.
 
 ### Schedule
 
@@ -259,7 +259,6 @@ between classification and scaling.
 This session continues text scaling using unsupervised scaling methods,
 based on parametric approaches modelling features as Poisson distributed (Wordfish
 and Wordshoal) or non-parametric approaches such as correspodence analysis.
-
 
 *Reading:*
 * Slapin and Proksch (2008)
