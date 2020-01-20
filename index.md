@@ -8,7 +8,7 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # MY459 - Quantitative Text Analysis
 
-### Lent Term 2019
+### Lent Term 2020
 
 ### Instructor
 
