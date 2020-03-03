@@ -276,6 +276,8 @@ and Wordshoal) or non-parametric approaches such as correspodence analysis.
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
+*Seminar Materials:* [Click here](https://classroom.github.com/a/S_Trg-L7) to access seminar materials **when instructed**.
+
 #### Week 8: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week08/)
 
 Vector representations of documents, measuring distance and similarity,
