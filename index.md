@@ -347,6 +347,8 @@ sentiment, networks, and locational information.
 * Klašnja et al (2017)
 * Ruths and Pfeffer (2014)
 
+*Seminar Materials:* [Click here](https://classroom.github.com/a/q8dUwlhA) to access seminar materials **when instructed**.
+
 ### References
 
 Barberá, Pablo. 2015. "Birds of the Same Feather Tweet Together: Bayesian Ideal Point Estimation Using Twitter Data." _Political Analysis_ 23(1):76--91. doi: [`10.1093/pan/mpu011`](https://doi.org/10.1093/pan/mpu011).
