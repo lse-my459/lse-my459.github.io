@@ -31,7 +31,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 3        | [Automated Dictionary Methods](#week-3-automated-dictionary-methods)       | BM |
 | 4        | [Machine Learning for Texts](#week-4-machine-learning-for-texts)                  | BM |
 | 5        | [Supervised Scaling Models for Texts](#week-5-supervised-scaling-models-for-texts)          | BM |
-| 6        | _Reading Week_                       | BM |
+| 6        | _Reading Week_                       | - |
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts) | BM |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                   | BM |
 | 9        | [Topic models](#week-9-topic-models)           | FG |
