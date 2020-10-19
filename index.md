@@ -227,10 +227,11 @@ discusses where these methods are applicable.
 
 *Reading:*
 * Manning, Raghavan and Schütze (2008, Ch. 13)
-* Lantz (2013, Ch. 4 on Naive Bayes)
 * Evans et al. (2007)
+* Miller et. al. (2020)
 
 *Further Reading:*
+* Lantz (2013, Ch. 4 on Naive Bayes)
 * James et al (2013). Chapters 1, 3, and 5.
 * Lantz (2013, Ch. 10)
 * [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
