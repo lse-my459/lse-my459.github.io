@@ -19,7 +19,7 @@ colorlinks: true
 
 ### Course Information
 
-* Lectures Prerecorded
+* Lectures Prerecorded [Watch on Echo360](https://echo360.org.uk/section/4e26c080-8d55-42df-9782-b7d45c92c265/public)
 * Class times TBD
 
 No lectures or classes will take place during School Reading Week 6.
