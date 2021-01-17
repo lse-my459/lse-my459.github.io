@@ -13,9 +13,8 @@ colorlinks: true
 ### Instructors
 
 * [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 9:00-11:00 (held on Zoom, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
-
-[comment]: <> (### Teaching Assistants)
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 16:00-18:00 (held on Zoom, book via Student Hub)
+* [Yan Wang](mailto:Y.Wang149@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
 
 ### Course Information
 
@@ -24,21 +23,19 @@ colorlinks: true
 
 No lectures or classes will take place during School Reading Week 6.
 
-| **Week** | **Topic**                            | **Instructor** |
-|:----------:|:--------------------------------------|:---------|
-| 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)       | BM |
-| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis) | BM |
-| 3        | [Automated Dictionary Methods](#week-3-automated-dictionary-methods)       | BM |
-| 4        | [Machine Learning for Texts](#week-4-machine-learning-for-texts)                  | BM |
-| 5        | [Supervised Scaling Models for Texts](#week-5-supervised-scaling-models-for-texts)          | BM |
-| 6        | _Reading Week_                       | - |
-| 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts) | BM |
-| 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                   | BM |
-| 9        | [Topic models](#week-9-topic-models)           | FG |
-| 10       | [Word embeddings](#week-10-word-embeddings)           | FG |
-| 11       | [Working with Social Media](#week-11-working-with-social-media)           | FG |
-
-
+| **Week** | **Topic**                                                                                                      | **Instructor** |
+|:--------:|:---------------------------------------------------------------------------------------------------------------|:---------------|
+| 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)                                                 | BM             |
+| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis) | BM             |
+| 3        | [Automated Dictionary Methods](#week-3-automated-dictionary-methods)                                           | BM             |
+| 4        | [Machine Learning for Texts](#week-4-machine-learning-for-texts)                                               | BM             |
+| 5        | [Supervised Scaling Models for Texts](#week-5-supervised-scaling-models-for-texts)                             | BM             |
+| 6        | _Reading Week_                                                                                                 | -              |
+| 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts)                         | BM             |
+| 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 | BM             |
+| 9        | [Topic models](#week-9-topic-models)                                                                           | FG             |
+| 10       | [Word embeddings](#week-10-word-embeddings)                                                                    | FG             |
+| 11       | [Working with Social Media](#week-11-working-with-social-media)                                                | FG             |
 
 ### Course Description
 
