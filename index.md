@@ -91,18 +91,17 @@ primarily the R package `quanteda`, available from CRAN.
 
 #### Summative Assignments
 
-Five lab sessions on the indicated weeks will consist of supervised problem sets. After each lab, assignments will be posted. These will involve
-computer exercises applied to texts supplied by the instructor. These
-will be submitted via GitHub Classroom prior to the next lecture, and will be
-marked to provide 60% of the course grade.
+Problem sets, along with the materials for each lab session, will be released on the due date of the previous assignment. The first problem set will be assigned at the end of the first lab session. These will involve computer exercises applied to texts supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 60% of the course grade.
+
+* Problem Set 1 - Due Wednesday 10/02/2021 11.59pm
+* Problem Set 2 - Due Monday 22/02/2021 11.59pm
+* Problem Set 3 - Due Wednesday 03/03/2021 11.59pm
+* Problem Set 4 - Due Monday 15/03/2021 11.59pm
+* Problem Set 5 - Due Thursday 01/04/2021 11.59pm
 
 #### Summative Project
 
-A final project of 3,000 words (5,000 words for MY559 students) 
-will be due at the beginning of ST (on May 4rd at 5pm), and form
-40% of the course grade. This will be an original analysis of texts
-using some of the methods covered in class, and may focus on replicating
-or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
+A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 4rd at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
 
 #### Assessment criteria
 
