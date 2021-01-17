@@ -19,7 +19,9 @@ colorlinks: true
 ### Course Information
 
 * Lectures Prerecorded: [View on Echo360](https://echo360.org.uk/section/4e26c080-8d55-42df-9782-b7d45c92c265/public)
-* Class times TBD
+* Classes:
+     * Mon 15:00-16:30 (YW)
+     * Thu 09:00-10:30 (YW)
 
 No lectures or classes will take place during School Reading Week 6.
 
