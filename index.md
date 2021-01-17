@@ -93,11 +93,11 @@ primarily the R package `quanteda`, available from CRAN.
 
 Problem sets, along with the materials for each lab session, will be released on the due date of the previous assignment. The first problem set will be assigned at the end of the first lab session. These will involve computer exercises applied to texts supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 60% of the course grade.
 
-* Problem Set 1 - Due Wednesday 10/02/2021 11.59pm
-* Problem Set 2 - Due Monday 22/02/2021 11.59pm
-* Problem Set 3 - Due Wednesday 03/03/2021 11.59pm
-* Problem Set 4 - Due Monday 15/03/2021 11.59pm
-* Problem Set 5 - Due Thursday 01/04/2021 11.59pm
+* Problem Set 1: Due Wednesday 10/02/2021 1:00pm
+* Problem Set 2: Due Wednesday 03/03/2021 1:00pm
+* Problem Set 3: Due Wednesday 17/03/2021 1:00pm
+* Problem Set 4: Due Wednesday 31/03/2021 1:00pm
+* Problem Set 5: Due Wednesday 14/04/2021 1:00pm
 
 #### Summative Project
 
