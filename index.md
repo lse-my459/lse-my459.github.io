@@ -190,7 +190,8 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**. Download datasets [here](https://github.com/lse-my459/pset_data/).
+*Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**. 
+<!--Download datasets [here](https://github.com/lse-my459/pset_data/).-->
 
 #### Week 3: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week03/)
 
