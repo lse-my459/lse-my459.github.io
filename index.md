@@ -191,7 +191,7 @@ and stop-words.
 * DuBay (2004)
 
 *Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**. 
-<!--Download datasets [here](https://github.com/lse-my459/pset_data/).-->
+
 
 #### Week 3: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week03/)
 
@@ -240,7 +240,7 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+*Seminar Materials:* [Click here](https://classroom.github.com/g/Ly_eVius) to access seminar materials **when instructed**. Download datasets [here](https://github.com/lse-my459/pset_data/).
 
 #### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
