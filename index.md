@@ -121,7 +121,7 @@ Some of the assignemnts will involve shorter questions, to which the answers can
 ### Recommended Texts
 
 There is no really good single textbook that exists to cover
-computerized or quantitative text analysis. While not ideally fitting our core purpose, 
+computerized or quantitative text analysis. While not ideally fitting our core purpose,
 Krippendorf's classic
 *Content Analysis* --- just updated --- is a good primer for manual
 methods of content analysis and coverage of some of the same
@@ -161,7 +161,7 @@ traditional (non-computer assisted) content analysis to fully automated
 quantitative text analysis. We will cover the conceptual foundations of
 content analysis and quantitative content analysis, discuss the
 objectives, the approach to knowledge, and the particular view of texts
-when performing quantitative analysis. 
+when performing quantitative analysis.
 
 *Reading:*
 * Grimmer and Stewart (2013)
@@ -190,7 +190,7 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**. 
+*Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**.
 
 
 #### Week 3: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week03/)
@@ -240,7 +240,7 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/g/Ly_eVius) to access seminar materials **when instructed**. 
+*Seminar Materials:* [Click here](https://classroom.github.com/g/Ly_eVius) to access seminar materials **when instructed**.
 
 #### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
@@ -274,7 +274,7 @@ and Wordshoal) or non-parametric approaches such as correspodence analysis.
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/S_Trg-L7) to access seminar materials **when instructed**. 
+*Seminar Materials:* [Click here](https://classroom.github.com/a/S_Trg-L7) to access seminar materials **when instructed**.
 
 #### Week 8: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week08/)
 
@@ -329,23 +329,20 @@ space representation.
 * Gurciullo and Mikhaylov (2017)
 * Mikolov et al (2013)
 
-#### Week 11: [Working with Social Media](https://github.com/lse-my459/lectures/blob/master/week11/)
+#### Week 11: [Current topics](https://github.com/lse-my459/lectures/blob/master/week11/)
 
-Social media such as micro-blogging site [Twitter](https://twitter.com) provide a wealth of
-spontaneous, distributed, real-time text that can be used to analyze
-almost any topic. We introduce the growing literature applying text
-analysis techniques to this form of data, with examples for measuring
-sentiment, networks, and locational information.
+This week will give an high level outlook on some neural network based models that go beyond the bag of words assumption. In addition, we will introduce the Twitter API. In coding examples we will look at a topic that combines both areas: Trying to predict whether a sentence tends to approve or disapprove. We obtain training data through the Twitter API, process the data, and then train a range of machine learning classifiers.
 
 *Reading:*
-* Steinert-Threlkeld (2018)
-* Theocharis et al (2016)
+* Ruths and Pfeffer (2014)
 
 *Further Reading:*
 * Barberá (2015)
 * Beauchamp (2017)
 * Klašnja et al (2017)
-* Ruths and Pfeffer (2014)
+* Steinert-Threlkeld (2018)
+* Theocharis et al (2016)
+
 
 <!-- *Seminar Materials:* [Click here](https://classroom.github.com/a/q8dUwlhA) to access seminar materials **when instructed**. -->
 
