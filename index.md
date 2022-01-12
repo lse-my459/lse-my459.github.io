@@ -21,8 +21,7 @@ colorlinks: true
 * Lectures Prerecorded: [View on Echo360](https://echo360.org.uk/section/4e26c080-8d55-42df-9782-b7d45c92c265/public)
 * Q&A Sessions Mondays 11:00-12:00 (Zoom link on Moodle)
 * Classes:
-     * Mon 15:00-16:30 (YW)
-     * Thu 09:00-10:30 (YW)
+     * Thu 09:00-10:30 (ML)
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -38,7 +37,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 | BM             |
 | 9        | [Topic models](#week-9-topic-models)                                                                           | FG             |
 | 10       | [Word embeddings](#week-10-word-embeddings)                                                                    | FG             |
-| 11       | [Current topics](#week-11-working-with-social-media)                                                | FG             |
+| 11       | [Current topics](#week-11-working-with-social-media)                                                           | FG             |
 
 ### Course Description
 
@@ -94,15 +93,15 @@ primarily the R package `quanteda`, available from CRAN.
 
 Problem sets will be assigned at the beginning of each lab session. These will involve computer exercises applied to texts supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 60% of the course grade.
 
-* Problem Set 1: Due Monday 08/02/2021 1:00pm
-* Problem Set 2: Due Monday 01/03/2021 1:00pm
-* Problem Set 3: Due Monday 15/03/2021 1:00pm
-* Problem Set 4: Due Monday 29/03/2021 1:00pm
-* Problem Set 5: Due Monday 12/04/2021 1:00pm
+* Problem Set 1: Due Wednesday, 9 February at 2:00pm
+* Problem Set 2: Due Wednesday, 2 March at 2:00pm
+* Problem Set 3: Due Wednesday, 16 March at 2:00pm
+* Problem Set 4: Due Wednesday, 30 March at 2:00pm
+* Problem Set 5: Due Wednesday, 13 April at 2:00pm
 
 #### Summative Project
 
-A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 4th at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
+A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 9th at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
 
 #### Assessment criteria
 
