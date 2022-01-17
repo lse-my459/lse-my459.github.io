@@ -19,7 +19,7 @@ colorlinks: true
 ### Course Information
 
 * Lectures Prerecorded: [View on Echo360](https://echo360.org.uk/section/4e26c080-8d55-42df-9782-b7d45c92c265/public)
-* Q&A Sessions Mondays 11:00-12:00 (Zoom link on Moodle)
+* Q&A Sessions Mondays 10:30-11:30 (Zoom link on Moodle)
 * Classes:
      * Thu 09:00-10:30 (ML)
 
