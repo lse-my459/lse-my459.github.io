@@ -191,7 +191,7 @@ and stop-words.
 
 *Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**.
 
-*Github tutorial:* [Click here](https://github.com/SianJMBrooke/LSE-GitHub-Guides/blob/main/Submitting_Assignments.md)
+*Github Reference Materials:* [Click here](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
 
 #### Week 3: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week03/)
 
