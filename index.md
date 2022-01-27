@@ -189,7 +189,7 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/klAP_Imc) to access seminar materials **when instructed**.
+*Seminar Materials:* [Click here](https://classroom.github.com/a/Hbgkpipb) to access seminar materials **when instructed**.
 
 *Github Reference Materials:* [Click here](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
 
