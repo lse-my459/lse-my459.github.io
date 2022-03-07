@@ -19,7 +19,7 @@ colorlinks: true
 ### Course Information
 
 * Lectures Prerecorded: [View on Echo360](https://echo360.org.uk/section/4e26c080-8d55-42df-9782-b7d45c92c265/public)
-* Q&A Sessions Mondays 10:30-11:30 (Zoom link on Moodle)
+* Q&A Sessions Mondays 10:30-11:30 (weeks 1-8: Zoom, weeks 9-11: MAR.1.08)
 * Classes:
      * Thu 09:00-10:30 (ML)
 
@@ -303,9 +303,9 @@ about the prevalence and content of topics.
 *Reading:*
 * Blei (2012)
 * Roberts et al. (2014)
-* Blei, Ng and Jordan (2003)
 
 *Further Reading:*
+* Blei, Ng and Jordan (2003)
 * Beil, Ester and Xu (2002)
 * Chang et al. (2009)
 * Gilardi et al. (2017)
