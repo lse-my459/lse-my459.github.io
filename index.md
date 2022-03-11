@@ -292,7 +292,7 @@ selection and weighting methods, especially *tf-idf*.
 
 * Zumel and Mount (2014, Ch. 8)
 
-#### Week 9: [Topic models](https://github.com/lse-my459/lectures/blob/master/week10/)
+#### Week 9: [Topic models](https://github.com/lse-my459/lectures/blob/master/week09/)
 
 This session will teach how to automatically classify documents into
 unknown categories using topic models. We will learn how to run the
