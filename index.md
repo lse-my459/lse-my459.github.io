@@ -312,7 +312,7 @@ about the prevalence and content of topics.
 * Lucas et al (2015)
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
 
-*Seminar Materials:* [Click here]() to access seminar materials **when instructed**. 
+*Seminar Materials:* [Click here](https://classroom.github.com/a/86pEYHzT) to access seminar materials **when instructed**. 
 
 #### Week 10: [Word embeddings](https://github.com/lse-my459/lectures/blob/master/week10/)
 
