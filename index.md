@@ -37,7 +37,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 | BM             |
 | 9        | [Topic models](#week-9-topic-models)                                                                           | FG             |
 | 10       | [Word embeddings](#week-10-word-embeddings)                                                                    | FG             |
-| 11       | [Current topics](#week-11-working-with-social-media)                                                           | FG             |
+| 11       | [Current topics](#week-11-current-topics)                                                                      | FG             |
 
 ### Course Description
 
