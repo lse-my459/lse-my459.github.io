@@ -344,7 +344,7 @@ This week will give an high level outlook on some neural network based models th
 * Theocharis et al (2016)
 
 
-*Seminar Materials:* [Click here]() to access seminar materials **when instructed**. Download datasets [here](https://github.com/lse-my459/pset_data/).
+*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information. Download datasets [here](https://github.com/lse-my459/pset_data/).
 
 ### References
 
