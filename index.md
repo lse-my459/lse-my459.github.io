@@ -14,14 +14,14 @@ colorlinks: true
 
 * [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Thursdays 10:45-12:45 (held on Zoom, book via Student Hub)
 * [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 17:00-19:00 (book via Student Hub)
-* [Marion Lieutaud](mailto:M.Lieutaud@lse.ac.uk), Department of Methodology.  *Office hours*: Thursdays 16:00-17:30 (book via Student Hub)
+* [Ross Barker](mailto:R.Barker1@lse.ac.uk), Department of Methodology.
 
 ### Course Information
 
-* Lectures Prerecorded: [View on Echo360](https://echo360.org.uk/section/4e26c080-8d55-42df-9782-b7d45c92c265/public)
+* Lectures: Mon	10:00-12:00, NAB.LG.09 [View on Echo360]()
 * Q&A Sessions Mondays 10:30-11:30 (weeks 1-8: Zoom, weeks 9-11: MAR.1.08)
 * Classes:
-     * Thu 09:00-10:30 (ML)
+     * Mon 15:00-17:00, STC.S08
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -93,15 +93,15 @@ primarily the R package `quanteda`, available from CRAN.
 
 Problem sets will be assigned at the beginning of each lab session. These will involve computer exercises applied to texts supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 60% of the course grade.
 
-* Problem Set 1: Due Wednesday, 9 February at 2:00pm
-* Problem Set 2: Due Wednesday, 2 March at 2:00pm
-* Problem Set 3: Due Wednesday, 16 March at 2:00pm
-* Problem Set 4: Due Wednesday, 30 March at 2:00pm
-* Problem Set 5: Due Wednesday, 13 April at 2:00pm
+* Problem Set 1: Due Monday, 6 February at 2:00pm
+* Problem Set 2: Due Monday, 27 February at 2:00pm
+* Problem Set 3: Due Monday, 13 March at 2:00pm
+* Problem Set 4: Due Monday, 27 March at 2:00pm
+* Problem Set 5: Due Monday, 10 April at 2:00pm
 
 #### Summative Project
 
-A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 9th at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
+A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 2nd at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
 
 #### Assessment criteria
 
