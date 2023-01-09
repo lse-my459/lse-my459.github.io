@@ -8,18 +8,17 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # MY459 - Quantitative Text Analysis
 
-### Lent Term 2022
+### Lent Term 2023
 
 ### Instructors
 
-* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Thursdays 10:45-12:45 (held on Zoom, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 17:00-19:00 (book via Student Hub)
+* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: refer to Student Hub
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: refer to Student Hub
 * [Ross Barker](mailto:R.Barker1@lse.ac.uk), Department of Methodology.
 
 ### Course Information
 
 * Lectures: Mon	10:00-12:00, NAB.LG.09 [View on Echo360]()
-* Q&A Sessions Mondays 10:30-11:30 (weeks 1-8: Zoom, weeks 9-11: MAR.1.08)
 * Classes:
      * Mon 15:00-17:00, STC.S08
 
