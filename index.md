@@ -88,11 +88,14 @@ primarily the R package `quanteda`, available from CRAN.
 
 ### Assessment
 
+#### Formative Assignments
+
+* Problem Set 1: Due Monday, 6 February at 2:00pm
+
 #### Summative Assignments
 
 Problem sets will be assigned at the beginning of each lab session. These will involve computer exercises applied to texts supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 60% of the course grade.
 
-* Problem Set 1: Due Monday, 6 February at 2:00pm
 * Problem Set 2: Due Monday, 27 February at 2:00pm
 * Problem Set 3: Due Monday, 13 March at 2:00pm
 * Problem Set 4: Due Monday, 27 March at 2:00pm
