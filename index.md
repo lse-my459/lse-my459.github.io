@@ -103,7 +103,7 @@ Problem sets will be assigned at the beginning of each lab session. These will i
 
 #### Summative Project
 
-A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 2nd at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.pdf).
+A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 2nd at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](MY459-559_Final_Assignment_Guidelines.md).
 
 #### Assessment criteria
 
