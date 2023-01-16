@@ -191,7 +191,7 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/Hbgkpipb) to access seminar materials **when instructed**.
+*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information.
 
 *Github Reference Materials:* [Click here](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
 
@@ -242,7 +242,7 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/Ly_eVius) to access seminar materials **when instructed**.
+*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information.
 
 #### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
@@ -276,7 +276,7 @@ and Wordshoal) or non-parametric approaches such as correspodence analysis.
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/S_Trg-L7) to access seminar materials **when instructed**.
+*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information.
 
 #### Week 8: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week08/)
 
@@ -314,7 +314,7 @@ about the prevalence and content of topics.
 * Lucas et al (2015)
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/86pEYHzT) to access seminar materials **when instructed**. 
+*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information. 
 
 #### Week 10: [Word embeddings](https://github.com/lse-my459/lectures/blob/master/week10/)
 
