@@ -33,8 +33,8 @@ No lectures or classes will take place during School Reading Week 6.
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts)                         |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 |
 | 9        | [Topic models](#week-9-topic-models)                                                                           |
-| 10       | [Word embeddings fundamentals](#week-10-word-embeddings)                                                                    |
-| 11       | [Neural language models](#week-11-neural-language-models)                                                                      |
+| 10       | [Word embedding fundamentals](#week-10-word-embedding-fundamentals)                                            |
+| 11       | [Neural language models](#week-11-neural-language-models)                                                      |
 
 ### Course Description
 
@@ -293,7 +293,7 @@ about the prevalence and content of topics.
 
 *Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information. 
 
-#### Week 10: [Word embeddings](https://github.com/lse-my459/lectures/blob/master/week10/)
+#### Week 10: [Word embedding fundamentals](https://github.com/lse-my459/lectures/blob/master/week10/)
 
 This week will cover vector representation of words as an alternative way to construct document-feature
 matrices, with particular attention to word embeddings as a popular type of vector
