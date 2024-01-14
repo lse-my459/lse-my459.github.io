@@ -18,7 +18,7 @@ colorlinks: true
 
 ### Course Information
 
-* Lectures: Mon	10:00-12:00, NAB.LG.09
+* Lectures: Monday 10:00-12:00, CKK.LG.09
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -311,16 +311,6 @@ space representation.
 #### Week 11: [Neural language models](https://github.com/lse-my459/lectures/blob/master/week11/)
 
 This week will give a high level outlook on some neural network based models for text that go beyond the bag of words assumption.
-
-*Reading:*
-* Ruths and Pfeffer (2014)
-
-*Further Reading:*
-* Barberá (2015)
-* Beauchamp (2017)
-* Klašnja et al (2017)
-* Steinert-Threlkeld (2018)
-* Theocharis et al (2016)
 
 
 ### References
