@@ -6,21 +6,19 @@ colorlinks: true
 ---
 
 ![LSE](images/lse-logo.jpg)
-# MY459 - Quantitative Text Analysis
+# Lecture materials for MY459 and MY360 - Quantitative Text Analysis 
 
-### Lent Term 2023
+### Winter Term 2024
 
 ### Instructors
 
-* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: refer to Student Hub
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: refer to Student Hub
-* [Ross Barker](mailto:R.Barker1@lse.ac.uk), Department of Methodology.
+* [Patrick Gildersleve](mailto:p.gildersleve@lse.ac.uk), Department of Methodology.  *Office hours*: Refer to Student Hub
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Refer to Student Hub
+* Ross Barker, Department of Methodology.
 
 ### Course Information
 
-* Lectures: Mon	10:00-12:00, NAB.LG.09 [View on Echo360]()
-* Classes:
-     * Mon 15:00-17:00, STC.S08
+* Lectures: Mon	10:00-12:00, NAB.LG.09
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -35,8 +33,8 @@ No lectures or classes will take place during School Reading Week 6.
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts)                         |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 |
 | 9        | [Topic models](#week-9-topic-models)                                                                           |
-| 10       | [Word embeddings](#week-10-word-embeddings)                                                                    |
-| 11       | [Current topics](#week-11-current-topics)                                                                      |
+| 10       | [Word embeddings fundamentals](#week-10-word-embeddings)                                                                    |
+| 11       | [Neural language models](#week-11-neural-language-models)                                                                      |
 
 ### Course Description
 
@@ -79,31 +77,14 @@ and statistical software.
 
 ### Prerequisites
 
-Students must have completed Applied Regression Analysis (MY452) or
+Students must have completed MY452 (for MY459) or ST107 (for MY360), or
 equivalent.
 
-Students in this course will strongly benefit from prior experience with
-the R statistical package. All methods will be implemented in R, using
-primarily the R package `quanteda`, available from CRAN.
+All methods will be implemented in R, often using the R package `quanteda`, available from CRAN.
 
-### Assessment
+### Assignments
 
-#### Formative Assignments
-
-* Problem Set 1: Due Monday, 6 February at 2:00pm
-
-#### Summative Assignments
-
-Problem sets will be assigned at the beginning of each lab session. These will involve computer exercises applied to texts supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 60% of the course grade.
-
-* Problem Set 2: Due Monday, 27 February at 2:00pm
-* Problem Set 3: Due Monday, 13 March at 2:00pm
-* Problem Set 4: Due Monday, 27 March at 2:00pm
-* Problem Set 5: Due Monday, 10 April at 2:00pm
-
-#### Summative Project
-
-A final project of 3,000 words (5,000 words for MY559 students) will be due at the beginning of ST (on May 2nd at 5pm), and form 40% of the course grade. This will be an original analysis of texts using some of the methods covered in class, and may focus on replicating or extending a published work. Additional guidelines are available [here](https://github.com/lse-my459/lse-my459.github.io/blob/master/MY459-559_Final_Assignment_Guidelines.md).
+For assignment details, please see the Moodle pages of MY459 and MY360.
 
 #### Assessment criteria
 
@@ -117,23 +98,19 @@ Assignments will be marked using the following criteria:
 
 - 30–49: Unsatisfactory (Fail) and 0–29: Unsatisfactory (Bad fail). Based entirely on lecture material but unstructured and with increasing error component. Concepts are disordered or flawed. Poor presentation. Errors of concept and scope or poor in knowledge, structure and expression.
 
-Some of the assignemnts will involve shorter questions, to which the answers can be relatively unambiguously coded as (fully or partially) correct or incorrect. In the marking, these questions may be further broken down into smaller steps and marked step by step. The final mark is then a function of the proportion of parts of the questions which have been answered correctly. In such marking, the principle of partial credit is observed as far as feasible. This means that an answer to a part of a question will be treated as correct when it is correct conditional on answers to other parts of the question, even if those other parts have been answered incorrectly.
+Some of the assignemnts may involve shorter questions, to which the answers can be relatively unambiguously coded as (fully or partially) correct or incorrect. In the marking, these questions may be further broken down into smaller steps and marked step by step. The final mark is then a function of the proportion of parts of the questions which have been answered correctly. In such marking, the principle of partial credit is observed as far as feasible. This means that an answer to a part of a question will be treated as correct when it is correct conditional on answers to other parts of the question, even if those other parts have been answered incorrectly.
 
 ### Recommended Texts
 
-There is no really good single textbook that exists to cover
-computerized or quantitative text analysis. While not ideally fitting our core purpose,
-Krippendorf's classic
-*Content Analysis* --- just updated --- is a good primer for manual
-methods of content analysis and coverage of some of the same
-fundamentals faced in quantitative text analysis.
+There is no really good single textbook that exists to cover computerized or quantitative text analysis. While not ideally fitting our core purpose, Krippendorf's classic *Content Analysis* is a good primer for manual methods of content analysis and coverage of some of the same fundamentals faced in quantitative text analysis.
 
 -   Krippendorff, K. (2013). *Content Analysis: An Introduction to Its
     Methodology*. Sage, Thousand Oaks, CA, 3rd edition.
 
-Other readings will consist of articles and book excerpts, as listed below,
-which will either be made available via Moodle or through the links
-below.
+A great reference book for the technical aspects is also *Speech and Language Processing* by Dan Jurafsky and James H. Martin. The 2023 draft of the 3rd edition is freely available [here](https://web.stanford.edu/~jurafsky/slp3/).
+
+Other readings will consist of articles and book excerpts, as listed below, which will either be made available via Moodle or through the links below.
+
 
 ### Cheat Sheets
 
@@ -151,7 +128,7 @@ This class is supported by [DataCamp](https://www.datacamp.com/), the most intui
 
 ### Credits
 
-A large proportion of the materials were adapted from content developed by Prof. Kenneth Benoit and Dr. Pablo Barbará for previous versions of this course. Some of the assignments were developed by Christian Mueller and Akitaka Matsuo.
+A large proportion of the materials were adapted from content developed by Kenneth Benoit and Pablo Barbará for previous versions of this course. Some of the assignments were developed by Christian Mueller and Akitaka Matsuo.
 
 ### Schedule
 
@@ -331,9 +308,9 @@ space representation.
 * Gurciullo and Mikhaylov (2017)
 * Mikolov et al (2013)
 
-#### Week 11: [Current topics](https://github.com/lse-my459/lectures/blob/master/week11/)
+#### Week 11: [Neural language models](https://github.com/lse-my459/lectures/blob/master/week11/)
 
-This week will give an high level outlook on some neural network based models that go beyond the bag of words assumption. In addition, we will introduce the Twitter API. In coding examples we will look at a topic that combines both areas: Trying to predict whether a sentence tends to approve or disapprove. We obtain training data through the Twitter API, process the data, and then train a range of machine learning classifiers.
+This week will give a high level outlook on some neural network based models for text that go beyond the bag of words assumption.
 
 *Reading:*
 * Ruths and Pfeffer (2014)
@@ -345,8 +322,6 @@ This week will give an high level outlook on some neural network based models th
 * Steinert-Threlkeld (2018)
 * Theocharis et al (2016)
 
-
-*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information. Download datasets [here](https://github.com/lse-my459/pset_data/).
 
 ### References
 
