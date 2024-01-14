@@ -1,6 +1,6 @@
 # MY459/MY559 Quantitative Text Analysis Project Guidelines
 
-The final summative assessment for MY459 is a written analysis of approximately 3,000 words, due at the beginning of ST 2023, which forms 40% of the course grade.
+The final summative assessment for MY459 is a written analysis of approximately 3,000 words, due at the beginning of ST 2024, which forms 50% of the course grade.
 
 The final summative assessment for MY559 is a written analysis of approximately 4,000-5,000 words, with a more detailed research component expected. This does not differ in kind from the MY459 assessment, only in degree.
 
@@ -23,4 +23,4 @@ There is no rigid set of guidelines, but you should use a Chicago manual of styl
 
 ## Deadline
 
-Monday 2 May 2023, 5pm, to be submitted through Moodle.
+Monday 29 April 2023, 5pm, to be submitted through Moodle.
