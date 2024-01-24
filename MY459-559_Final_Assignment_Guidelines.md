@@ -23,4 +23,4 @@ There is no rigid set of guidelines, but you should use a Chicago manual of styl
 
 ## Deadline
 
-Monday 29 April 2023, 5pm, to be submitted through Moodle.
+Monday 29 April 2024, 5pm, to be submitted through Moodle.
