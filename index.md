@@ -32,9 +32,9 @@ No lectures or classes will take place during School Reading Week 6.
 | 6        | _Reading Week_                                                                                                 |
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts)                         |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 |
-| 9        | [Probabilistic Topic models](#week-9-topic-models)                                                                           |
-| 10       | [Word embedding fundamentals](#week-10-word-embedding-fundamentals)                                            |
-| 11       | [Neural network based language models](#week-11-neural-network-based-language-models)                                                      |
+| 9        | [Probabilistic Topic Models](#week-9-topic-models)                                                                           |
+| 10       | [Word Embedding Fundamentals](#week-10-word-embedding-fundamentals)                                            |
+| 11       | [Neural Network Based Language Models](#week-11-neural-network-based-language-models)                                                      |
 
 ### Course Description
 
@@ -313,11 +313,11 @@ This week will give a high level overview of some current neural network based m
 
 *Before the lecture:*
 
-* Please watch the first two of the following videos on neural networks by 3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+* Please watch the first two of the following videos on neural networks by 3Blue1Brown: <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
 
 *Further materials (optional!):*
-* Recent overview talk on LLMs by Andrej Karpathy: https://www.youtube.com/watch?v=zjkBMFhNj_g
-* The Illustrated Transformer by Jay Alammar: https://jalammar.github.io/illustrated-transformer/
+* Recent overview talk on LLMs by Andrej Karpathy: <https://www.youtube.com/watch?v=zjkBMFhNj_g>
+* The Illustrated Transformer by Jay Alammar: <https://jalammar.github.io/illustrated-transformer/>
 
 
 ### References
