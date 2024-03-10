@@ -273,8 +273,7 @@ selection and weighting methods, especially *tf-idf*.
 
 #### Week 9: [Probabilistic topic models](https://github.com/lse-my459/lectures/blob/master/week09/)
 
-This session will teach how to automatically classify documents into
-unknown categories using probabilistic topic models. We will learn how to run the Latent
+This session will discuss probabilistic topic models. We will learn how to run the Latent
 Dirichlet Allocation (LDA) model and the Structural
 Topic Model (STM), which allows researchers to use covariates to learn
 about the prevalence and content of topics.
