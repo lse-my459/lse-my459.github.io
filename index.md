@@ -32,9 +32,9 @@ No lectures or classes will take place during School Reading Week 6.
 | 6        | _Reading Week_                                                                                                 |
 | 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts)                         |
 | 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 |
-| 9        | [Topic models](#week-9-topic-models)                                                                           |
+| 9        | [Probabilistic Topic models](#week-9-topic-models)                                                                           |
 | 10       | [Word embedding fundamentals](#week-10-word-embedding-fundamentals)                                            |
-| 11       | [Neural language models](#week-11-neural-language-models)                                                      |
+| 11       | [Neural network based language models](#week-11-neural-network-based-language-models)                                                      |
 
 ### Course Description
 
@@ -271,11 +271,11 @@ selection and weighting methods, especially *tf-idf*.
 
 * Zumel and Mount (2014, Ch. 8)
 
-#### Week 9: [Topic models](https://github.com/lse-my459/lectures/blob/master/week09/)
+#### Week 9: [Probabilistic topic models](https://github.com/lse-my459/lectures/blob/master/week09/)
 
 This session will teach how to automatically classify documents into
-unknown categories using topic models. We will learn how to run the
-parametric Latent Dirichlet Allocation (LDA) model and the Structural
+unknown categories using probabilistic topic models. We will learn how to run the Latent
+Dirichlet Allocation (LDA) model and the Structural
 Topic Model (STM), which allows researchers to use covariates to learn
 about the prevalence and content of topics.
 
@@ -308,9 +308,17 @@ space representation.
 * Gurciullo and Mikhaylov (2017)
 * Mikolov et al (2013)
 
-#### Week 11: [Neural language models](https://github.com/lse-my459/lectures/blob/master/week11/)
+#### Week 11: [Neural network based language models](https://github.com/lse-my459/lectures/blob/master/week11/)
 
-This week will give a high level outlook on some neural network based models for text that go beyond the bag of words assumption.
+This week will give a high level overview of some current neural network based models for text that go beyond the bag-of-words assumption.
+
+*Before the lecture:*
+
+* Please watch the first two of the following videos on neural networks by 3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+*Further materials (optional!):*
+* Recent overview talk on LLMs by Andrej Karpathy: https://www.youtube.com/watch?v=zjkBMFhNj_g
+* The Illustrated Transformer by Jay Alammar: https://jalammar.github.io/illustrated-transformer/
 
 
 ### References
