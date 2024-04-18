@@ -1,8 +1,8 @@
 # MY459/MY559 Quantitative Text Analysis Project Guidelines
 
-The final summative assessment for MY459 is a written analysis of approximately 3,000 words, due at the beginning of ST 2024, which forms 50% of the course grade.
+The final summative assessment for MY459 is a written analysis of no more than 3,000 words, due at the beginning of ST 2024, which forms 50% of the course grade.
 
-The final summative assessment for MY559 is a written analysis of approximately 4,000-5,000 words, with a more detailed research component expected. This does not differ in kind from the MY459 assessment, only in degree.
+The final summative assessment for MY559 is a written analysis of ca. 4000 and no more than 5,000 words, with a more detailed research component expected. This does not differ in kind from the MY459 assessment, only in degree.
 
 ## Content
 The project replaces a final exam and is designed to give you a chance to analyze a set of texts that you have chosen, reflecting (hopefully) your own research interests. This can be, and probably makes the most sense to be, textual data from something you are already studying. Which texts you choose, what question you investigate, and how you analyze the texts is your choice, but you must justify the choice.
