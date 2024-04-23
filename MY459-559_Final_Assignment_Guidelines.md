@@ -9,7 +9,7 @@ The project replaces a final exam and is designed to give you a chance to analyz
 Your content should include the following:
 
 1. **A cover sheet** including the title and your LSE candidate ID.
-2. **An abstract page**, with an abstract of no more than 200 words.
+2. **An abstract page**, with an abstract of no more than 200 words (this doesn't count towards the project wordcount).
 3. **Introduction.** An expanded version of your abstract, which introduces the question, states the rationale for trying to answer it, briefly describes your corpus, identifies the methods you apply to the texts, and summarizes the findings.
 4. **Motivation.** Why have you chosen to analyze this topic? Is there a compelling social reason? Does it contribute to scholarship? This can include a “literature review” (but don’t overdo it).
 5. **Description of your corpus.** You are free to choose any corpus you wish, of any size, although you must include a justification for the choice of texts and acknowledge the source. You will need to document any format conversions or pre-processing steps you have applied to the texts prior to analysis. You should also present some basic summary statistics about the texts, prior to analysis.
