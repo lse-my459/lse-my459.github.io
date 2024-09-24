@@ -112,7 +112,7 @@ Quantitative text analysis encompases a very wide range of methods of
 varying degrees of complexity, so no single textbook can hope to cover 
 all topics in the field. However, there are a few textbooks that provide 
 nice coverage of many of the concepts and topics we will cover in this 
-class:
+course:
 
 - Grimmer, Justin, Margaret E. Roberts and Brandon M. Stewart (2022). 
 *Text as Data: A New Framework for Machine Learning and the Social Sciences*. 
