@@ -8,19 +8,31 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # Lecture materials for MY459 and MY360 - Quantitative Text Analysis 
 
-### Winter Term 2024
+_Please note that the information on this page is provisional until the 
+start of the term._
+
+### Winter Term 2025
 
 ### Instructors
 
-* [Patrick Gildersleve](mailto:p.gildersleve@lse.ac.uk), Department of Methodology.  *Office hours*: Refer to Student Hub
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Refer to Student Hub
-* Ross Barker, Department of Methodology.
+* [Ryan Hübert](mailto:r.hubert@lse.ac.uk), Department of Methodology. 
+_Course convenor for MY459._
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of 
+Methodology. _Course convenor for MY360._
+
+For all office hours, please sign up at 
+[StudentHub](https://studenthub.lse.ac.uk/).
 
 ### Course Information
 
-* Lectures: Monday 10:00-12:00, CKK.LG.09
-
-No lectures or classes will take place during School Reading Week 6.
+* Lectures will take place Mondays 10:00-12:00 in CLM.3.02 during all 
+Winter Term weeks except week 6 (LSE Reading Week).
+* Seminars will take place every other week, during Weeks 2, 4, 7, 9 
+and 11. Please see your course Moodle page for the times and locations 
+of the seminars.
+* Course Moodle pages: 
+[MY459](https://moodle.lse.ac.uk/course/view.php?id=10949), 
+[MY360](https://moodle.lse.ac.uk/course/view.php?id=10933)
 
 | **Week** | **Topic**                                                                                                      |
 |:--------:|:---------------------------------------------------------------------------------------------------------------|
@@ -80,59 +92,74 @@ and statistical software.
 Students must have completed MY452 (for MY459) or ST107 (for MY360), or
 equivalent.
 
-All methods will be implemented in R, often using the R package `quanteda`, available from CRAN.
+All methods will be implemented in R, often using the R package `quanteda`, 
+available from CRAN. 
 
-### Assignments
+**We will assume all students have a strong working knowledge of R and 
+sufficient experience using it for data analysis. See Moodle for more
+detail on how you can prepare.** 
 
-For assignment details, please see the Moodle pages of MY459 and MY360.
+### Assessments
 
-#### Assessment criteria
-
-Assignments will be marked using the following criteria:
-
-- 70–100: Very Good to Excellent (Distinction). Perceptive, focused use of a good depth of material with a critical edge. Original ideas or structure of argument.
-
-- 60–69: Good (Merit).  Perceptive understanding of the issues plus a coherent well-read and stylish treatment though lacking originality
-
-- 50–59: Satisfactory (Pass). A “correct” answer based largely on lecture material. Little detail or originality but presented in adequate framework. Small factual errors allowed.
-
-- 30–49: Unsatisfactory (Fail) and 0–29: Unsatisfactory (Bad fail). Based entirely on lecture material but unstructured and with increasing error component. Concepts are disordered or flawed. Poor presentation. Errors of concept and scope or poor in knowledge, structure and expression.
-
-Some of the assignemnts may involve shorter questions, to which the answers can be relatively unambiguously coded as (fully or partially) correct or incorrect. In the marking, these questions may be further broken down into smaller steps and marked step by step. The final mark is then a function of the proportion of parts of the questions which have been answered correctly. In such marking, the principle of partial credit is observed as far as feasible. This means that an answer to a part of a question will be treated as correct when it is correct conditional on answers to other parts of the question, even if those other parts have been answered incorrectly.
+* Formative: there will be one formative problem set during the Winter 
+Term.
+* Summative: there will be one two-hour exam during Spring Term (worth 
+100% of your final mark).
 
 ### Recommended Texts
 
-There is no really good single textbook that exists to cover computerized or quantitative text analysis. While not ideally fitting our core purpose, Krippendorf's classic *Content Analysis* is a good primer for manual methods of content analysis and coverage of some of the same fundamentals faced in quantitative text analysis.
+Quantitative text analysis encompases a very wide range of methods of 
+varying degrees of complexity, so no single textbook can hope to cover 
+all topics in the field. However, there are a few textbooks that provide 
+nice coverage of many of the concepts and topics we will cover in this 
+class:
 
--   Krippendorff, K. (2013). *Content Analysis: An Introduction to Its
-    Methodology*. Sage, Thousand Oaks, CA, 3rd edition.
+- Grimmer, Justin, Margaret E. Roberts and Brandon M. Stewart (2022). 
+*Text as Data: A New Framework for Machine Learning and the Social Sciences*. 
+Princeton University Press, Princeton, NJ. This textbook is a recent survey
+of quantitative text analysis as used in the social sciences.
+- Krippendorff, K. (2013). *Content Analysis: An Introduction to Its 
+Methodology*. Sage, Thousand Oaks, CA, 3rd edition. This textbook is 
+a good primer for _manual_ methods of content analysis and coverage of 
+some of the same fundamentals faced in quantitative text analysis.
+- Jurafsky, Daniel and James H. Martin (2024). *Speech and Language 
+Processing: An Introduction to Natural Language Processing, Computational 
+Linguistics, and Speech Recognition with Language Models*. 3rd edition. 
+Online manuscript released August 20, 2024. Available at 
+https://web.stanford.edu/~jurafsky/slp3. This is a great reference book 
+for the more technical aspects of quantitative text analysis.
 
-A great reference book for the technical aspects is also *Speech and Language Processing* by Dan Jurafsky and James H. Martin. The 2023 draft of the 3rd edition is freely available [here](https://web.stanford.edu/~jurafsky/slp3/).
+Most readings in the course will consist of articles and book excerpts, 
+as listed below, which will either be made available via Moodle or 
+through the links below.
 
-Other readings will consist of articles and book excerpts, as listed below, which will either be made available via Moodle or through the links below.
+### Coding Cheat Sheets
 
+Coding "cheat sheets" contain useful code examples to get you started. 
+Please refer to these materials before you book office hours!
 
-### Cheat Sheets
-
-Cheat sheets contain useful code examples to get you started. Please refer to these materials before you book office hours!
-
-[Quanteda](https://muellerstefan.net/files/quanteda-cheatsheet.pdf)  
-[Regular Expressions](https://github.com/ashchan/cheatsheets/blob/master/misc/regular-expressions-cheat-sheet-v2.pdf)  
-[Glob](https://github.com/begin/globbing/blob/master/cheatsheet.md)
-
-<!--
-### Additional resources
-
-This class is supported by [DataCamp](https://www.datacamp.com/), the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.
--->
+- [Quanteda](https://muellerstefan.net/files/quanteda-cheatsheet.pdf)  
+- [Regular Expressions](https://github.com/ashchan/cheatsheets/blob/master/misc/regular-expressions-cheat-sheet-v2.pdf)  
+- [Glob](https://github.com/begin/globbing/blob/master/cheatsheet.md)
 
 ### Credits
 
-A large proportion of the materials were adapted from content developed by Kenneth Benoit and Pablo Barbará for previous versions of this course. Some of the assignments were developed by Christian Mueller and Akitaka Matsuo.
+A large proportion of the materials were adapted from content developed 
+by Kenneth Benoit and Pablo Barbará for previous versions of this course. 
+Some of the assignments were developed by Christian Mueller and Akitaka 
+Matsuo.
 
-### Schedule
+### Provisional Schedule of Topics
 
-#### Week 1. [Overview and fundamentals](https://github.com/lse-my459/lectures/blob/master/week01/)
+**The following course schedule is provisional and subject to revisions 
+before the beginning of the Winter Term. Although there will not be major 
+changes in the following course content, some of the topics and readings 
+may be modified or reorganised.**
+
+*Important note: links to lecture slides and other course materials will 
+be updated/added in advance of each week's teaching.*
+
+#### Week 1. [Overview and fundamentals]()<!--(https://github.com/lse-my459/lectures/blob/master/week01/)-->
 
 This session will cover fundamentals, including the continuum from
 traditional (non-computer assisted) content analysis to fully automated
@@ -150,7 +177,7 @@ when performing quantitative analysis.
 * Neuendorf (2002, Chs. 4–7)
 * Krippendorff (2013, Ch. 6)
 
-#### Week 2: [Descriptive statistical methods for text analysis](https://github.com/lse-my459/lectures/blob/master/week02/)
+#### Week 2: [Descriptive statistical methods for text analysis]()<!--(https://github.com/lse-my459/lectures/blob/master/week02/)-->
 
 Here we focus on quantitative methods for describing texts, focusing on
 summary measures that highlight particular characteristics of documents
@@ -168,11 +195,11 @@ and stop-words.
 *Further Reading:*
 * DuBay (2004)
 
-*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information.
+*Seminar Materials:* See the Moodle page for your course (links above).
 
 *Github Reference Materials:* [Click here](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
 
-#### Week 3: [Automated dictionary methods](https://github.com/lse-my459/lectures/blob/master/week03/)
+#### Week 3: [Automated dictionary methods]()<!--(https://github.com/lse-my459/lectures/blob/master/week03/)-->
 
 Automatic dictionary-based methods involve association of pre-defined
 word lists with particular quantitative values assigned by the
@@ -195,7 +222,7 @@ frequency.
 * Loughran and McDonald (2011)
 * Tausczik and Pennebaker (2010)
 
-#### Week 4: [Machine Learning for Texts](https://github.com/lse-my459/lectures/blob/master/week04/)
+#### Week 4: [Machine Learning for Texts]()<!--(https://github.com/lse-my459/lectures/blob/master/week04/)-->
 
 Classification methods permit the automatic classification of texts in a
 test set following machine learning from a training set. We will
@@ -219,9 +246,9 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information.
+*Seminar Materials:* See the Moodle page for your course (links above).
 
-#### Week 5: [Supervised Scaling Models for Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
+#### Week 5: [Supervised Scaling Models for Texts]()<!--(https://github.com/lse-my459/lectures/blob/master/week05/)-->
 
 Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
 Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
@@ -237,7 +264,9 @@ between classification and scaling.
 * Benoit and Laver (2008)
 * Lowe (2008)
 
-#### Week 7: [Unsupervised Models for Scaling Texts](https://github.com/lse-my459/lectures/blob/master/week07/)
+#### Week 6: NO LECTURES OR SEMINARS (READING WEEK)
+
+#### Week 7: [Unsupervised Models for Scaling Texts]()<!--(https://github.com/lse-my459/lectures/blob/master/week07/)-->
 
 This session continues text scaling using unsupervised scaling methods,
 based on parametric approaches modelling features as Poisson distributed (Wordfish
@@ -253,9 +282,9 @@ and Wordshoal) or non-parametric approaches such as correspodence analysis.
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
-*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information.
+*Seminar Materials:* See the Moodle page for your course (links above).
 
-#### Week 8: [Similarity and clustering methods](https://github.com/lse-my459/lectures/blob/master/week08/)
+#### Week 8: [Similarity and clustering methods]()<!--(https://github.com/lse-my459/lectures/blob/master/week08/)-->
 
 Vector representations of documents, measuring distance and similarity,
 hierarchical and k-means clustering. This topic also revisits feature
@@ -271,7 +300,7 @@ selection and weighting methods, especially *tf-idf*.
 
 * Zumel and Mount (2014, Ch. 8)
 
-#### Week 9: [Probabilistic topic models](https://github.com/lse-my459/lectures/blob/master/week09/)
+#### Week 9: [Probabilistic topic models]()<!--(https://github.com/lse-my459/lectures/blob/master/week09/)-->
 
 This session will discuss probabilistic topic models. We will learn how to run the Latent
 Dirichlet Allocation (LDA) model and the Structural
@@ -290,9 +319,9 @@ about the prevalence and content of topics.
 * Lucas et al (2015)
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
 
-*Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Course Information. 
+*Seminar Materials:* See the Moodle page for your course (links above).
 
-#### Week 10: [Word embedding fundamentals](https://github.com/lse-my459/lectures/blob/master/week10/)
+#### Week 10: [Word embedding fundamentals]()<!--(https://github.com/lse-my459/lectures/blob/master/week10/)-->
 
 This week will discuss fundamentals of numerical vector representations for words.
 
@@ -305,7 +334,7 @@ This week will discuss fundamentals of numerical vector representations for word
 * Gurciullo and Mikhaylov (2017)
 * Mikolov et al (2013)
 
-#### Week 11: [Neural network based language models](https://github.com/lse-my459/lectures/blob/master/week11/)
+#### Week 11: [Neural network based language models]()<!--(https://github.com/lse-my459/lectures/blob/master/week11/)-->
 
 This week will give a high level overview of some current neural network based models for text that go beyond the bag-of-words assumption.
 
@@ -317,6 +346,7 @@ This week will give a high level overview of some current neural network based m
 * Recent overview talk on LLMs by Andrej Karpathy: <https://www.youtube.com/watch?v=zjkBMFhNj_g>
 * The Illustrated Transformer by Jay Alammar: <https://jalammar.github.io/illustrated-transformer/>
 
+*Seminar Materials:* See the Moodle page for your course (links above).
 
 ### References
 
@@ -359,6 +389,8 @@ Gilardi, F., Shipan, C. R., & Wueest, B. 2017. "[Policy Diffusion: The Issue-Def
 Ginsberg, Jeremy, Matthew H Mohebbi, Rajan S Patel, Lynnette Brammer, Mark S Smolinski and Larry Brilliant. 2008. “Detecting influenza epidemics using search engine query data.” _Nature_ 457(7232):1012–1014.
 
 Grimmer, Justin and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” _Political Analysis_ 21(3):267–297. doi: [`10.1093/pan/mps028`](https://doi.org/10.1093/pan/mps028).
+
+Grimmer, Justin, Margaret E. Roberts and Brandon M. Stewart. 2022. *Text as Data: A New Framework for Machine Learning and the Social Sciences*. Princeton University Press, Princeton, NJ. 
 
 Gurciullo, S. and Mikhaylov, S. 2017. "[Detecting policy preferences and dynamics in the UN general debate with neural word embeddings](https://ieeexplore.ieee.org/document/8253197)", _2017 International Conference on the Frontiers and Advances in Data Science_.
 
