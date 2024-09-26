@@ -152,9 +152,9 @@ Matsuo.
 ### Provisional Schedule of Topics
 
 **The following course schedule is provisional and subject to revisions 
-before the beginning of the Winter Term. Although there will not be major 
-changes in the following course content, some of the topics and readings 
-may be modified or reorganised.**
+before the beginning of the Winter Term. Although we do not anticipate 
+major changes in the following course content, some of the topics and 
+readings may be modified or reorganised.**
 
 *Important note: links to lecture slides and other course materials will 
 be updated/added in advance of each week's teaching.*
