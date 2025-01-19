@@ -283,10 +283,14 @@ between documents, as well as standard approaches for clustering many
 documents into groups of similar documents.
 
 **Primary Reading**
-* 
+* Grimmer, Roberts and Stewart (2022, secs. 7.1-7.2 and ch. 12)
 
 **Further Reading**
-* 
+* Manning, Raghavan and Schütze (2008, Ch. 6)
+* Choi, Cha and Tappert (2010)
+* Corley and Mihalcea (2005)
+* James et al. (2013, Ch. 10.3)
+* Zumel and Mount (2014, Ch. 8)
 
 **Seminar Materials**
 * _to be posted_
