@@ -5,11 +5,11 @@ classoption: DIV=14
 colorlinks: true
 ---
 
-![LSE](images/lse-logo.jpg)
-# Lecture materials for MY459 and MY360 - Quantitative Text Analysis 
+![LSE](lse-logo.jpg)
+# Course Website for MY459 and MY360: Quantitative Text Analysis 
 
 _Please note that the information on this page is provisional until the 
-start of the term._
+first lecture._
 
 ### Winter Term 2025
 
@@ -20,83 +20,85 @@ _Course convenor for MY459._
 * [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of 
 Methodology. _Course convenor for MY360._
 
-For all office hours, please sign up at 
-[StudentHub](https://studenthub.lse.ac.uk/).
+All office hours should be booked on [StudentHub](https://studenthub.lse.ac.uk/).
 
 ### Course Information
 
 * Lectures will take place Mondays 10:00-12:00 in CLM.3.02 during all 
 Winter Term weeks except week 6 (LSE Reading Week).
-* Seminars will take place every other week, during Weeks 2, 4, 7, 9 
-and 11. Please see your course Moodle page for the times and locations 
-of the seminars.
-* Course Moodle pages: 
+* Seminars are two hours and will take place every other week, during 
+Weeks 2, 4, 7, 9 and 11. Please see the LSE Timetable for times and 
+locations of the seminars.
+* Course Moodle pages (for announcements and some supplemental materials): 
 [MY459](https://moodle.lse.ac.uk/course/view.php?id=10949), 
 [MY360](https://moodle.lse.ac.uk/course/view.php?id=10933)
 
-| **Week** | **Topic**                                                                                                      |
-|:--------:|:---------------------------------------------------------------------------------------------------------------|
-| 1        | [Overview and Fundamentals](#week-1-overview-and-fundamentals)                                                 |
-| 2        | [Descriptive Statistical Methods for Text Analysis](#week-2-descriptive-statistical-methods-for-text-analysis) |
-| 3        | [Automated Dictionary Methods](#week-3-automated-dictionary-methods)                                           |
-| 4        | [Machine Learning for Texts](#week-4-machine-learning-for-texts)                                               |
-| 5        | [Supervised Scaling Models for Texts](#week-5-supervised-scaling-models-for-texts)                             |
-| 6        | _Reading Week_                                                                                                 |
-| 7        | [Unsupervised Models for Scaling Texts](#week-7-unsupervised-models-for-scaling-texts)                         |
-| 8        | [Similarity and Clustering Methods](#week-8-similarity-and-clustering-methods)                                 |
-| 9        | [Probabilistic Topic Models](#week-9-probabilistic-topic-models)                                                                           |
-| 10       | [Word Embedding Fundamentals](#week-10-word-embedding-fundamentals)                                            |
-| 11       | [Neural Network Based Language Models](#week-11-neural-network-based-language-models)                                                      |
+| **Week** | **Topic** | **Instructor** |
+| 1 | [Introduction and Foundations](#week-1-introduction-and-foundations) | Ryan Hübert |
+| 2 | [Quantifying Texts](#week-2-quantifying-texts) | Ryan Hübert |
+| 3 | [Exploiting Word Meanings](#week-3-exploiting-word-meanings) | Ryan Hübert |
+| 4 | [Classifying Texts into Categories](#week-4-classifying-texts-into-categories) | Ryan Hübert |
+| 5 | [Scaling Latent Traits Using Texts](#week-5-scaling-latent-traits-using-texts) | Ryan Hübert |
+| 6 | _Reading Week_ | |
+| 7 | [Text Similarity and Clustering](#week-7-text-similarity-and-clustering) | Ryan Hübert |
+| 8 | [Probabilistic Topic Models](#week-8-probabilistic-topic-models) | Friedrich Geiecke |
+| 9 | [Methods Review and Neural Network Fundamentals](#week-9-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
+| 10 | [Static Word Embeddings](#week-10-static-word-embeddings) | Friedrich Geiecke |
+| 11 | [Large Language Models and Alignment](#week-11-large-language-models-and-alignment) | Friedrich Geiecke |
+
+
+### Administrative and Course Support
+
+If you are in need of administrative support for this course:
+
+* For auditing, registration, extensions, late assignments and department/school policy questions: 
+[methodology.admin@lse.ac.uk](mailto:methodology.admin@lse.ac.uk)
+* For questions about course platforms, including Moodle, website or GitHub Classrooms: 
+[r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
+* For other administrative issues related to MY459 or MY559: 
+[r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
+* For other administrative issues related to MY360: 
+[f.c.geiecke@lse.ac.uk](mailto:f.c.geiecke@lse.ac.uk)
+
+For all questions about _course content_, please schedule office hours 
+with one of the instructors.
 
 ### Course Description
 
 The course surveys methods for systematically extracting quantitative
-information from political text for social scientific purposes, starting
-with classical content analysis and dictionary-based methods, to
-classification methods, and state-of-the-art scaling methods and topic
-models for estimating quantities from text using statistical techniques.
-The course lays a theoretical foundation for text analysis but mainly
-takes a very practical and applied approach, so that students learn how
-to apply these methods in actual research. The common focus across all
-methods is that they can be reduced to a three-step process: first,
-identifying texts and units of texts for analysis; second, extracting
-from the texts quantitatively measured features---such as coded content
-categories, word counts, word types, dictionary counts, or parts of
-speech---and converting these into a quantitative matrix; and third,
-using quantitative or statistical methods to analyse this matrix in
-order to generate inferences about the texts or their authors. The
-course systematically covers these methods in a logical progression,
-with a practical, hands-on approach where each technique will be applied
-using appropriate software to real texts.
-
-### Objectives
-
-The course is also designed to cover many fundamental issues in
-quantitative text analysis such as inter-coder agreement, reliability,
-validation, accuracy, and precision. It focuses on methods of converting
-texts into quantitative matrixes of features, and then analysing those
-features using statistical methods. The course briefly covers the
-qualitative technique of human coding and annotation but only for the
-purposes of creating a validation set for automated approaches. These
-automated approaches include dictionary construction and application,
-classification and machine learning, scaling models, and topic models.
-For each topic, we will systematically cover published applications and
-examples of these methods, from a variety of disciplinary and applied
-fields but focusing on political science. Lessons will consist of a
-mixture of theoretical grounding in content analysis approaches and
-techniques, with hands on analysis of real texts using content analytic
-and statistical software.
+information from texts for social scientific purposes, starting with the 
+fundamentals of representing texts as quantitative data, then proceeding 
+to explore several methods commonly used to draw social scientific 
+lessons from texts. The course concludes with an introduction to the 
+methods behind recent advances in large language models that serve as 
+the basis of services like ChatGPT. The course lays a theoretical 
+foundation for text analysis in the social sciences, but it also takes a 
+practical and applied approach so that students learn how to apply these 
+methods in research. The common focus across all methods is that they can 
+be reduced to a three-step process: first, identifying texts and units of 
+texts for analysis; second, extracting from the texts quantitatively 
+measured features---such as coded content categories, word counts, word 
+types, dictionary counts, or parts of speech---and converting these into 
+a quantitative matrix; and third, using quantitative or statistical 
+methods to analyse this matrix in order to generate inferences about the 
+texts or their authors. The course systematically covers these methods 
+in a logical progression, with a practical, hands-on approach where each 
+technique will be applied using appropriate software to real texts.
 
 ### Prerequisites
 
 Students must have completed MY452 (for MY459) or ST107 (for MY360), or
 equivalent.
 
-All methods will be implemented in R, often using the R package `quanteda`, 
-available from CRAN. 
+All methods will be implemented in R, often using the R packages 
+in `tidyverse` as well as `quanteda`, all available from CRAN. We may 
+also occasionally demonstrate how to do various quantitative text 
+analysis tasks in python.
 
-**We will assume all students have a strong working knowledge of R and 
-sufficient experience using it for data analysis. See Moodle for more
+**We will assume all students have access to a computer that is capable 
+of performing the quantitative text analysis techniques taught in this 
+course, as well as a strong working knowledge of R and sufficient 
+experience using it for data analysis. See Moodle for more
 detail on how you can prepare.** 
 
 ### Assessments
@@ -106,22 +108,32 @@ Term.
 * Summative: there will be one two-hour exam during Spring Term (worth 
 100% of your final mark).
 
+We will provide more details later in WT.
+
 ### Recommended Texts
 
-Quantitative text analysis encompases a very wide range of methods of 
-varying degrees of complexity, so no single textbook can hope to cover 
-all topics in the field. However, there are a few textbooks that provide 
-nice coverage of many of the concepts and topics we will cover in this 
-course:
+There are a wide range of textbooks on quantative text analysis. Since 
+our focus in this course is on social science applications, we will rely 
+heavily on a recent (and very good!) textbook on the topic:
 
 - Grimmer, Justin, Margaret E. Roberts and Brandon M. Stewart (2022). 
-*Text as Data: A New Framework for Machine Learning and the Social Sciences*. 
-Princeton University Press, Princeton, NJ. This textbook is a recent survey
-of quantitative text analysis as used in the social sciences.
+*Text as Data: A New Framework for Machine Learning and the Social 
+Sciences*. Princeton University Press, Princeton, NJ. This textbook is a 
+recent survey of quantitative text analysis as used in the social 
+sciences.
+
+You may wish to purchase a copy for yourself, especially if you plan to 
+pursue quantitative text analysis in future research.
+
+There are many other textbooks covering various topics in quantitative 
+text analysis from a variety of academic perspectives. Two of the most 
+commonly cited are:
+
 - Krippendorff, K. (2013). *Content Analysis: An Introduction to Its 
 Methodology*. Sage, Thousand Oaks, CA, 3rd edition. This textbook is 
 a good primer for _manual_ methods of content analysis and coverage of 
 some of the same fundamentals faced in quantitative text analysis.
+
 - Jurafsky, Daniel and James H. Martin (2024). *Speech and Language 
 Processing: An Introduction to Natural Language Processing, Computational 
 Linguistics, and Speech Recognition with Language Models*. 3rd edition. 
@@ -129,114 +141,102 @@ Online manuscript released August 20, 2024. Available at
 https://web.stanford.edu/~jurafsky/slp3. This is a great reference book 
 for the more technical aspects of quantitative text analysis.
 
-Most readings in the course will consist of articles and book excerpts, 
-as listed below, which will either be made available via Moodle or 
-through the links below.
+Many of the readings listed below are articles, which are typically 
+available via the LSE library.
 
 ### Coding Cheat Sheets
 
 Coding "cheat sheets" contain useful code examples to get you started. 
 Please refer to these materials before you book office hours!
 
-- [Quanteda](https://muellerstefan.net/files/quanteda-cheatsheet.pdf)  
+- [`stringr` package](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)
+- [`quanteda` package](https://muellerstefan.net/files/quanteda-cheatsheet.pdf)  
 - [Regular Expressions](https://github.com/ashchan/cheatsheets/blob/master/misc/regular-expressions-cheat-sheet-v2.pdf)  
-- [Glob](https://github.com/begin/globbing/blob/master/cheatsheet.md)
 
 ### Credits
 
 A large proportion of the materials were adapted from content developed 
 by Kenneth Benoit and Pablo Barbará for previous versions of this course. 
-Some of the assignments were developed by Christian Mueller and Akitaka 
-Matsuo.
+Some of the exercises were developed by Christian Mueller and Akitaka Matsuo.
 
-### Provisional Schedule of Topics
+### Schedule of Topics
 
-**The following course schedule is provisional and subject to revisions 
-before the beginning of the Winter Term. Although we do not anticipate 
-major changes in the following course content, some of the topics and 
-readings may be modified or reorganised.**
+*We may make minor modifications to the timing or ordering of topics as 
+the term progresses, but we will not make any major revisions to the 
+topics we plan to cover in this course.*
 
-*Important note: links to lecture slides and other course materials will 
-be updated/added in advance of each week's teaching.*
+**Lecture slides, example code and reading lists will be updated in 
+advance of each week's teaching. Please check back regularly.**
 
-#### Week 1. [Overview and fundamentals]()<!--(https://github.com/lse-my459/lectures/blob/master/week01/)-->
+#### Week 1. [Introduction and Foundations](https://github.com/lse-my459/lectures/blob/master/week01/)
 
-This session will cover fundamentals, including the continuum from
-traditional (non-computer assisted) content analysis to fully automated
-quantitative text analysis. We will cover the conceptual foundations of
-content analysis and quantitative content analysis, discuss the
-objectives, the approach to knowledge, and the particular view of texts
-when performing quantitative analysis.
+This lecture will begin with a conceptual overview of the main themes 
+covered in this course, including why scholars use quantitative text 
+analysis. Then, it will review course logistics and prerequisites, 
+and cover core principles of digital text. 
 
-*Reading:*
+**Coding Resources**
+* Github Reference Materials](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
+
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, chs. 1-2)
+
+**Further Reading**
 * Grimmer and Stewart (2013)
 * Manning, Raghavan and Schütze (2008, 117–120)
-
-*Further Reading:*
 * Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
 * Neuendorf (2002, Chs. 4–7)
 * Krippendorff (2013, Ch. 6)
 
-#### Week 2: [Descriptive statistical methods for text analysis]()<!--(https://github.com/lse-my459/lectures/blob/master/week02/)-->
+#### Week 2: [Quantifying Texts](https://github.com/lse-my459/lectures/blob/master/week02/)
 
-Here we focus on quantitative methods for describing texts, focusing on
-summary measures that highlight particular characteristics of documents
-and allowing these to be compared. We will also discuss issues
-including where to obtain textual data; formatting and working with text
-files; indexing and meta-data; units of analysis; and definitions of
-features and measures commonly extracted from texts, including stemming,
-and stop-words.
+This lecture will cover the standard method for quantifying texts (the 
+document feature matrix or DFM) and provide a high-level overview of 
+the primary analytical approaches used with DFMs.
 
-*Reading:*
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, chs. 3-9)
+
+**Further Reading**
 * Krippendorff (2013, Chs. 9–10)
 * Dunning (1993)
 * Däubler et al. (2012)
-
-*Further Reading:*
 * DuBay (2004)
 
-*Seminar Materials:* See the Moodle page for your course (links above).
+**Seminar Materials**
+* _to be posted_
 
-*Github Reference Materials:* [Click here](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
+#### Week 3: [Exploiting Word Meanings](https://github.com/lse-my459/lectures/blob/master/week03/)
 
-#### Week 3: [Automated dictionary methods]()<!--(https://github.com/lse-my459/lectures/blob/master/week03/)-->
+This lecture will cover methods that use word meanings to learn about 
+documents or social science concepts, including automated dictionary and 
+discriminating words methods.
 
-Automatic dictionary-based methods involve association of pre-defined
-word lists with particular quantitative values assigned by the
-researcher for some characteristic of interest. This topic covers the
-design model behind dictionary construction, including guidelines for
-testing and refining dictionaries. Hand-on work will cover commonly used
-dictionaries such as LIWC, RID, and the Harvard IV-4, with applications.
-We will also review a variety of text pre-processing issues and textual
-data concepts such as word types, tokens, and equivalencies, including
-word stemming and trimming of words based on term and/or document
-frequency.
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, chs. 11 and 16)
 
-*Reading:*
+**Further Reading**
 * Neuendorf (2002, Ch. 6)
 * Young and Soroka (2012)
 * Rooduijn and Pauwels (2011)
-
-*Further Reading:*
 * Laver and Garry (2000)
 * Loughran and McDonald (2011)
 * Tausczik and Pennebaker (2010)
+* Monroe, Colaresi and Quinn (2008)
+* Nelson (2020)
 
-#### Week 4: [Machine Learning for Texts]()<!--(https://github.com/lse-my459/lectures/blob/master/week04/)-->
+#### Week 4: [Classifying Texts into Categories](https://github.com/lse-my459/lectures/blob/master/week04/)
 
-Classification methods permit the automatic classification of texts in a
-test set following machine learning from a training set. We will
-introduce machine learning methods for classifying documents, including
-one of the most popular classifiers, the Naive Bayes model. The topic
-also introduces validation and reporting methods for classifiers and
-discusses where these methods are applicable.
+This lecture will cover machine learning methods for classifying texts 
+into a set of meaningful categories.
 
-*Reading:*
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, chs. 17-20)
+
+**Further Reading**
 * Manning, Raghavan and Schütze (2008, Ch. 13)
 * Evans et al. (2007)
 * Miller et. al. (2020)
-
-*Further Reading:*
 * Lantz (2013, Ch. 4 on Naive Bayes)
 * James et al (2013). Chapters 1, 3, and 5.
 * Lantz (2013, Ch. 10)
@@ -246,72 +246,62 @@ discusses where these methods are applicable.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-*Seminar Materials:* See the Moodle page for your course (links above).
+**Seminar Materials**
+* _to be posted_
 
-#### Week 5: [Supervised Scaling Models for Texts]()<!--(https://github.com/lse-my459/lectures/blob/master/week05/)-->
+#### Week 5: [Scaling Latent Traits Using Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
 
-Building on the Naive Bayes classifier, we introduce the "Wordscores" method of
-Laver, Benoit and Garry (2003) for scaling latent traits, and show the link
-between classification and scaling.
+This lecture will cover methods for placing texts on a latent trait 
+scale, such as an ideological scale.
 
-*Reading:*
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, sections 16.3.1 and 21.2)
+* Laver, Benoit and Garry (2003)
+* Slapin and Proksch (2008)
+
+**Further Reading**
 * Laver, Benoit and Garry (2003)
 * Evans et al. (2007)
-
-*Further Reading:*
+* Slapin and Proksch (2008)
+* Lowe and Benoit (2013)
 * Benoit and Nulty (2013)
 * Martin and Vanberg (2007)
 * Benoit and Laver (2008)
 * Lowe (2008)
-
-#### Week 6: NO LECTURES OR SEMINARS (READING WEEK)
-
-#### Week 7: [Unsupervised Models for Scaling Texts]()<!--(https://github.com/lse-my459/lectures/blob/master/week07/)-->
-
-This session continues text scaling using unsupervised scaling methods,
-based on parametric approaches modelling features as Poisson distributed (Wordfish
-and Wordshoal) or non-parametric approaches such as correspodence analysis.
-
-*Reading:*
-* Slapin and Proksch (2008)
-* Lowe and Benoit (2013)
-
-*Further Reading:*
 * Lauderdale and Herzog (2016)
 * Mikolov et al. (2013)
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
-*Seminar Materials:* See the Moodle page for your course (links above).
 
-#### Week 8: [Similarity and clustering methods]()<!--(https://github.com/lse-my459/lectures/blob/master/week08/)-->
+#### Week 6: NO LECTURES OR CLASSES/SEMINARS (READING WEEK)
 
-Vector representations of documents, measuring distance and similarity,
-hierarchical and k-means clustering. This topic also revisits feature
-selection and weighting methods, especially *tf-idf*.
+#### Week 7: [Text Similarity and Clustering](https://github.com/lse-my459/lectures/blob/master/week07/)
 
-*Reading:*
-* Manning, Raghavan and Schütze (2008, Ch. 6)
-* Choi, Cha and Tappert (2010)
+This lecture will cover methods to measuring distance and similarity 
+between documents, as well as standard approaches for clustering many 
+documents into groups of similar documents.
 
-*Further Reading:*
-* Corley and Mihalcea (2005)
-* James et al. (2013, Ch. 10.3)
+**Primary Reading**
+* 
 
-* Zumel and Mount (2014, Ch. 8)
+**Further Reading**
+* 
 
-#### Week 9: [Probabilistic topic models]()<!--(https://github.com/lse-my459/lectures/blob/master/week09/)-->
+**Seminar Materials**
+* _to be posted_
 
-This session will discuss probabilistic topic models. We will learn how to run the Latent
-Dirichlet Allocation (LDA) model and the Structural
-Topic Model (STM), which allows researchers to use covariates to learn
-about the prevalence and content of topics.
+#### Week 8: [Probabilistic Topic Models](https://github.com/lse-my459/lectures/blob/master/week08/)
 
-*Reading:*
+This lecture will discuss probabilistic topic models such as the Latent
+Dirichlet Allocation (LDA) model and the Structural Topic Model (STM).
+
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, ch. 13)
+
+**Further Reading**
 * Blei (2012)
 * Roberts et al. (2014)
-
-*Further Reading:*
 * Blei, Ng and Jordan (2003)
 * Beil, Ester and Xu (2002)
 * Chang et al. (2009)
@@ -319,34 +309,47 @@ about the prevalence and content of topics.
 * Lucas et al (2015)
 * Manning, Raghavan and Schütze (2008, Ch. 16–17)
 
-*Seminar Materials:* See the Moodle page for your course (links above).
+#### Week 9: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/week09/)
 
-#### Week 10: [Word embedding fundamentals]()<!--(https://github.com/lse-my459/lectures/blob/master/week10/)-->
+This lecture will review key mathematical and methodological concepts, 
+as well as introduce fundamental neural network architectures for text 
+processing. These topics will form the basis for the final three weeks 
+of the course.
 
-This week will discuss fundamentals of numerical vector representations for words.
+**Note:** Before the lecture, please watch the first two videos from 
+3Blue1Brown's neural networks series: 
+<https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
 
-*Reading:*
+**Seminar Materials**
+* _to be posted_
 
+#### Week 10: [Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/week10/)
+
+This lecture will introduce the fundamentals of static word embeddings, 
+i.e. fixed numerical vector representations of words.
+
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, ch. 8)
+* Mikolov et al (2013)
+* Pennington et al (2014)
+
+**Further Reading**
 * Spirling and Rodriguez (2019)
 * Caliskan et al (2017)
 
-*Further Reading:*
-* Gurciullo and Mikhaylov (2017)
-* Mikolov et al (2013)
+#### Week 11: [Large Language Models and Alignment](https://github.com/lse-my459/lectures/blob/master/week11/)
 
-#### Week 11: [Neural network based language models]()<!--(https://github.com/lse-my459/lectures/blob/master/week11/)-->
+This lecture will provide a high level overview of current neural network 
+based language models that form the foundation of tools like ChatGPT.
 
-This week will give a high level overview of some current neural network based models for text that go beyond the bag-of-words assumption.
+**Further Resources**
+* Recent overview talk on LLMs by Andrej Karpathy: 
+<https://www.youtube.com/watch?v=zjkBMFhNj_g>
+* The Illustrated Transformer by Jay Alammar: 
+<https://jalammar.github.io/illustrated-transformer/>
 
-*Before the lecture:*
-
-* Please watch the first two of the following videos on neural networks by 3Blue1Brown: <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
-
-*Further materials (optional!):*
-* Recent overview talk on LLMs by Andrej Karpathy: <https://www.youtube.com/watch?v=zjkBMFhNj_g>
-* The Illustrated Transformer by Jay Alammar: <https://jalammar.github.io/illustrated-transformer/>
-
-*Seminar Materials:* See the Moodle page for your course (links above).
+**Seminar Materials**
+* _to be posted_
 
 ### References
 
