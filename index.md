@@ -129,10 +129,12 @@ There are many other textbooks covering various topics in quantitative
 text analysis from a variety of academic perspectives. Two of the most 
 commonly cited are:
 
-- Krippendorff, K. (2013). *Content Analysis: An Introduction to Its 
-Methodology*. Sage, Thousand Oaks, CA, 3rd edition. This textbook is 
+- Krippendorff, K. (2019). *Content Analysis: An Introduction to Its 
+Methodology*. Sage, Thousand Oaks, CA, 4th edition. This textbook is 
 a good primer for _manual_ methods of content analysis and coverage of 
-some of the same fundamentals faced in quantitative text analysis.
+some of the same fundamentals faced in quantitative text analysis. It
+is available through the LSE library 
+[here](https://librarysearch.lse.ac.uk/permalink/44LSE_INST/9pddrg/cdi_askewsholts_vlebooks_9781506395678).
 
 - Jurafsky, Daniel and James H. Martin (2024). *Speech and Language 
 Processing: An Introduction to Natural Language Processing, Computational 
@@ -185,8 +187,7 @@ and cover core principles of digital text.
 * Grimmer and Stewart (2013)
 * Manning, Raghavan and Schütze (2008, 117–120)
 * Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
-* Neuendorf (2002, Chs. 4–7)
-* Krippendorff (2013, Ch. 6)
+* Neuendorf (2002, Chs. 4–7), available through the LSE Library [here](https://librarysearch.lse.ac.uk/permalink/44LSE_INST/9pddrg/cdi_askewsholts_vlebooks_9781506361451)
 
 #### Week 2: [Quantifying Texts](https://github.com/lse-my459/lectures/blob/master/week02/)
 
@@ -198,13 +199,13 @@ the primary analytical approaches used with DFMs.
 * Grimmer, Roberts and Stewart (2022, chs. 3-9)
 
 **Further Reading**
-* Krippendorff (2013, Chs. 9–10)
+* Krippendorff (2019, Ch. 6, 9–10)
 * Dunning (1993)
 * Däubler et al. (2012)
 * DuBay (2004)
 
-**Seminar Materials**
-* _to be posted_
+**Seminar Materials** are available in the [week 2 directory](https://github.com/lse-my459/lectures/blob/master/week02/) on GitHub
+
 
 #### Week 3: [Exploiting Word Meanings](https://github.com/lse-my459/lectures/blob/master/week03/)
 
@@ -407,7 +408,7 @@ Jürgens, Pascal and Andreas Jungherr. 2016. “A Tutorial for Using Twitter Dat
 
 Klašnja, M., Barberá, P., Beauchamp, N., Nagler, J., & Tucker, J. 2016. "[Measuring public opinion with social media data.](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190213299.001.0001/oxfordhb-9780190213299-e-3)" In The Oxford Handbook of Polling and Survey Methods.
 
-Krippendorff, Klaus. 2013. _Content Analysis: An Introduction to Its Methodology_. 3rd ed. Thousand Oaks, CA: Sage.
+Krippendorff, Klaus. 2019. _Content Analysis: An Introduction to Its Methodology_. 4th ed. Thousand Oaks, CA: Sage.
 
 Lampos, Vasileios, Daniel Preotiuc-Pietro and Trevor Cohn. 2013. A user-centric model of voting intention from Social Media. In _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL)_.
 
