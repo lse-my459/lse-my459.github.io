@@ -56,8 +56,6 @@ If you are in need of administrative support for this course:
 [r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
 * For other administrative issues related to MY459 or MY559: 
 [r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
-* For other administrative issues related to MY360: 
-[f.c.geiecke@lse.ac.uk](mailto:f.c.geiecke@lse.ac.uk)
 
 For all questions about _course content_, please schedule office hours 
 with one of the instructors.
@@ -86,8 +84,7 @@ technique will be applied using appropriate software to real texts.
 
 ### Prerequisites
 
-Students must have completed MY452 (for MY459) or ST107 (for MY360), or
-equivalent.
+Students must have completed MY452 (for MY459) or equivalent.
 
 All methods will be implemented in R, often using the R packages 
 in `tidyverse` as well as `quanteda`, all available from CRAN. We may 
