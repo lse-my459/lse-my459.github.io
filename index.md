@@ -6,23 +6,23 @@ colorlinks: true
 ---
 
 ![LSE](lse-logo.jpg)
-# Course Website for MY459 and MY360: Quantitative Text Analysis 
+# Winter Term 2025
 
-**Please note that the following information has not been updated for Winter 
+**Please note that the following information has not been fully updated for Winter 
 Term 2026. An updated syllabus will be posted before the first lecture.**
-
-### Winter Term 2025
 
 ### Instructors
 
 * [Ryan Hübert](mailto:r.hubert@lse.ac.uk), Department of Methodology. 
-_Course convenor for MY459._
+_Course convenor._
 * [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of 
-Methodology. _Course convenor for MY360._
+Methodology.
 
 All office hours should be booked on [StudentHub](https://studenthub.lse.ac.uk/).
 
 ### Course Information
+
+_Please check the official LSE Timetable for the most up-to-date scheduling information!_
 
 * Lectures will take place Mondays 10:00-12:00 in CLM.3.02 during all 
 Winter Term weeks except week 6 (LSE Reading Week).
@@ -30,8 +30,7 @@ Winter Term weeks except week 6 (LSE Reading Week).
 Weeks 2, 4, 7, 9 and 11. Please see the LSE Timetable for times and 
 locations of the seminars.
 * Course Moodle pages (for announcements and some supplemental materials): 
-[MY459](https://moodle.lse.ac.uk/course/view.php?id=10949), 
-[MY360](https://moodle.lse.ac.uk/course/view.php?id=10933)
+[MY459](https://moodle.lse.ac.uk/course/view.php?id=13640).
 
 | **Week** | **Topic** | **Instructor** |
 | 1 | [Introduction and Foundations](#week-1-introduction-and-foundations) | Ryan Hübert |
