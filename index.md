@@ -8,8 +8,8 @@ colorlinks: true
 ![LSE](lse-logo.jpg)
 # Course Website for MY459 and MY360: Quantitative Text Analysis 
 
-_Please note that the information on this page is provisional until the 
-first lecture._
+**Please note that the following information has not been updated for Winter 
+Term 2026. An updated syllabus will be posted before the first lecture.**
 
 ### Winter Term 2025
 
