@@ -40,10 +40,10 @@ locations of the seminars.
 | 5 | [Scaling Latent Traits Using Texts](#week-5-scaling-latent-traits-using-texts) | Ryan Hübert |
 | 6 | _Reading Week_ | |
 | 7 | [Text Similarity and Clustering](#week-7-text-similarity-and-clustering) | Ryan Hübert |
-| 8 | [Probabilistic Topic Models](#week-8-probabilistic-topic-models) | Friedrich Geiecke |
-| 9 | [Methods Review and Neural Network Fundamentals](#week-9-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
-| 10 | [Static Word Embeddings](#week-10-static-word-embeddings) | Friedrich Geiecke |
-| 11 | [Large Language Models and Alignment](#week-11-large-language-models-and-alignment) | Friedrich Geiecke |
+| 8 | [Methods Review and Neural Network Fundamentals](#week-8-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
+| 9 | [Neural Networks Continued and Static Word Embeddings](#week-9-neural-networks-continued-and-static-word-embeddings) | Friedrich Geiecke |
+| 10 | [Large Language Models I](#week-10-large-language-models-i) | Friedrich Geiecke |
+| 11 | [Large Language Models II](#week-11-large-language-models-ii) | Friedrich Geiecke |
 
 
 ### Administrative and Course Support
@@ -292,42 +292,17 @@ documents into groups of similar documents.
 **Seminar Materials**
 * _to be posted_
 
-#### Week 8: [Probabilistic Topic Models](https://github.com/lse-my459/lectures/blob/master/week08/)
+#### Week 8: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/week08/)
 
-This lecture will discuss probabilistic topic models such as the Latent
-Dirichlet Allocation (LDA) model and the Structural Topic Model (STM).
-
-**Primary Reading**
-* Grimmer, Roberts and Stewart (2022, ch. 13)
-
-**Further Reading**
-* Blei (2012)
-* Roberts et al. (2014)
-* Blei, Ng and Jordan (2003)
-* Beil, Ester and Xu (2002)
-* Chang et al. (2009)
-* Gilardi et al. (2017)
-* Lucas et al (2015)
-* Manning, Raghavan and Schütze (2008, Ch. 16–17)
-
-#### Week 9: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/week09/)
-
-This lecture will review key mathematical and methodological concepts, 
-as well as introduce fundamental neural network architectures for text 
-processing. These topics will form the basis for the final three weeks 
-of the course.
+This lecture will review some fundamentals of vectors and matrices, derivatives, and optimisation with gradient descent. Time permitting, it will then begin an introduction to neural networks, which will be continued the following week.
 
 **Note:** Before the lecture, please watch the first two videos from 
 3Blue1Brown's neural networks series: 
 <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
 
-**Seminar Materials**
-* _to be posted_
+#### Week 9: [Neural Networks Continued and Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/week09/)
 
-#### Week 10: [Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/week10/)
-
-This lecture will introduce the fundamentals of static word embeddings, 
-i.e. fixed numerical vector representations of words.
+After completing the introductions to neural networks, this lecture will discuss fundamentals of static word embeddings, i.e. fixed numerical vector representations of words.
 
 **Primary Reading**
 * Grimmer, Roberts and Stewart (2022, ch. 8)
@@ -338,16 +313,25 @@ i.e. fixed numerical vector representations of words.
 * Spirling and Rodriguez (2019)
 * Caliskan et al (2017)
 
-#### Week 11: [Large Language Models and Alignment](https://github.com/lse-my459/lectures/blob/master/week11/)
+**Seminar Materials**
+* _to be posted_
 
-This lecture will provide a high level overview of current neural network 
-based language models that form the foundation of tools like ChatGPT.
+#### Week 10: [Large Language Models I](https://github.com/lse-my459/lectures/blob/master/week10/)
+
+This lecture will introduce principles of tokenisation, the transformer architecture and its attention mechanism, and an overview of LLM pre-training.
 
 **Further Resources**
-* Recent overview talk on LLMs by Andrej Karpathy: 
-<https://www.youtube.com/watch?v=zjkBMFhNj_g>
+* Overview talk on LLMs by Andrej Karpathy: 
+<https://www.youtube.com/watch?v=7xTGNNLPyMI>
 * The Illustrated Transformer by Jay Alammar: 
 <https://jalammar.github.io/illustrated-transformer/>
+
+#### Week 11: [Large Language Models II](https://github.com/lse-my459/lectures/blob/master/week11/)
+
+This lecture will continue the discussion of LLMs, with a focus on post-training via supervised fine-tuning and reinforcement learning.
+
+**Further Resources**
+* TBA
 
 **Seminar Materials**
 * _to be posted_
