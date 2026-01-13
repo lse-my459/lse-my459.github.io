@@ -41,7 +41,7 @@ locations of the seminars.
 | 6 | _Reading Week_ | |
 | 7 | [Text Similarity and Clustering](#week-7-text-similarity-and-clustering) | Ryan Hübert |
 | 8 | [Methods Review and Neural Network Fundamentals](#week-8-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
-| 9 | [Neural Networks Continued and Static Word Embeddings](#week-9-neural-networks-continued-and-static-word-embeddings) | Friedrich Geiecke |
+| 9 | [Neural Network Fundamentals Continued and Static Word Embeddings](#week-9-neural-network-fundamentals-continued-and-static-word-embeddings) | Friedrich Geiecke |
 | 10 | [Large Language Models I](#week-10-large-language-models-i) | Friedrich Geiecke |
 | 11 | [Large Language Models II](#week-11-large-language-models-ii) | Friedrich Geiecke |
 
@@ -300,7 +300,7 @@ This lecture will review some fundamentals of vectors and matrices, derivatives,
 3Blue1Brown's neural networks series: 
 <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
 
-#### Week 9: [Neural Networks Continued and Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/week09/)
+#### Week 9: [Neural Network Fundamentals Continued and Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/week09/)
 
 After completing the introductions to neural networks, this lecture will discuss fundamentals of static word embeddings, i.e. fixed numerical vector representations of words.
 
