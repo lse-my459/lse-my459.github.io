@@ -6,31 +6,31 @@ colorlinks: true
 ---
 
 ![LSE](lse-logo.jpg)
-# Winter Term 2025
+# Winter Term 2026
 
-**Please note that the following information has not been fully updated for Winter 
-Term 2026. An updated syllabus will be posted before the first lecture.**
+**Please note that the following information has not been (fully) updated for Winter Term 2026. All updates will be completed before the first lecture on 19th January 2026.**
 
 ### Instructors
 
-* [Ryan Hübert](mailto:r.hubert@lse.ac.uk), Department of Methodology. 
-_Course convenor._
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of 
-Methodology.
+* [Ryan Hübert](mailto:r.hubert@lse.ac.uk), Department of Methodology. _Course convenor._
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.
 
 All office hours should be booked on [StudentHub](https://studenthub.lse.ac.uk/).
 
-### Course Information
+### Course Meetings
 
 _Please check the official LSE Timetable for the most up-to-date scheduling information!_
 
-* Lectures will take place Mondays 10:00-12:00 in CLM.3.02 during all 
-Winter Term weeks except week 6 (LSE Reading Week).
-* Seminars are two hours and will take place every other week, during 
-Weeks 2, 4, 7, 9 and 11. Please see the LSE Timetable for times and 
+* Lectures will take place Mondays 10:00-12:00 in CLM.3.02 during all Winter Term weeks except week 6 (LSE Reading Week).
+* Seminars are two hours and will take place every other week, during Weeks 2, 4, 7, 9 and 11. Please see the LSE Timetable for times and 
 locations of the seminars.
-* Course Moodle pages (for announcements and some supplemental materials): 
-[MY459](https://moodle.lse.ac.uk/course/view.php?id=13640).
+
+### Outline of Topics
+
+There are 10 topics in this course:
+
+* Each topic will correspond to roughly one lecture, although some topics may span more than one lecture.
+* Topics are numbered using WT term week numbers, meaning that there is no "Topic 6", since week 6 is a reading week.
 
 | **Week** | **Topic** | **Instructor** |
 | 1 | [Introduction and Foundations](#week-1-introduction-and-foundations) | Ryan Hübert |
@@ -45,70 +45,48 @@ locations of the seminars.
 | 10 | [Large Language Models I](#week-10-large-language-models-i) | Friedrich Geiecke |
 | 11 | [Large Language Models II](#week-11-large-language-models-ii) | Friedrich Geiecke |
 
+### Course Materials
+
+* [Course GitHub repository](https://github.com/lse-my459/): for lecture slides and seminar materials
+* [Course Moodle page](https://moodle.lse.ac.uk/course/view.php?id=13640): for announcements and some supplemental materials
+
+Course materials will be posted at least one hour before lectures and seminars.
 
 ### Administrative and Course Support
 
 If you are in need of administrative support for this course:
 
-* For auditing, registration, extensions, late assignments and department/school policy questions: 
-[methodology.admin@lse.ac.uk](mailto:methodology.admin@lse.ac.uk)
-* For questions about course platforms, including Moodle, website or GitHub Classrooms: 
-[r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
-* For other administrative issues related to MY459 or MY559: 
-[r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
+* For auditing, registration, extensions, late assignments and department/school policy questions: [methodology.admin@lse.ac.uk](mailto:methodology.admin@lse.ac.uk)
+* For questions about course platforms, including Moodle, website or GitHub Classrooms: [r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
+* For other administrative issues related to MY459 or MY559: [r.hubert@lse.ac.uk](mailto:r.hubert@lse.ac.uk)
 
-For all questions about _course content_, please schedule office hours 
-with one of the instructors.
-
-### Course Description
-
-The course surveys methods for systematically extracting quantitative
-information from texts for social scientific purposes, starting with the 
-fundamentals of representing texts as quantitative data, then proceeding 
-to explore several methods commonly used to draw social scientific 
-lessons from texts. The course concludes with an introduction to the 
-methods behind recent advances in large language models that serve as 
-the basis of services like ChatGPT. The course lays a theoretical 
-foundation for text analysis in the social sciences, but it also takes a 
-practical and applied approach so that students learn how to apply these 
-methods in research. The common focus across all methods is that they can 
-be reduced to a three-step process: first, identifying texts and units of 
-texts for analysis; second, extracting from the texts quantitatively 
-measured features---such as coded content categories, word counts, word 
-types, dictionary counts, or parts of speech---and converting these into 
-a quantitative matrix; and third, using quantitative or statistical 
-methods to analyse this matrix in order to generate inferences about the 
-texts or their authors. The course systematically covers these methods 
-in a logical progression, with a practical, hands-on approach where each 
-technique will be applied using appropriate software to real texts.
+For all questions about _course content_, please schedule office hours with one of the instructors.
 
 ### Prerequisites
 
-Students must have completed MY452 (for MY459) or equivalent.
+**This is a technical graduate-level course**
 
-All methods will be implemented in R, often using the R packages 
-in `tidyverse` as well as `quanteda`, all available from CRAN. We may 
-also occasionally demonstrate how to do various quantitative text 
-analysis tasks in python.
+We will assume:
 
-**We will assume all students have access to a computer that is capable 
-of performing the quantitative text analysis techniques taught in this 
-course, as well as a strong working knowledge of R and sufficient 
-experience using it for data analysis. See Moodle for more
-detail on how you can prepare.** 
+* You have exposure to calculus, elementary linear algebra and have taken quantitative methods courses up to and including the equivalent of MY452.
+* You have access to a laptop that can run the required software for the course and that you will bring to class.
+* You are comfortable with Python and VS Code, and know how to work with iPython notebooks.
+* You are willing and eager to engage with mathematical notation and concepts, as well as with code.
+
+See the [Course Moodle page](https://moodle.lse.ac.uk/course/view.php?id=13640) for more information about the computational requirements of this course.
 
 ### Assessments
 
-* Formative: there will be one formative problem set during the Winter 
-Term.
-* Summative: there will be one two-hour exam during Spring Term (worth 
-100% of your final mark).
+* Formative: 
+	* Weekly exercises in seminars
+	* One quiz during the fall term
+* Summative: there will be one two-hour exam during Spring Term (worth 100% of your final mark).
 
 We will provide more details later in WT.
 
 ### Recommended Texts
 
-There are a wide range of textbooks on quantative text analysis. Since 
+There are a wide range of relevant textbooks. Since 
 our focus in this course is on social science applications, we will rely 
 heavily on a recent (and very good!) textbook on the topic:
 
@@ -142,15 +120,6 @@ for the more technical aspects of quantitative text analysis.
 Many of the readings listed below are articles, which are typically 
 available via the LSE library.
 
-### Coding Cheat Sheets
-
-Coding "cheat sheets" contain useful code examples to get you started. 
-Please refer to these materials before you book office hours!
-
-- [`stringr` package](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)
-- [`quanteda` package](https://muellerstefan.net/files/quanteda-cheatsheet.pdf)  
-- [Regular Expressions](https://github.com/ashchan/cheatsheets/blob/master/misc/regular-expressions-cheat-sheet-v2.pdf)  
-
 ### Credits
 
 A large proportion of the materials were adapted from content developed 
@@ -159,22 +128,14 @@ Some of the exercises were developed by Christian Mueller and Akitaka Matsuo.
 
 ### Schedule of Topics
 
-*We may make minor modifications to the timing or ordering of topics as 
-the term progresses, but we will not make any major revisions to the 
-topics we plan to cover in this course.*
+**We may make some modifications to the timing of topics or the reading lists as the term progresses. However, we will not make any _major_ revisions to the topics we plan to cover in this course after the syllabus is finalised for the first lecture on 19th January 2026.**
 
-**Lecture slides, example code and reading lists will be updated in 
-advance of each week's teaching. Please check back regularly.**
-
-#### Week 1. [Introduction and Foundations](https://github.com/lse-my459/lectures/blob/master/week01/)
+#### Topic 1: [Introduction and Foundations](https://github.com/lse-my459/lectures/blob/master/topic01/)
 
 This lecture will begin with a conceptual overview of the main themes 
 covered in this course, including why scholars use quantitative text 
 analysis. Then, it will review course logistics and prerequisites, 
 and cover core principles of digital text. 
-
-**Coding Resources**
-* Github Reference Materials](https://github.com/lse-my459/lectures/tree/master/github-user-guides)
 
 **Primary Reading**
 * Grimmer, Roberts and Stewart (2022, chs. 1-2)
@@ -185,7 +146,7 @@ and cover core principles of digital text.
 * Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
 * Neuendorf (2002, Chs. 4–7), available through the LSE Library [here](https://librarysearch.lse.ac.uk/permalink/44LSE_INST/9pddrg/cdi_askewsholts_vlebooks_9781506361451)
 
-#### Week 2: [Quantifying Texts](https://github.com/lse-my459/lectures/blob/master/week02/)
+#### Topic 2: [Quantifying Texts](https://github.com/lse-my459/lectures/blob/master/topic02/)
 
 This lecture will cover the standard method for quantifying texts (the 
 document feature matrix or DFM) and provide a high-level overview of 
@@ -200,10 +161,7 @@ the primary analytical approaches used with DFMs.
 * Däubler et al. (2012)
 * DuBay (2004)
 
-**Seminar Materials** are available in the [week 2 directory](https://github.com/lse-my459/lectures/blob/master/week02/) on GitHub
-
-
-#### Week 3: [Exploiting Word Meanings](https://github.com/lse-my459/lectures/blob/master/week03/)
+#### Topic 3: [Exploiting Word Meanings](https://github.com/lse-my459/lectures/blob/master/topic03/)
 
 This lecture will cover methods that use word meanings to learn about 
 documents or social science concepts, including automated dictionary and 
@@ -222,7 +180,7 @@ discriminating words methods.
 * Monroe, Colaresi and Quinn (2008)
 * Nelson (2020)
 
-#### Week 4: [Classifying Texts into Categories](https://github.com/lse-my459/lectures/blob/master/week04/)
+#### Topic 4: [Classifying Texts into Categories](https://github.com/lse-my459/lectures/blob/master/topic04/)
 
 This lecture will cover machine learning methods for classifying texts 
 into a set of meaningful categories.
@@ -243,10 +201,7 @@ into a set of meaningful categories.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-**Seminar Materials**
-* _to be posted_
-
-#### Week 5: [Scaling Latent Traits Using Texts](https://github.com/lse-my459/lectures/blob/master/week05/)
+#### Topic 5: [Scaling Latent Traits Using Texts](https://github.com/lse-my459/lectures/blob/master/topic05/)
 
 This lecture will cover methods for placing texts on a latent trait 
 scale, such as an ideological scale.
@@ -270,10 +225,9 @@ scale, such as an ideological scale.
 * Pomeroy et al (2018)
 * Schonhardt-Bailey (2008)
 
+#### Topic 6: NO LECTURES OR CLASSES/SEMINARS (READING WEEK)
 
-#### Week 6: NO LECTURES OR CLASSES/SEMINARS (READING WEEK)
-
-#### Week 7: [Text Similarity and Clustering](https://github.com/lse-my459/lectures/blob/master/week07/)
+#### Topic 7: [Text Similarity and Clustering](https://github.com/lse-my459/lectures/blob/master/topic07/)
 
 This lecture will cover methods to measuring distance and similarity 
 between documents, as well as standard approaches for clustering many 
@@ -289,10 +243,7 @@ documents into groups of similar documents.
 * James et al. (2013, Ch. 10.3)
 * Zumel and Mount (2014, Ch. 8)
 
-**Seminar Materials**
-* _to be posted_
-
-#### Week 8: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/week08/)
+#### Topic 8: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/topic08/)
 
 This lecture will review some fundamentals of vectors and matrices, derivatives, and optimisation with gradient descent. Time permitting, it will then begin an introduction to neural networks, which will be continued the following week.
 
@@ -300,7 +251,7 @@ This lecture will review some fundamentals of vectors and matrices, derivatives,
 3Blue1Brown's neural networks series: 
 <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
 
-#### Week 9: [Neural Network Fundamentals Continued and Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/week09/)
+#### Topic 9: [Neural Network Fundamentals Continued and Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/topic09/)
 
 After completing the introductions to neural networks, this lecture will discuss fundamentals of static word embeddings, i.e. fixed numerical vector representations of words.
 
@@ -313,10 +264,7 @@ After completing the introductions to neural networks, this lecture will discuss
 * Spirling and Rodriguez (2019)
 * Caliskan et al (2017)
 
-**Seminar Materials**
-* _to be posted_
-
-#### Week 10: [Large Language Models I](https://github.com/lse-my459/lectures/blob/master/week10/)
+#### Topic 10: [Large Language Models I](https://github.com/lse-my459/lectures/blob/master/topic10/)
 
 This lecture will introduce principles of tokenisation, the transformer architecture and its attention mechanism, and an overview of LLM pre-training.
 
@@ -326,15 +274,12 @@ This lecture will introduce principles of tokenisation, the transformer architec
 * The Illustrated Transformer by Jay Alammar: 
 <https://jalammar.github.io/illustrated-transformer/>
 
-#### Week 11: [Large Language Models II](https://github.com/lse-my459/lectures/blob/master/week11/)
+#### Topic 11: [Large Language Models II](https://github.com/lse-my459/lectures/blob/master/topic11/)
 
 This lecture will continue the discussion of LLMs, with a focus on post-training via supervised fine-tuning and reinforcement learning.
 
 **Further Resources**
 * TBA
-
-**Seminar Materials**
-* _to be posted_
 
 ### References
 
