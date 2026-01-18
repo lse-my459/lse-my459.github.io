@@ -31,13 +31,14 @@ There are 10 topics in this course:
 
 * Each topic will correspond to roughly one lecture, although some topics may span more than one lecture.
 * Topics are numbered using WT term week numbers, meaning that there is no "Topic 6", since week 6 is a reading week.
+* We may make minor modifications to the topics during the term, so please check back regularly.
 
 | **Week** | **Topic** | **Instructor** |
 | 1 | [Introduction and Computational Foundations](#topic-1-introduction-and-computational-foundations) | Ryan Hübert |
 | 2 | [Quantifying Texts](#topic-2-quantifying-texts) | Ryan Hübert |
 | 3 | [Modelling Texts and Discriminating Words](#topic-3-modelling-texts-and-discriminating-words) | Ryan Hübert |
-| 4 | [Clustering and Topic Modelling](#topic-4-text-similarity-and-clustering) | Ryan Hübert |
-| 5 | [Word Counting Methods](#topic-5-word-countingethods) | Ryan Hübert |
+| 4 | [Clustering and Topic Modelling](#topic-4-clustering-and-topic-modelling) | Ryan Hübert |
+| 5 | [Word Counting Methods](#topic-5-word-counting-methods) | Ryan Hübert |
 | 6 | _Reading Week_ | |
 | 7 | [Classifying Texts](#topic-7-classifying-texts) | Ryan Hübert |
 | 8 | [Methods Review and Neural Network Fundamentals](#topic-8-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
