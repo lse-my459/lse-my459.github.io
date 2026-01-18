@@ -33,17 +33,17 @@ There are 10 topics in this course:
 * Topics are numbered using WT term week numbers, meaning that there is no "Topic 6", since week 6 is a reading week.
 
 | **Week** | **Topic** | **Instructor** |
-| 1 | [Introduction and Foundations](#week-1-introduction-and-foundations) | Ryan Hübert |
-| 2 | [Quantifying Texts](#week-2-quantifying-texts) | Ryan Hübert |
-| 3 | [Exploiting Word Meanings](#week-3-exploiting-word-meanings) | Ryan Hübert |
-| 4 | [Classifying Texts into Categories](#week-4-classifying-texts-into-categories) | Ryan Hübert |
-| 5 | [Scaling Latent Traits Using Texts](#week-5-scaling-latent-traits-using-texts) | Ryan Hübert |
+| 1 | [Introduction and Computational Foundations](#topic-1-introduction-and-computational-foundations) | Ryan Hübert |
+| 2 | [Quantifying Texts](#topic-2-quantifying-texts) | Ryan Hübert |
+| 3 | [Modelling Texts and Discriminating Words](#topic-3-modelling-texts-and-discriminating-words) | Ryan Hübert |
+| 4 | [Clustering and Topic Modelling](#topic-4-text-similarity-and-clustering) | Ryan Hübert |
+| 5 | [Word Counting Methods](#topic-5-word-countingethods) | Ryan Hübert |
 | 6 | _Reading Week_ | |
-| 7 | [Text Similarity and Clustering](#week-7-text-similarity-and-clustering) | Ryan Hübert |
-| 8 | [Methods Review and Neural Network Fundamentals](#week-8-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
-| 9 | [Neural Network Fundamentals Continued and Static Word Embeddings](#week-9-neural-network-fundamentals-continued-and-static-word-embeddings) | Friedrich Geiecke |
-| 10 | [Large Language Models I](#week-10-large-language-models-i) | Friedrich Geiecke |
-| 11 | [Large Language Models II](#week-11-large-language-models-ii) | Friedrich Geiecke |
+| 7 | [Classifying Texts](#topic-7-classifying-texts) | Ryan Hübert |
+| 8 | [Methods Review and Neural Network Fundamentals](#topic-8-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
+| 9 | [Neural Network Fundamentals Continued and Static Word Embeddings](#topic-9-neural-network-fundamentals-continued-and-static-word-embeddings) | Friedrich Geiecke |
+| 10 | [Large Language Models I](#topic-10-large-language-models-i) | Friedrich Geiecke |
+| 11 | [Large Language Models II](#topic-11-large-language-models-ii) | Friedrich Geiecke |
 
 ### Course Materials
 
@@ -130,21 +130,22 @@ Some of the exercises were developed by Christian Mueller and Akitaka Matsuo.
 
 **We may make some modifications to the timing of topics or the reading lists as the term progresses. However, we will not make any _major_ revisions to the topics we plan to cover in this course after the syllabus is finalised for the first lecture on 19th January 2026.**
 
-#### Topic 1: [Introduction and Foundations](https://github.com/lse-my459/lectures/blob/master/topic01/)
+#### Topic 1: [Introduction and Computational Foundations](https://github.com/lse-my459/lectures/blob/master/topic01/)
 
 This lecture will begin with a conceptual overview of the main themes 
-covered in this course, including why scholars use quantitative text 
-analysis. Then, it will review course logistics and prerequisites, 
-and cover core principles of digital text. 
+of this course. Then, it will review course logistics and prerequisites, 
+and then cover foundational ideas for working with digital data. 
 
 **Primary Reading**
 * Grimmer, Roberts and Stewart (2022, chs. 1-2)
+* Jurafsky and Martin (2026), sections 2.3, 2.6 and 2.9 in [ch. 2](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
 
 **Further Reading**
-* Grimmer and Stewart (2013)
-* Manning, Raghavan and Schütze (2008, 117–120)
-* Browse the different text file formats at <http://www.fileinfo.com/filetypes/text>
-* Neuendorf (2002, Chs. 4–7), available through the LSE Library [here](https://librarysearch.lse.ac.uk/permalink/44LSE_INST/9pddrg/cdi_askewsholts_vlebooks_9781506361451)
+* [Grimmer and Stewart (2013)](https://doi.org/10.1093/pan/mps028)
+* [Catalinac (2016)](http://doi.org/10.1086/683073)
+* Browse different text file formats at <http://www.fileinfo.com/filetypes/text>
+* [Justin Grimmer's Regular Expression Cheat Sheet](https://github.com/justingrimmer/tad_19/blob/73e462030a46f0a4eee656845cc7e7db03c986f8/regex.pdf)
+* [DataCamp Regular Expressions Cheat Sheet](https://www.datacamp.com/cheat-sheet/regular-expresso)
 
 #### Topic 2: [Quantifying Texts](https://github.com/lse-my459/lectures/blob/master/topic02/)
 
@@ -153,7 +154,8 @@ document feature matrix or DFM) and provide a high-level overview of
 the primary analytical approaches used with DFMs.
 
 **Primary Reading**
-* Grimmer, Roberts and Stewart (2022, chs. 3-9)
+* Grimmer, Roberts and Stewart (2022, chs. 3-5 and section 8.1)
+* Jurafsky and Martin (2026), sections 2.1 and 2.2 in [ch. 2](https://web.stanford.edu/~jurafsky/slp3/2.pdf) and [ch. 3](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
 
 **Further Reading**
 * Krippendorff (2019, Ch. 6, 9–10)
@@ -161,26 +163,50 @@ the primary analytical approaches used with DFMs.
 * Däubler et al. (2012)
 * DuBay (2004)
 
-#### Topic 3: [Exploiting Word Meanings](https://github.com/lse-my459/lectures/blob/master/topic03/)
+#### Topic 3: [Modelling Texts and Discriminating Words](https://github.com/lse-my459/lectures/blob/master/topic03/)
 
-This lecture will cover methods that use word meanings to learn about 
-documents or social science concepts, including automated dictionary and 
-discriminating words methods.
+This lecture will provide an overview of common approaches to modelling
+texts and methods for measuring how language is used differently across
+groups or contexts.
 
 **Primary Reading**
-* Grimmer, Roberts and Stewart (2022, chs. 11 and 16)
+* Grimmer, Roberts and Stewart (2022, chs. 6, 7 and 11)
 
 **Further Reading**
-* Neuendorf (2002, Ch. 6)
-* Young and Soroka (2012)
-* Rooduijn and Pauwels (2011)
-* Laver and Garry (2000)
-* Loughran and McDonald (2011)
-* Tausczik and Pennebaker (2010)
 * Monroe, Colaresi and Quinn (2008)
 * Nelson (2020)
 
-#### Topic 4: [Classifying Texts into Categories](https://github.com/lse-my459/lectures/blob/master/topic04/)
+#### Topic 4: [Clustering and Topic Modelling](https://github.com/lse-my459/lectures/blob/master/topic04/)
+
+This lecture will cover standard approaches for clustering many 
+documents into groups of similar documents, and learning the topics
+of documents in a set of documents.
+
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, chs. 12-13)
+
+**Further Reading**
+* Manning, Raghavan and Schütze (2008, Ch. 6)
+* Choi, Cha and Tappert (2010)
+* Corley and Mihalcea (2005)
+* James et al. (2013, Ch. 10.3)
+* Zumel and Mount (2014, Ch. 8)
+
+#### Topic 5: [Word Counting Methods](https://github.com/lse-my459/lectures/blob/master/topic05/)
+
+This lecture will cover methods that annotate and count words, including 
+keyword counting, automated dictionary methods, and supervised scaling.
+
+**Primary Reading**
+* Grimmer, Roberts and Stewart (2022, chs. 16)
+* Laver, Benoit and Garry (2003)
+
+**Further Reading**
+* TBA
+
+#### Topic 6: NO LECTURES OR CLASSES/SEMINARS (READING WEEK)
+
+#### Topic 7: [Classifying Texts](https://github.com/lse-my459/lectures/blob/master/topic07/)
 
 This lecture will cover machine learning methods for classifying texts 
 into a set of meaningful categories.
@@ -201,47 +227,6 @@ into a set of meaningful categories.
 * Yu, Kaufmann and Diermeier (2008)
 * Zumel and Mount (2014, Ch. 5–6)
 
-#### Topic 5: [Scaling Latent Traits Using Texts](https://github.com/lse-my459/lectures/blob/master/topic05/)
-
-This lecture will cover methods for placing texts on a latent trait 
-scale, such as an ideological scale.
-
-**Primary Reading**
-* Grimmer, Roberts and Stewart (2022, sections 16.3.1 and 21.2)
-* Laver, Benoit and Garry (2003)
-* Slapin and Proksch (2008)
-
-**Further Reading**
-* Laver, Benoit and Garry (2003)
-* Evans et al. (2007)
-* Slapin and Proksch (2008)
-* Lowe and Benoit (2013)
-* Benoit and Nulty (2013)
-* Martin and Vanberg (2007)
-* Benoit and Laver (2008)
-* Lowe (2008)
-* Lauderdale and Herzog (2016)
-* Mikolov et al. (2013)
-* Pomeroy et al (2018)
-* Schonhardt-Bailey (2008)
-
-#### Topic 6: NO LECTURES OR CLASSES/SEMINARS (READING WEEK)
-
-#### Topic 7: [Text Similarity and Clustering](https://github.com/lse-my459/lectures/blob/master/topic07/)
-
-This lecture will cover methods to measuring distance and similarity 
-between documents, as well as standard approaches for clustering many 
-documents into groups of similar documents.
-
-**Primary Reading**
-* Grimmer, Roberts and Stewart (2022, secs. 7.1-7.2 and ch. 12)
-
-**Further Reading**
-* Manning, Raghavan and Schütze (2008, Ch. 6)
-* Choi, Cha and Tappert (2010)
-* Corley and Mihalcea (2005)
-* James et al. (2013, Ch. 10.3)
-* Zumel and Mount (2014, Ch. 8)
 
 #### Topic 8: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/topic08/)
 
@@ -299,6 +284,8 @@ Blei, David M. 2012. “Probabilistic topic models.” _Communications of the AC
 Blei, D.M., A.Y. Ng and M.I. Jordan. 2003. “Latent dirichlet allocation.” _The Journal of Machine Learning Research_ 3:993–1022.
 
 Caliskan, A., Bryson, J.J., and Narayanan, A. 2017. "[Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183/tab-figures-data)", _Science_.
+
+Catalinac, Amy. 2016. "From Pork to Policy: The Rise of Programmatic Campaigning in Japanese Elections." _Journal of Politics_ 78(1): 1-18.
 
 Chang, J., J. Boyd-Graber, S. Gerrish, C. Wang and D. Blei. 2009. Reading tea leaves: How humans interpret topic models. In _Neural Information Processing Systems._
 
