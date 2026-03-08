@@ -8,8 +8,6 @@ colorlinks: true
 ![LSE](lse-logo.jpg)
 # Winter Term 2026
 
-**Please note that the following information has not been (fully) updated for Winter Term 2026. All updates will be completed before the first lecture on 19th January 2026.**
-
 ### Instructors
 
 * [Ryan Hübert](mailto:r.hubert@lse.ac.uk), Department of Methodology. _Course convenor._
@@ -41,8 +39,8 @@ There are 10 topics in this course:
 | 5 | [Word Counting Methods](#topic-5-word-counting-methods) | Ryan Hübert |
 | 6 | _Reading Week_ | |
 | 7 | [Classifying Texts](#topic-7-classifying-texts) | Ryan Hübert |
-| 8 | [Methods Review and Neural Network Fundamentals](#topic-8-methods-review-and-neural-network-fundamentals) | Friedrich Geiecke |
-| 9 | [Neural Network Fundamentals Continued and Static Word Embeddings](#topic-9-neural-network-fundamentals-continued-and-static-word-embeddings) | Friedrich Geiecke |
+| 8 | [Methods Review and Introduction to Neural Networks](#topic-8-methods-review-and-introduction-to-neural-networks) | Friedrich Geiecke |
+| 9 | [Fundamentals of Word Embeddings](#topic-9-fundamentals-of-word-embeddings) | Friedrich Geiecke |
 | 10 | [Large Language Models I](#topic-10-large-language-models-i) | Friedrich Geiecke |
 | 11 | [Large Language Models II](#topic-11-large-language-models-ii) | Friedrich Geiecke |
 
@@ -229,7 +227,7 @@ into a set of meaningful categories.
 * Zumel and Mount (2014, Ch. 5–6)
 
 
-#### Topic 8: [Methods Review and Neural Network Fundamentals](https://github.com/lse-my459/lectures/blob/master/topic08/)
+#### Topic 8: [Methods Review and Introduction to Neural Networks](https://github.com/lse-my459/lectures/blob/master/topic08/)
 
 This lecture will review some fundamentals of vectors and matrices, derivatives, and optimisation with gradient descent. Time permitting, it will then begin an introduction to neural networks, which will be continued the following week.
 
@@ -237,7 +235,7 @@ This lecture will review some fundamentals of vectors and matrices, derivatives,
 3Blue1Brown's neural networks series: 
 <https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi>
 
-#### Topic 9: [Neural Network Fundamentals Continued and Static Word Embeddings](https://github.com/lse-my459/lectures/blob/master/topic09/)
+#### Topic 9: [Fundamentals of Word Embeddings](https://github.com/lse-my459/lectures/blob/master/topic09/)
 
 After completing the introductions to neural networks, this lecture will discuss fundamentals of static word embeddings, i.e. fixed numerical vector representations of words.
 
